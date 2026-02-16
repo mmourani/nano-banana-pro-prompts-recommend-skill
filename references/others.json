@@ -12,6 +12,55 @@
     "needReferenceImages": true
   },
   {
+    "content": "Create an anime version of this guy in the middle.",
+    "title": "Anime Character Creation Prompt",
+    "description": "A simple prompt used for character creation, instructing the AI to generate an anime version of a specific person based on a reference image, intended as a visual anchor for video production.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771223979689_wwwqk6_HBO2-1qacAAnA-K.jpg",
+      "https://cms-assets.youmind.com/media/1771223979775_rzfqur_HBO3DVGa4AAPExq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Subject: an ornate bowl diorama containing a sacred spring shrine landscape, the bowl opened with an organic blended cutaway where the rim naturally transitions into fresh grass, flower clusters, moss, and soft soil so the boundary between bowl and terrain appears continuous and almost indistinguishable, revealing a miniature world with a delicate wooden shrine, blooming cherry blossom trees, gentle rolling ground, a small clear stream, petal-covered paths, and signs of seasonal renewal\nEnvironment: the bowl rests on a calm museum-style pedestal in a soft neutral studio space, inside the bowl is a self-contained spring ecosystem with layered grassy terrain, flowering shrubs, shallow stream banks, small stepping stones, drifting blossom petals, and light morning mist arranged for strong interior visibility through the blended opening\nStyle: hyper-detailed surreal realism, serene renewal atmosphere, sacred seasonal nature aesthetic, luxury ornamental craftsmanship, cinematic miniature photography look, ultra-precise botanical density, physically plausible seasonal textures, highly readable layered composition, premium Nano Banana Pro optimized detail density\nLighting: soft fresh spring morning light with gentle warm sunlight filtering through blossoms, subtle rim lighting catching engraved bowl ornament and translucent petals, faint shrine lantern warmth for balance, luminous atmospheric softness enhancing pastel seasonal tones while preserving detail\nCamera: three-quarter frontal angle aimed toward the blended opening, slightly elevated viewpoint for maximum terrain readability, miniature-scale shallow-to-moderate depth of field, sharp focus on shrine structure and transition zone where bowl merges into grass and flowers, 50–85mm equivalent lens\nMaterials: fine porcelain and brushed silver alloy bowl with engraved blossom branches, flowing vine filigree, and subtle seasonal relief sculpture, softly polished finish, the cutaway transition morphs organically into grassy soil, roots, and blooming ground cover so the bowl feels naturally grown into the landscape\nComposition: shrine positioned slightly off-center as the peaceful focal point, the stream and stepping stones guide the eye inward, blossom branches partially frame the upper scene, the blended rim forms a natural foreground of grass and flowers, interior terrain arranged in clear foreground meadow textures, midground shrine zone, and softly layered flowering backdrop\nRender Quality: ultra-high detail, crisp micro-geometry, realistic global illumination, natural petal translucency and gentle subsurface scattering, strong surface definition, clean background, no text, no watermark, visually coherent miniature scale, production-ready Nano Banana Pro output",
+    "title": "Ornate Diorama of a Spring Shrine Prompt",
+    "description": "A highly detailed prompt for generating a hyper-detailed surreal diorama image within an ornate bowl, depicting a sacred spring shrine landscape where the bowl's rim organically blends into the terrain, emphasizing luxury craftsmanship and serene seasonal aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771223952555_91tqbw_HBOIeSuaYAAuLF2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Dark romantic tabletop composition featuring {argument name=\"fabric\" default=\"burgundy velvet\"} fabric draped dramatically, {argument name=\"object 1\" default=\"antique brass candlestick with dripping wax\"}, gothic lace doily underneath crystal glass reflecting candlelight, deep shadows with selective golden highlights, black roses with water droplets, vintage oil painting texture overlay, moody chiaroscuro lighting, baroque-inspired arrangement, fine art photography with intentional vignette",
+    "title": "Dark Romantic Tabletop Composition Prompt",
+    "description": "A prompt for generating a moody, fine art photography image of a dark romantic tabletop composition. It specifies elements like burgundy velvet, antique brass, dripping wax, black roses, chiaroscuro lighting, and a vintage oil painting texture overlay.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771223961129_4nnqk3_HBNIpcdWwAAe_fK.jpg",
+      "https://cms-assets.youmind.com/media/1771223961147_o28pse_HBNIpcXWAAE2_Ta.jpg",
+      "https://cms-assets.youmind.com/media/1771223961140_6oi0tz_HBNIpcvbYAA2HL3.jpg",
+      "https://cms-assets.youmind.com/media/1771223961934_z4gh81_HBNIpcbWEAAVgca.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Chopin and a piano in the middle of the screen.\nMake Chopin writing with a quill pen on the music stand\ninto a painting like Van Gogh's Starry Night!",
+    "title": "Chopin in Van Gogh's Starry Night Style Prompt",
+    "description": "A prompt used with Nano Banana Pro (Gemini 3 Pro Image) to generate an image of Chopin and a piano in the style of Van Gogh's 'Starry Night'. The result shows that the 'Starry Night' style was strongly applied.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771223985221_ftja05_HBMVoVJaEAAc52T.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "『Please create an image of the person in the attached illustration working as a doctor (your profession) in the world of Pokémon. Also, please consider a Pokémon that suits this person's impression.』",
+    "title": "Pokémon World Icon Generation Prompt",
+    "description": "A prompt used with Nano Banana Pro (Gemini) to generate an image of a person (based on an attached illustration) working as a doctor in the Pokémon world, including the requirement for the AI to suggest a suitable Pokémon companion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771223985342_58clbj_HBMQOc8a4AAPjXP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "SURREAL NATURE SCENE — RENAISSANCE OIL PAINTING STYLE (MODULAR)\n\nSCENE TYPE / SETTING\nA vast mythic natural valley rendered as a grand Renaissance landscape, with monumental cliffs, winding rivers, and layered atmospheric distance arranged with classical painterly balance and geometric harmony.\nPRIMARY FOCAL SUBJECT\nAt the center stands a serene circular lake shaped like a perfect mirror, from which rises a small sacred island crowned by an elegant marble pavilion partly reclaimed by nature, serving as the compositional anchor.\nSURREAL NATURAL ELEMENTS\nThe lake reflects not the sky above but an entirely different celestial scene; distant hills gently fold upward like draped fabric; flocks of birds freeze mid-flight in calm suspended formations, reinforcing dreamlike stillness.\nFLORA / ENVIRONMENTAL DETAIL\nForeground filled with highly observed Renaissance-style botanical detail: wildflowers, ivy-covered stones, twisting olive trees, soft meadow grasses, and carefully painted natural textures emphasizing observational realism.\nLIGHTING / RENAISSANCE ATMOSPHERE\nWarm late-afternoon golden illumination with classical Renaissance chiaroscuro; soft directional sunlight from one side, long shadows, glowing horizon haze, gentle atmospheric perspective, and subtle divine-style sky radiance.\nCOLOR PALETTE\nTraditional oil painting palette using earthy umbers, warm ochres, muted forest greens, deep ultramarine sky tones, soft flesh-like warm highlights, and restrained natural pigments consistent with historical Renaissance paintings.\nCOMPOSITION / CAMERA LOGIC\nClassical Renaissance triangular composition: detailed botanical foreground, midground sacred island focal point, distant layered mountains fading into atmospheric haze; horizon placed slightly high for landscape dominance.\nRENDER STYLE / MATERIAL EXECUTION\nHighly detailed Renaissance oil painting execution with visible brushwork texture, layered glazing, soft pigment blending, subtle canvas grain, historical masterwork aesthetic, contemplative sacred-natural mood, timeless and poetic rather than fantastical chaos.",
     "title": "Surreal Nature in Renaissance Oil Painting Style",
     "description": "A detailed, modular prompt for generating a surreal nature scene rendered in the style of a grand Renaissance oil painting, focusing on classical composition, chiaroscuro lighting, specific botanical details, and a contemplative, timeless mood.",

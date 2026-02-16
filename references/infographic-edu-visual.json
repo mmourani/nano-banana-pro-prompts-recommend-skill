@@ -51,6 +51,15 @@
     "needReferenceImages": false
   },
   {
+    "content": "A hyper-realistic 3D view of a section of the Ho Chi Minh Trail deep within the Truong Son mountains at twilight. The dense triple-canopy jungle filters the fading light into a gloom of deep greens and indigos. A narrow, beaten dirt track winds through giant fern fronds and ancient teak trees. In the foreground, a heavily laden, reinforced bicycle leans against a mossy rock, half-hidden by foliage. A concealed tunnel entrance is barely visible beneath a tangle of roots. The atmosphere is heavy with humidity, mist rising from the forest floor, capturing the silent, hidden endurance of the logistical network.",
+    "title": "Ho Chi Minh Trail Vietnam War Scene Prompt",
+    "description": "A hyper-realistic 3D image generation prompt for Nano Banana Pro describing a section of the Ho Chi Minh Trail at twilight. It focuses on the dense jungle environment, filtered light, a hidden bicycle, a concealed tunnel entrance, and a humid, atmospheric mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771223974185_mdkzha_HBLDqEVbsAAak3c.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Evolution of Manga --> <LAYOUT> A single chunky block (like a museum cutaway) sliced to reveal 4 stacked floors/strata. Each level represents an era/stage/version inferred from INPUT. Right side: a vertical legend bar with dates/period labels inferred by the model. </LAYOUT>\n<INFER_AND_RENDER> Infer 4 major phases and depict each with representative artifacts, tools, and environments. Keep transitions educational: show what changed between levels (materials, scale, method). </INFER_AND_RENDER>\n<STYLE_NOTES> Architectural section realism: visible thickness, rebar/fasteners if applicable, realistic debris at cut edge. </STYLE_NOTES>",
     "title": "Manga Evolution Architectural Section Prompt",
     "description": "A structured prompt designed to generate an image depicting the 'Evolution of Manga' as a detailed architectural section, showing four stacked strata representing different phases, complete with representative artifacts and educational transitions, rendered with architectural realism.",

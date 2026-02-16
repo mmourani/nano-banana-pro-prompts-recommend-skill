@@ -1,5 +1,26 @@
 [
   {
+    "content": "macro photograph, minimalist advertising style, a hyper-realistic miniature {argument name=\"product\" default=\"[PRODUCT]\"} crafted from {argument name=\"material\" default=\"[MATERIAL]\"}, delicately poised between a person's thumb and forefinger against a seamless, matte {argument name=\"background color\" default=\"[BG_COLOR]\"} cyclorama under professional Top-Down_Spotlight that casts subtle, soft shadows, with the impeccably groomed hand accentuating the object's intricate contours while the composition remains perfectly centered with a shallow depth of field to highlight its exquisite craftsmanship",
+    "title": "Hyper-Realistic Miniature Product Ad Prompt",
+    "description": "A versatile macro photography prompt designed for creating hyper-realistic miniature product advertisements. It uses placeholders for the product, material, and background color, emphasizing high-end mockups, professional lighting, and shallow depth of field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771223961364_iq65ey_HBO8adjaIAAXS9U.jpg",
+      "https://cms-assets.youmind.com/media/1771223961241_yyns5u_HBO6yc9awAA10yL.jpg",
+      "https://cms-assets.youmind.com/media/1771223961321_8sl55a_HBO6ycZXsAAe9Lz.jpg",
+      "https://cms-assets.youmind.com/media/1771223961961_gehtxf_HBO9eUpWUAA0hlI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "change image1 so the rings have the positioning of image 2.  you're just moving the ring on the right side up higher, do not touch the ring on the left. no other changes",
+    "title": "Image Editing Prompt: Adjusting Ring Position",
+    "description": "A text prompt for Nano Banana to edit an image by changing the vertical position of a ring on the right side of the image, while leaving the ring on the left side untouched.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771223986446_7m1xm5_HBKkeg_WQAAJI_O.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "Task: Ultra-close macro hero shot of a {argument name=\"subject\" default=\"SUBJECT\"} as premium optical cast glass with diagonal light-band shadows, stronger rainbow caustics, and clean readable high-detail areas (no refraction “mush”). Subject is FULLY visible and NOT cropped. The subject is placed on the surface or floating in the air at a low altitude above the surface.\nStyle: Photoreal luxury product; seamless blue-gray gradient background #9FAFBC (cool, slightly blue, low saturation); glossy reflective plane; smooth clear optical glass with crisp edges, controlled internal highlights, subtle star glints; pronounced caustic streaks + vivid prismatic rainbow arcs cast onto the surface from the subject.\nFraming: extreme close-up, subject fills ~90–95% of the frame, fully visible and not cropped.\nReadability (fix mush): preserve crisp facial/edge details—minimize internal warping, lensing, and overlapping caustic patterns on fine features; keep the interior visually “quiet” so the surface sculpt reads clean.\nOptical control: low-distortion, low-aberration glass look (reduced dispersion inside the object) with strong external caustics on the surface.\nLighting: broad diagonal soft light bands; long soft cast shadow with smooth penumbra; rainbow caustics should be stronger and more numerous around the base and across the floor. Clean white color.\nEnvironment control: seamless studio only; gray/black flags controlling reflections; no window/room elements.\nNegative prompt: excessive refraction, heavy distortion, lens effect, warped facial features, chaotic highlights, milky/foggy glass, random reflections, window, interior, wall corner, faceted, polygonal, low poly, text, watermark, clutter",
     "title": "Macro Hero Shot of Optical Cast Glass Object with Caustics",
     "description": "A highly technical prompt for generating an ultra-close macro hero shot of a specified subject rendered as premium optical cast glass, focusing on controlled internal highlights, strong rainbow caustics cast onto the surface, and preserving crisp edge details without distortion.",
