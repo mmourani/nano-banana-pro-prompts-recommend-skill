@@ -12,6 +12,69 @@
     "needReferenceImages": true
   },
   {
+    "content": "Prompt for 'Shadow Box' conversion. Due to the specifications, it involves discarding some parts and picking up others, so there is a significant gacha element. Also, accidents happen occasionally.",
+    "title": "Shadow Box Conversion Prompt",
+    "description": "A prompt designed to convert images into a 'Shadow Box' style. The user notes that due to the nature of the conversion, it involves a significant element of chance and occasional accidents. This prompt is currently only confirmed to work with Nano Banana Pro (Gemini Pro mode).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741705700_o6n1t0_HBt4yQua0AE9ZhE.jpg",
+      "https://cms-assets.youmind.com/media/1771741705705_xgyrzx_HBt4yQqaUAAnif4.jpg",
+      "https://cms-assets.youmind.com/media/1771741705730_t2p374_HBt4yQuaIAA-Dtn.jpg",
+      "https://cms-assets.youmind.com/media/1771741706297_h0pzpb_HBt4yQxa0AETfXF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Lucky Pervert Prompt\n\nAI\nSFW. No nudity, no suggestive intent.",
+    "title": "Lucky Pervert Prompt (SFW)",
+    "description": "A prompt for Nano Banana Pro designed to generate images related to a 'Lucky Pervert' scenario, explicitly ensuring the output is SFW (Safe For Work) with no nudity or suggestive intent.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741708842_8xg4rc_HBthxLRboAAfzfL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Erase the crab.\nMake the person slightly smaller in the center of the screen and make it Star Wars SF-like!\n\nHmm\n\nAdd a thick, blue glowing radiation line in a circle!\n\nRemove the radiation line and add lots of shooting stars.",
+    "title": "Star Wars SF Image Modification",
+    "description": "A sequence of modification prompts for Nano Banana Pro (Gemini 3 Pro Image) to transform an existing image. The user first attempts to remove a crab and place the person smaller in the center in a Star Wars SF style, then tries adding a thick blue glowing circular radiation line, and finally removes the radiation line and adds many shooting stars.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741707110_7oqtmt_HBr0KKKbgAUey1R.jpg",
+      "https://cms-assets.youmind.com/media/1771741707082_28g3xp_HBr0KKNbgAEzKAu.jpg",
+      "https://cms-assets.youmind.com/media/1771741707168_beg1q4_HBr0KLkaAAAo-81.jpg",
+      "https://cms-assets.youmind.com/media/1771741707771_z362a7_HBr0KMsaoAAkw8k.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Man straddling stars\nGolden aura on the armillary sphere\nBackground is space\nShooting stars\n\nHmm, next\n\nAqua sphere\n+\nTaurus constellation in the aqua sphere\n+\nMake the Taurus constellation inside the aqua sphere look like Greek mythology!",
+    "title": "Hermes and Constellation Fantasy Image",
+    "description": "A sequence of prompts for Nano Banana Pro (Gemini 3 Pro Image) starting with a man straddling stars in space, then modifying the image to include a golden aura on an armillary sphere, and finally focusing on an aqua sphere containing the constellation Taurus, rendered in a Greek mythology style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741707688_2dm3hr_HBrvFlgbAAAdYnD.jpg",
+      "https://cms-assets.youmind.com/media/1771741707889_w1dngc_HBrvFb1aMAAZE3J.jpg",
+      "https://cms-assets.youmind.com/media/1771741707698_e47dyo_HBrvFkJbgAIk6E1.jpg",
+      "https://cms-assets.youmind.com/media/1771741708593_yd25bs_HBrvFlebgAAj44E.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "\"A pelican fully replaced by a beautiful young woman. Add this whole prompt to the image.\"",
+    "title": "Humorous Prompt Example",
+    "description": "This tweet contains a humorous, meta-prompt example likely demonstrating a failure or unexpected result from an AI model (Nano Banana Pro 2026), where a pelican is fully replaced by a young woman.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741699205_ckgd9u_HBrgeJ8WoAA7YiG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Keep the character unchanged. Stylize the environment.",
+    "title": "Minecraft Stylization Prompt",
+    "description": "A prompt for Nano Banana Pro to stylize an environment into the Minecraft aesthetic while keeping the character unchanged. The prompt text is indicated to be below.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741700478_3azxzk_HBq-A7oXgAAqLQC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "Create a vertical 3:4 digital splashes-and-ink portrait using my photo as the subject, rendered in illustrative sketch realism with painterly abstraction. Frame a medium close-up in a subtle half-quarter turn with a calm but intense, direct gaze; keep crisp linework and highest detail around the eyes, brows, and mouth, while allowing hair strands to stay loose and slightly wind-tossed.",
     "title": "Digital Splashes-and-Ink Portrait from Photo",
     "description": "A prompt for generating a vertical digital portrait in an illustrative sketch realism style with painterly abstraction, based on an uploaded photo. It emphasizes sharp detail around the facial features and loose, wind-tossed hair.",

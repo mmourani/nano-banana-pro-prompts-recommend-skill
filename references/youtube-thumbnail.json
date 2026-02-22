@@ -1,5 +1,53 @@
 [
   {
+    "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"tool\": \"NanoBanana Pro\",\n      \"task_type\": \"cyber_projector_numbers_beauty_portrait\",\n      \"version\": \"v1.0_GREEN_NUMBERS_PROJECTION_BEAUTY\",\n      \"priority\": \"highest\",\n      \"language\": \"en\"\n    },\n    \"input\": {\n      \"mode\": \"text_to_image\",\n      \"notes\": \"Create a photoreal cinematic beauty portrait of an adult woman with green numeric projections mapped across her face, neck, shoulders, and chest. The projection must look physically correct (wraps around facial contours), with soft falloff and slight blur at edges. Dark background with faint out-of-focus green digits. Moody, low-key lighting. No text, no watermark.\"\n    },\n    \"output_settings\": {\n      \"aspect_ratio\": \"4:5\",\n      \"orientation\": \"portrait\",\n      \"resolution_target\": \"ultra_high_res\",\n      \"num_images\": 1,\n      \"render_style\": \"cinematic_techno_editorial\",\n      \"sharpness\": \"filmic_crisp\",\n      \"grain\": \"subtle_35mm\",\n      \"color_grading\": \"green_on_black_low_key\"\n    },\n    \"scene\": {\n      \"environment\": \"dark studio, faint bokeh of green digits in the background\",\n      \"lighting\": \"primary light is the projector (green digits), minimal soft fill from camera-left, deep shadows\",\n      \"mood\": \"mysterious, cyber, intimate\"\n    },\n    \"subject\": {\n      \"person\": \"adult woman\",\n      \"pose\": \"3/4 portrait, head slightly tilted, eyes looking sideways past camera\",\n      \"expression\": \"calm, intense, enigmatic\",\n      \"hair\": \"long dark hair, sleek and natural\",\n      \"makeup\": \"clean editorial skin, subtle shimmer on eyelids, soft liner, natural glossy lips\",\n      \"skin_texture\": \"natural pores, realistic highlights\"\n    },\n    \"camera\": {\n      \"camera_body\": \"ARRI Alexa Mini\",\n      \"lens\": \"85mm prime\",\n      \"aperture\": \"f/2.0\",\n      \"focus\": \"sharp on eyes and lips, projection still readable, background bokeh\"\n    },\n    \"projection_details\": {\n      \"content\": \"random green digits (0-9) and simple symbols\",\n      \"behavior\": \"wraps on cheekbones, nose bridge, jawline, collarbones\",\n      \"quality\": \"slight projector softness, realistic spill light on skin\"\n    },\n    \"negative_prompt\": \"text, watermark, logo, letters, neon signs, cartoon, anime, CGI look, plastic skin, over-smoothing, distorted face, extra limbs, extra fingers, deformed hands, incorrect projection physics, flat overlay, low resolution, heavy HDR\"\n  }\n}",
+    "title": "Cyber Projector Numbers Beauty Portrait Prompt (JSON format)",
+    "description": "A highly detailed JSON-formatted Nano Banana Pro prompt for generating an ultra-high resolution, cinematic beauty portrait of a woman with green numeric projections mapped across her face and body, emphasizing photorealism, low-key lighting, and correct projection physics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741712921_n6eig7_HBtgxStXYAE3eAJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Black and white documentary photograph inside an almost empty cinema hall, a single child sitting on the floor facing a glowing screen, symmetrical aisle leading lines, deep shadows in seats, projector light haze, quiet atmosphere, moderate grain, 50mm look, controlled but not polished, documentary sense of solitude in public space.",
+    "title": "Black and White Documentary Photo of Child in Cinema",
+    "description": "A prompt for Google Nano Banana Pro to generate a black and white documentary photograph capturing a sense of solitude: a single child sitting on the floor of an almost empty cinema hall, facing the glowing screen, with deep shadows and projector light haze.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741695893_61fwv9_HBtCX-vacAAqONs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Dune-inspired epic scene; a woman with a large padded white hood riding a giant black rooster, metallic gauntlets, desert-worn palette, soft ochre haze, vast barren landscape, atmospheric dust, minimalist sci-fi mysticism, cinematic scale, realism",
+    "title": "Dune-Inspired Epic Scene with Woman Riding a Giant Rooster",
+    "description": "A prompt for Nano Banana Pro to generate a cinematic, realistic image inspired by Dune, featuring a woman in a large padded white hood and metallic gauntlets riding a giant black rooster across a vast, barren desert landscape with an atmospheric ochre haze.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741694205_1o6bq4_HBrwupoXwAAjiu1.jpg",
+      "https://cms-assets.youmind.com/media/1771741694214_8kc27w_HBrwupqXcAA1XCo.jpg",
+      "https://cms-assets.youmind.com/media/1771741694240_3fbllz_HBrwupoXMAAP-vD.jpg",
+      "https://cms-assets.youmind.com/media/1771741694828_1rd8is_HBrwupVXoAEyXqr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a dramatic digital painting style portrait of a young male a reference image without glasses looking upward with a strong, determined expression. The artwork should feel bold and textured, with energetic brush strokes and a limited color palette of black, white, red, and yellow. The background is split vertically with abstract red and yellow paint streaks, giving a powerful and intense mood. Focus on ambition and confidence in the player’s gaze, with a clean design that has no text, no slogan, and no logo anywhere in the frame. The composition should feel motivational and poster ready, high detail, 8K resolution, image aspect ratio 4:5.",
+    "title": "Dramatic Digital Painting Portrait with Limited Palette",
+    "description": "A prompt for Google Gemini Nano Banana Pro to create a dramatic digital painting portrait of a young man looking upward with a determined expression. The style features bold, textured, energetic brush strokes and a limited color palette (black, white, red, yellow) with a vertically split abstract background, designed to be motivational and poster-ready.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741698245_lu0174_HBrlgeObgAA_l-p.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Depict a scene of embroidery creation enveloped in soft backlighting and pastel colors. Seamlessly transition from extreme close-ups of the needle and thread, through a time-lapse of the pattern expanding and delicate hand movements, to a wide shot of the completed work. A cinematic video with an intimate and lovely atmosphere, unified by shallow depth of field and film grain.",
+    "title": "Cinematic Embroidery Scene Video",
+    "description": "A cinematic prompt used for video generation (Kling 3.0 Omni based on Nano Banana Pro images) describing the process of embroidery. It emphasizes soft backlighting, pastel colors, close-ups of the needle and thread, a time-lapse of the pattern expanding, and a final shot of the completed work, all unified by a shallow depth of field and film grain.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741708744_q4xa47_HBnW3dXbUAAngBr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "2x2 grid showing identical [{argument name=\"object or scene\" default=\"OBJECT/SCENE\"}] across four seasons. Top-left spring (cherry blossoms, soft pastels), top-right summer (golden light, vibrant greens), bottom-left autumn (orange leaves, warm tones), bottom-right winter (snow, blue twilight). Seamless aesthetic, same camera angle, cinematic lighting each panel.",
     "title": "Seasonal Transformation Grid",
     "description": "A prompt template for generating a 2x2 grid showing the same object or scene transformed across the four seasons (Spring, Summer, Autumn, Winter), maintaining a seamless aesthetic and consistent camera angle.",

@@ -51,6 +51,25 @@
     "needReferenceImages": false
   },
   {
+    "content": "An image explaining the internal structure of a robot.\nAnalyze the internal structure of the machine. Be sure to correctly display the skeleton and frame.\nAlways keep the surface and maintain the background.",
+    "title": "Image Generation Prompt: Internal Structure of a Robot",
+    "description": "A prompt requesting an image that explains the internal structure of a robot, specifically requiring the correct display of the skeleton and frame while maintaining the external surface and background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741704071_scytvo_HBOhzU1bIAAfq-0.jpg",
+      "https://cms-assets.youmind.com/media/1771741704072_bvt1bo_HBOhz9TbcAEfTUR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create an exploded diagram of a Japanese McDonald's cheeseburger. Float each ingredient and display its name and calorie count in Japanese. Style it like a high-end culinary magazine.",
+    "title": "Image Generation Prompt: Exploded Diagram of McDonald's Cheeseburger",
+    "description": "A prompt requesting an exploded diagram of a Japanese McDonald's cheeseburger, with each ingredient floating and labeled with its name and calorie count in Japanese, styled like a high-end culinary magazine.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741704982_38z8ix_HBrBKW2bkAAYB0A.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Hyperrealistic exploded {argument name=\"dish\" default=\"lasagna\"} stack, each ingredient layer floating in perfect mid-air suspension with equal spacing, shot straight-on at eye level against a {argument name=\"color\" default=\"dark blue\"} background.  Each ingredient layer is clearly separated with soft drop shadows beneath. Ingredients are hyperdetailed — visible texture, sheen, moisture, and depth. Micro steam wisps rise from hot elements. Sauce and cheese frozen mid-drip, ultra sharp.  LAYERS (bottom to top): {argument name=\"layer 1\" default=\"pasta sheet\"} → {argument name=\"layer 2\" default=\"ricotta cheese\"} → {argument name=\"layer 3\" default=\"meat sauce\"} → {argument name=\"layer 4\" default=\"pasta sheet\"} → {argument name=\"layer 5\" default=\"mozzarella\"} → {argument name=\"layer 6\" default=\"basil leaves\"} → {argument name=\"layer 7\" default=\"parmesan dust\"}  Each ingredient has a clean horizontal label line extending to the right with a small dot at the ingredient. Label text in uppercase sans-serif: \"[INGREDIENT NAME]\" with a small italic descriptor below. Labels alternate left and right for readability.  Large elegant dish name at top: \"[DISH NAME]\". Subtitle: \"[TAGLINE]\".  Lighting: soft studio key light from upper left, subtle fill from right. Background: flat matte [COLOR], clean and minimal. Mood: premium editorial food advertising, extraordinary and craveable.  4K resolution, tack sharp, subtle chromatic warmth. Style ref: Apple product launch meets Michelin-star food photography.",
     "title": "Hyperrealistic Exploded Ingredient Stack Diagram",
     "description": "A structured prompt template for generating hyperrealistic food photography, specifically an exploded view of a dish with each ingredient layer floating in mid-air. It includes placeholders for the dish name, color scheme, and up to seven ingredient layers, designed for premium editorial food advertising.",

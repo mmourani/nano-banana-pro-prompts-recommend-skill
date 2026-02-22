@@ -9,6 +9,35 @@
     "needReferenceImages": false
   },
   {
+    "content": "Use my uploaded photo as the main and only face reference. My face must remain exactly the same — do NOT change facial features, expression, eye shape, nose, lips, skin tone, age, or identity. No face swap, no beautification, no stylization on the face.\nCreate an ultra-realistic studio portrait using a miniature clone concept:\nMain person:\nSitting on the floor, centered in frame, relaxed pose, calm and confident mood. Facial expression must match the reference exactly.\nMiniature clones (same face, same identity): Gemini \n• Two miniatures standing on my open palms (palms facing upward)\n• One miniature sitting on my right shoulder\n• One miniature pushing my right shoe\n• One miniature running in the foreground toward the camera (sense of motion but still sharp and realistic)\n• One miniature hugging my left knee from behind\nAll miniatures must have the exact same face, expression, and identity as the main person.",
+    "title": "Ultra-Realistic Miniature Clone Studio Portrait",
+    "description": "A highly specific prompt for Nano Banana Pro requiring the use of an uploaded photo as the sole face reference, strictly prohibiting any changes to facial features or identity. The goal is an ultra-realistic studio portrait using a miniature clone concept, where multiple tiny versions of the main subject interact with the full-sized person.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741696375_7vkzi9_HBsRavMbgAACpPt.jpg",
+      "https://cms-assets.youmind.com/media/1771741696339_yp8oym_HBsRc1maoAEkme2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "\"task\": \"face_swap\",\n  \"model\": \"nano_banana_pro\",\n  \"instructions\": {\n    \"primary_goal\": \"Transfer the face from source image (image1) onto the subject in target image (image2) with seamless, ultra-realistic integration\",\n    \"source_mapping\": {\n      \"face_source\": \"image1\",\n      \"face_target\": \"image2\",\n      \"preserve_source_identity\": true\n    },\n    \"identity\": {\n      \"match_skin_tone\": true,\n      \"match_facial_expression\": true,\n      \"maintain_face_structure\": true\n    },\n    \"blending\": {\n      \"seamless_edges\": true,\n      \"match_lighting\": true,\n      \"match_color_grading\": true,\n      \"preserve_shadows_highlights\": true,\n      \"no_visible_artifacts\": true\n    },\n    \"background\": {\n      \"preserve_original_background\": true,\n      \"preserve_environment_details\": true,\n      \"no_changes_to_objects\": true,\n      \"no_blur_or_distortion\": true\n    },\n    \"composition\": {\n      \"keep_original_pose\": true,\n      \"keep_camera_angle\": true,\n      \"keep_framing\": true\n      \"maintain_depth_of_field\": true\n    },\n    \"quality\": {\n      \"ultra_realistic\": true,\n      \"high_resolution\": true,\n      \"natural_texture\": true,\n      \"no_ai_look\": true",
+    "title": "High Fidelity Face Swap Task Definition",
+    "description": "A structured JSON prompt for Nano Banana Pro defining a high-fidelity face swap task. The instructions emphasize seamless, ultra-realistic integration, preserving the source identity, matching skin tone and expression, and maintaining the original background and composition details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741695019_yhyyta_HBrFTtgbgAE6U4A.jpg",
+      "https://cms-assets.youmind.com/media/1771741695023_ngmk6p_HBrFTtLbgAA_kwv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Ultra-realistic close-up portrait of a young woman with light skin, blue-green eyes, and long dark brown hair, soft natural makeup, glossy pink lips, wearing a light blue button-up shirt and a pearl necklace, soft daylight from front window, warm indoor bedroom background blurred, shallow depth of field, sharp focus on eyes, natural skin texture, high detail, DSLR quality, 85mm lens, cinematic lighting, elegant casual aesthetic",
+    "title": "Ultra-Realistic Close-Up Portrait",
+    "description": "An image generation prompt focused on creating an ultra-realistic, high-detail close-up portrait of a young woman, specifying features like eye color, hair, makeup, clothing, lighting, and camera settings (85mm lens, shallow depth of field).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741693114_nbkgds_HBpCGugWwAAB3lL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "{\n  \"prompt\": \"photorealistic selfie of a handsome young athletic man, 20-25 years old, lying back on an outdoor lounge chair at night, golden blonde tousled curly hair, piercing green eyes, sharp jawline, symmetrical face, slight smile, relaxed expression, wearing a plain white t-shirt, dark night background, dry grass or hay field behind him, warm subtle lighting from nearby source, starry sky or dark ambiance, casual candid iPhone selfie style, natural skin texture, detailed facial features, high resolution, realistic portrait, soft shadows, cinematic night mood\",\n  \"negative_prompt\": \"blurry, low quality, deformed, ugly, extra limbs, bad anatomy, watermark, text, overexposed, underexposed, cartoon, anime, illustration, painting, plastic skin, old, elderly, female, child, glasses, hat, beard, heavy makeup\",\n  \"additional_settings\": {\n    \"style_influences\": [\"photorealistic\", \"candid smartphone photo\", \"night portrait\", \"natural lighting\"],\n    \"camera_angle\": \"selfie from above, arm extended, slightly tilted\",\n    \"lighting\": \"dim warm ambient light, cool night tones\",\n    \"model_likely_used\": \"realistic checkpoint (e.g. Realistic Vision, Juggernaut XL, CyberRealistic)\",\n    \"common_tags_included\": \"detailed eyes, detailed face, sharp focus, 8k, RAW photo\"\n  }\n}",
     "title": "Photorealistic Night Selfie Prompt",
     "description": "A detailed JSON prompt for Nano Banana Pro requesting a photorealistic, candid iPhone-style selfie of a handsome young man lying on an outdoor lounge chair at night, focusing on specific physical features, subtle warm lighting, and a cinematic night mood.",

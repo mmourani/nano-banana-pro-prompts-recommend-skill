@@ -18,6 +18,51 @@
     "needReferenceImages": false
   },
   {
+    "content": "Scene:\nA cozy old seaside harbor village in the late afternoon with small wooden boats tied to a weathered dock, fishermen repairing nets, seagulls circling overhead, and softly rolling ocean waves reflecting warm sunlight while charming cottages line the shore.\nStyle:\nFantasy hand-drawn watercolor illustration style. Traditional watercolor rendering with visible pigment splashes, fluid paint diffusion, and softly blended tonal transitions. Delicate hand-illustrated linework with expressive drawn detailing and organic sketch-like contours. Soft, gentle color palette emphasizing airy tones and subtle saturation rather than strong contrast. Painterly layered watercolor textures combined with illustrative fantasy art aesthetics. Decorative, richly illustrated environments with numerous small background details integrated into the composition. Elegant full illustration treatment prioritizing handcrafted visual charm, artistic softness, and classic storybook-inspired fantasy rendering.",
+    "title": "Watercolor Illustration of a Cozy Seaside Harbor Village",
+    "description": "A detailed image generation prompt for a fantasy hand-drawn watercolor illustration of a cozy old seaside harbor village in the late afternoon, specifying scene elements like boats, fishermen, and cottages, along with artistic style details like pigment diffusion, soft color palette, and illustrative fantasy aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741694036_e8udvx_HBs3b-CaQAAAP9p.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Scene:\nA small enchanted forest clearing at dawn where a narrow winding path passes between mossy stones and glowing mushrooms, soft morning light filtering through tall trees while a gentle mist drifts across wildflowers and tiny insects sparkle in the air.\nStyle:\nFantasy hand-drawn watercolor illustration style. Traditional watercolor rendering with visible pigment splashes, fluid paint diffusion, and softly blended tonal transitions. Delicate hand-illustrated linework with expressive drawn detailing and organic sketch-like contours. Soft, gentle color palette emphasizing airy tones and subtle saturation rather than strong contrast. Painterly layered watercolor textures combined with illustrative fantasy art aesthetics. Decorative, richly illustrated environments with numerous small background details integrated into the composition. Elegant full illustration treatment prioritizing handcrafted visual charm, artistic softness, and classic storybook-inspired fantasy rendering.",
+    "title": "Watercolor Illustration of Enchanted Forest Clearing at Dawn",
+    "description": "A prompt for Nano Banana Pro to generate a fantasy hand-drawn watercolor illustration. The scene is a small enchanted forest clearing at dawn, featuring glowing mushrooms, mist, and soft morning light. The style emphasizes traditional watercolor techniques, fluid paint diffusion, delicate linework, and a soft, gentle color palette, evoking a classic storybook aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741701331_rjrblz_HBs3FAZasAAdfs-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A vertical birthday poster collage. The background features four stacked horizontal rounded rectangles, each containing monochrome cinematic photographs of a young girl with curly hair and sunglasses in various poses. Superimposed on the left foreground is a high-resolution, full-color cutout of the same girl wearing an unbuttoned pink mauve shirt and sunglasses, in a cool pose, with a thick white sticker-style outline.",
+    "title": "Vertical Birthday Poster Collage with Cinematic Monochrome Photos",
+    "description": "A prompt for Nano Banana Pro to create a vertical birthday poster collage. The design features a background of stacked, rounded rectangles containing monochrome cinematic photos of a young girl, overlaid with a high-resolution, full-color cutout of the same girl with a thick sticker-style outline.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741694068_hmintq_HBsMkU9WEAAB_-V.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a dramatic digital painting style portrait of a young male a reference image without glasses looking upward with a strong, determined expression. The artwork should feel bold and textured, with energetic brush strokes and a limited color palette of black, white, red, and yellow. The background is split vertically with abstract red and yellow paint streaks, giving a powerful and intense mood. Focus on ambition and confidence in the player’s gaze, with a clean design that has no text, no slogan, and no logo anywhere in the frame. The composition should feel motivational and poster ready, high detail, 8K resolution, image aspect ratio 4:5.",
+    "title": "Dramatic Digital Painting Portrait with Limited Palette",
+    "description": "A prompt for Google Gemini Nano Banana Pro to create a dramatic digital painting portrait of a young man looking upward with a determined expression. The style features bold, textured, energetic brush strokes and a limited color palette (black, white, red, yellow) with a vertically split abstract background, designed to be motivational and poster-ready.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741698245_lu0174_HBrlgeObgAA_l-p.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "\"Create an Analog Photobooth Collage of high-definition, in black and white (warm, grainy), messy overlapping photostrips scattered across a bed or table, freeform collage. The background must be slightly out of focus. The atmosphere is energetic, fun, spontaneous, emotional. The characters in the photos must be Forrest Gump and Jenny Curran from the movie Forrest Gump (1994). The expressions that they need to have in the different photos: laughing uncontrollably, sticking tongues out, covering each other's mouths, dramatic playful expressions, messy spontaneous kisses, forehead-to-forehead laughter and playfully biting each other's cheek. The poses must be: close, chaotic kissing frames, faces squished together, leaning into each other laughing, hands on each other's cheeks, goofy movement blur, fun, intimate and unfiltered moments. analog grain, soft blur, subtle noise. The photos need imperfections like dust speckles, tiny scratches, flash hotspots, slight motion blur and uneven exposure.  The collage layout must be 8–14 photobooth shots scattered messily, overlapping, rotated in all directions, central photostrips remain sharp, outer edges slightly blurred. Presentation: looks like Forrest and Jenny dumped all their photobooth memories on a bed\"",
+    "title": "Forrest Gump & Jenny Analog Photobooth Collage",
+    "description": "A detailed prompt for Nano Banana Pro to create an analog, black and white photobooth collage featuring Forrest Gump and Jenny Curran. The prompt specifies the messy, overlapping layout, the characters' spontaneous and intimate expressions (laughing, kissing, goofy poses), and analog imperfections like grain, dust speckles, and uneven exposure.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771741697221_939if2_HBPvuLQXMAA2Egr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Please create a realistic photo in the style of a sci-fi monster movie, low angle, of a giant, 70s-style Japanese Godzilla standing on a wide national road with three lanes on one side, in the high-rise district of Tokyo where the Tokyo Skytree is visible, under a cloudy, hazy sky. Godzilla is glaring directly at the camera. Aspect ratio 16:9.",
     "title": "Godzilla in Tokyo Skytree District, 70s Style",
     "description": "A detailed image generation prompt for creating a realistic, low-angle, sci-fi monster movie style photograph of a giant, 70s-style Japanese Godzilla standing on a wide national road in the high-rise district of Tokyo, with the Tokyo Skytree visible under a cloudy sky. The prompt specifies the aspect ratio and that Godzilla should be staring directly at the camera.",
