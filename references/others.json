@@ -12,6 +12,15 @@
     "needReferenceImages": true
   },
   {
+    "content": "{\n  \"meta\": {\n    \"quality\": \"ultra_photorealistic, 8k\",\n    \"camera\": \"portrait framing, 85mm lens\",\n    \"lighting\": \"soft ambient twilight lighting, warm magical glow\",\n    \"style\": \"Pixar-style 3D character, whimsical fantasy, cozy cinematic render\"\n  },\n  \"scene\": {\n    \"location\": \"floating giant soft cloud in dreamy twilight sky, glowing magical butterflies around\",\n    \"atmosphere\": \"magical, whimsical, enchanting, cozy aesthetic\"\n  },\n  \"subject\": {\n    \"gender\": \"female\",\n    \"body\": {\n      \"type\": \"natural teen proportions, sitting relaxed on cloud\",\n      \"pose\": \"holding a glowing magical book with both hands, legs crossed, cheerful posture\"\n    },\n    \"face\": {\n      \"features\": \"big sparkling green eyes, short wavy pink hair tied with ribbons, soft glowing skin, light freckles\",\n      \"expression\": \"cheerful, dreamy, warm smile\"\n    },\n    \"outfit\": {\n      \"description\": \"oversized pastel yellow sweater, soft leggings\",\n      \"fit\": \"loose, flowing, comfortable\"\n    }\n  },\n  \"effects\": {\n    \"special\": \"floating glowing butterflies, magical sparkle particles, soft cinematic bokeh, ultra-detailed textures, dreamy twilight glow\"\n  }\n}",
+    "title": "Pixar-Style Girl on a Floating Cloud",
+    "description": "A detailed image generation prompt for Nano Banana Pro to create an ultra-photorealistic, Pixar-style 3D character of a girl with pink hair sitting relaxed on a giant soft cloud in a dreamy twilight sky, holding a glowing magical book, surrounded by glowing butterflies.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771828733773_qonacf_HByn2H7aAAAIzA9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Prompt for 'Shadow Box' conversion. Due to the specifications, it involves discarding some parts and picking up others, so there is a significant gacha element. Also, accidents happen occasionally.",
     "title": "Shadow Box Conversion Prompt",
     "description": "A prompt designed to convert images into a 'Shadow Box' style. The user notes that due to the nature of the conversion, it involves a significant element of chance and occasional accidents. This prompt is currently only confirmed to work with Nano Banana Pro (Gemini Pro mode).",

@@ -51,6 +51,27 @@
     "needReferenceImages": false
   },
   {
+    "content": "Perfect cinematic cross-section cut through {argument name=\"dish\" default=\"[DISH]\"}, sliced cleanly down the center revealing every internal layer in full detail. The cut face is facing the camera straight-on, like a geological diagram of flavor. Each visible layer is labeled with a thin horizontal line extending to the right — uppercase sans-serif \"{argument name=\"ingredient name\" default=\"[INGREDIENT NAME]\"}\" with italic descriptor below. Background: flat matte {argument name=\"color\" default=\"[COLOR]\"}. Lighting: dramatic side light from left casting long shadows, single warm spotlight on the cut face. Every texture hyperreal — visible moisture, air pockets, char, glaze, and steam. Mood: architectural food photography meets scientific illustration. Dish name \"[DISH NAME]\" in large elegant type at top. Subtitle: \"[TAGLINE]\". 4K, tack sharp, Style ref: Wes Anderson symmetry meets Michelin-star kitchen.",
+    "title": "Architectural Food Photography Cross-Section Prompt",
+    "description": "A structured prompt designed for Adobe Firefly using Nano Banana Pro to create a hyper-realistic, cinematic cross-section of a dish. It uses a scientific illustration style with labeled layers, dramatic lighting, and a Wes Anderson aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771828714501_44tv3i_HByAZOpWMAA6EKv.jpg",
+      "https://cms-assets.youmind.com/media/1771828714581_ln3uws_HBx__gRWgAAGZxt.jpg",
+      "https://cms-assets.youmind.com/media/1771828714446_pqr3od_HByAPUcXkAAvasx.jpg",
+      "https://cms-assets.youmind.com/media/1771828715536_a27cqw_HByAmZMWwAAE3LK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Motion Prompt: The sandwich start to spin while ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, with no extra effects.\n\nIMAGE:— Using the first breakfast sandwich image as a base, create a clean exploded-view visualization of the same sandwich.\n5 elements:\n– Bread slices\n– Egg\n– Bacon\n– Cheese\n– Sauce\nAnnotations:\n– Bread: “Toasted structure”\n– Egg: “Soft protein layer”\n– Bacon: “Crispy smoky flavor”\n– Cheese: “Melty richness”\n– Sauce: “Savory moisture boost”",
+    "title": "Exploded View Sandwich Animation Prompt",
+    "description": "A combined motion and image prompt for generating an exploded-view visualization of a breakfast sandwich where ingredients gently separate while maintaining alignment. The motion prompt specifies the spinning and separation action.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771828728017_xcip84_HBvSiQ4bgAEPhL_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "An image explaining the internal structure of a robot.\nAnalyze the internal structure of the machine. Be sure to correctly display the skeleton and frame.\nAlways keep the surface and maintain the background.",
     "title": "Image Generation Prompt: Internal Structure of a Robot",
     "description": "A prompt requesting an image that explains the internal structure of a robot, specifically requiring the correct display of the skeleton and frame while maintaining the external surface and background.",
