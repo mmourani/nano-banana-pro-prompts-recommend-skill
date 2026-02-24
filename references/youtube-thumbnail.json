@@ -1,5 +1,23 @@
 [
   {
+    "content": "A dramatic cinematic poster-style portrait of two epic fantasy warriors standing back-to-back in a frozen storm. On the left, a battle-worn male warrior with wet, curly dark hair, head bowed in quiet resolve, gripping a medieval sword planted into the ice. Frost and snow cling to his fur-lined cloak and shoulders. On the right, a powerful female warrior in profile, pale skin glowing with fiery orange light, her body partially engulfed in flames thatcontrast against the icy blue atmosphere. Snow particles swirl through the air, blending fire and ice in a symbolic clash. Ultra-detailed faces, emotional intensity, volumetric fog, cinematic lighting, cold blue tones mixed with warm fire highlights, shallow depth of field, epic fantasy movie poster, hyper-realistic, 8K resolution, dramatic composition, sharp focus, high contrast, photorealistic textures.",
+    "title": "Epic Fantasy Warriors: Fire and Ice Cinematic Poster",
+    "description": "A prompt for generating a dramatic, cinematic poster-style portrait of two epic fantasy warriors standing back-to-back in a frozen storm, symbolizing the clash of fire and ice with specific details on their appearance, attire, and the contrasting lighting and atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771914992708_puz3gf_HB239A8aYAAPqBf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A double exposure photograph depicting the silhouette profile and headshot portrait of an AI engineer, with a symbolic environment constructed from glowing neural networks, floating code streams, and futuristic server architecture, in the style of double exposure photography, sun flare, white background, hyper-realistic, detailed rendering, stock photo, high-resolution photography.",
+    "title": "Double Exposure Portrait of an AI Engineer",
+    "description": "A prompt for generating a hyper-realistic, double exposure photograph combining the silhouette of an AI engineer's profile with a symbolic environment of glowing neural networks and futuristic server architecture, suitable for a stock photo aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771914980428_386q7d_HB0G7UIbsAA7jNs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Cinematic futuristic portrait of a person in casual streetwear and headphones, seated on a neon-green glowing stool with Spotify emblem. Dark digital studio with holographic sound waves, floating notes, and playlist UI panels. Dramatic neon rim lighting, volumetric fog, ultra-realistic, high contrast, shallow depth of field, 35mm lens, 8K, immersive musical vibe --ar 16:9.",
     "title": "Cinematic Futuristic Portrait Prompt",
     "description": "A prompt for generating a cinematic, high-contrast futuristic portrait of a person in streetwear, seated on a neon-green glowing Spotify stool, set in a dark digital studio with holographic elements.",

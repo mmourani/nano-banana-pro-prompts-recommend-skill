@@ -9,6 +9,85 @@
     "needReferenceImages": false
   },
   {
+    "content": "{\n  \"prompt\": \"Aesthetic mirror selfie of a young man in a dimly lit modern bedroom, wearing a black oversized sweatshirt, holding a smartphone. A white cat is sitting on his shoulder and licking his hair affectionately. Soft warm overhead lighting from a hanging lamp creates a cozy mood. Slightly messy mirror with smudges and dust visible for a candid, realistic feel. Neutral expression, soft facial features, natural hair. Minimalist interior background with a door and light-colored walls. Subtle grain and low-light noise for a film-like, casual Instagram aesthetic.\",\n  \"style\": \"photorealistic, candid, lifestyle, soft lighting, cozy aesthetic\",\n  \"camera\": {\n    \"type\": \"smartphone front camera\",\n    \"angle\": \"mirror selfie, eye level\",\n    \"lighting\": \"warm overhead light, soft shadows\",\n    \"focus\": \"sharp on subject, slightly soft background\"\n  },\n  \"details\": [\n    \"white cat interacting with subject\",\n    \"messy mirror texture\",\n    \"oversized streetwear\",\n    \"muted color palette\",\n    \"natural imperfections\"\n  ],\n  \"mood\": \"calm, intimate, casual\",\n  \"resolution\": \"high\"\n}",
+    "title": "Cozy Aesthetic Mirror Selfie with White Cat",
+    "description": "A detailed JSON prompt for generating a photorealistic, candid mirror selfie of a young man in a dimly lit modern bedroom. The prompt includes specific elements like an oversized black sweatshirt, a white cat licking his hair, soft warm overhead lighting, and intentional imperfections like smudges on the mirror to achieve a casual, film-like Instagram aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771915004710_0asrv6_HB34JhracAEpsvh.jpg",
+      "https://cms-assets.youmind.com/media/1771915004682_0xmtto_HB34Jh5a4AApRWq.jpg",
+      "https://cms-assets.youmind.com/media/1771915004741_1yaabd_HB34JhnbcAAwJib.jpg",
+      "https://cms-assets.youmind.com/media/1771915005406_i7k0yo_HB34FxIa4AEYfOl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"scene_subject\": \"woman taking mirror selfie indoors, blue printed bikini, orange crochet fringe skirt, oversized black shoulder tote bag, smartphone in right hand\",\n  \"layout_control\": {\n    \"diagonal_body_anchor\": \"torso aligned along lower-right to https://t.co/QkgIKVuMyf",
+    "title": "Indoor Mirror Selfie with Bikini and Crochet Skirt",
+    "description": "A structured prompt for generating an image of a woman taking a mirror selfie indoors, detailing her attire (blue printed bikini, orange crochet skirt) and accessories, with specific layout control parameters.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771914982149_vvl330_HB3ulKzWEAAzHg9.jpg",
+      "https://cms-assets.youmind.com/media/1771914982181_na0g2c_HB3ulNmX0AAAeHn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  “subject”: {\n    “description”: “A candid vertical mirror selfie photograph of a young woman with long hair, taken in a cluttered bedroom.”,\n    “body”: {\n      “physique”: “She has a highly exaggerated, curvy hourglass figure with an extremely narrow, cinched waist and significantly large, wide, and round fitness-style glutes and hips. Her thighs are thick and toned. The pose emphasizes this dramatic waist-to-hip ratio.”,\n      “pose”: “Standing in front of a large round mirror, holding a smartphone with a patterned case up to take a mirror selfie, partially covering her face. One arm is crossed over her midriff. She is looking at the phone screen.”,\n      “features”: “Long hair cascading over her shoulders. The phone case has a colorful cartoon pattern.”\n    }\n  },\n“wardrobe”: {\n    “top”: “A simple, tight-fitting black strapless tube top (bandeau) that shows her midriff.”,\n    “bottom”: “High-waisted, vibrant red booty shorts featuring a large, smiling cartoon face of the Pokemon character Charmander printed across the front.”,\n    “accessories”: “A silver necklace with a small pendant.”\n  },\n  “pose_action”: “Taking a mirror selfie in a messy bedroom to showcase her outfit and physique.”,\n  “scene”: {\n    “environment”: “A cluttered, personalized bedroom reflected in a large round mirror.”,\n    “elements”: “To the left is a bed with a pink and white patterned duvet and a pink metal locker-style cabinet covered in stickers. The wall behind the bed is decorated with several framed anime posters. The floor is messy with clothes, boxes, boots, and other items. A doorway is visible in the background reflection on the right.”,\n“composition”: “Vertical 9:16 aspect ratio mirror selfie. The circular frame of the mirror is visible, reflecting the woman and the entire messy room.”\n  },\n  “lighting”: {\n    “setup”: “Natural ambient room lighting mixed with indoor lights.”,\n    “details”: “The light is bright enough to show all the details of the room and the subject, reflecting off the mirror surface.”\n  },\n  “camera”: {\n    “technical”: “Shot on a smartphone. The photo has a candid, unedited aesthetic typical of a mirror selfie, with realistic colors and textures.”,\n    “constraints”: [\n      “Aspect Ratio 9:16”,\n      “Physique MUST have an extremely narrow waist and SIGNIFICANTLY LARGE, wide fitness glutes and hips”,\n      “Bottoms MUST be red high-waisted shorts with a CHARMANDER Pokemon face”,\n      “Replicate the messy bedroom background with anime posters and pink furniture”,\n      “The image must be a vertical mirror selfie”\n    ]\n  }\n}",
+    "title": "Candid Mirror Selfie with Exaggerated Physique and Charmander Shorts",
+    "description": "A highly specific and structured prompt for generating a candid vertical mirror selfie. The prompt demands an extremely exaggerated hourglass figure with a narrow waist and large glutes, and specifies the subject's attire: a black tube top and vibrant red high-waisted shorts featuring a Charmander cartoon face. It also requires a messy bedroom background with anime posters.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771915011867_v9p7ni_HBzCNGsXUAE_gbC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"subject\": {\n    \"description\": \"A beautiful woman with an hourglass figure\",\n    \"features\": {\n      \"hair\": \"Long, wavy blonde hair with dark roots\",\n      \"eyes\": \"Soft brown eyes, looking towards the camera\",\n      \"facial_details\": \"Well-defined cheekbones, subtle pink lipstick, glowing skin\",\n      \"accessories\": \"Large gold hoop earrings, a gold chain waist belt with hanging tassels\"\n    },\n    \"pose\": \"Mirror selfie, leaning slightly to the left, holding a black smartphone with one hand\",\n    \"attire\": \"Hot pink string bikini with side-tie bottoms\"\n  },\n  \"environment\": {\n    \"setting\": \"Modern, minimalist bathroom\",\n    \"background_elements\": [\n      \"Smooth white wall\",\n      \"Chrome towel rack with a white hanging towel\",\n      \"Marble countertop with a built-in sink in the foreground\",\n      \"Blurred reflection in the bottom mirror edge\"\n    ]\n  },\n  \"lighting_and_atmosphere\": {\n    \"type\": \"Direct, harsh sunlight through a window\",\n    \"effects\": [\n      \"Strong diagonal shadows across the wall\",\n      \"Warm highlights on the subject's skin\",\n      \"High contrast between light and shadow\",\n      \"Bright, airy daytime aesthetic\"\n    ]\n  },\n  \"technical_specifications\": {\n    \"camera_angle\": \"Eye-level, front-facing mirror reflection\",\n    \"composition\": \"Medium shot, vertical orientation\",\n    \"style\": \"Hyper-realistic lifestyle photography\",\n    \"color_palette\": [\"Vivid pink\", \"Crisp white\", \"Warm gold\", \"Soft marble grey\"]\n  }\n}",
+    "title": "Hyper-realistic Mirror Selfie in a Modern Bathroom",
+    "description": "A structured prompt for generating a hyper-realistic lifestyle photograph of a woman taking a mirror selfie in a modern, minimalist bathroom. The prompt specifies details about the subject's appearance, attire (hot pink bikini), and the high-contrast lighting created by harsh sunlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771915008537_aqrq1a_HB3BNABbEAAtnuN.jpg",
+      "https://cms-assets.youmind.com/media/1771915008581_tnl09m_HB3BNU0a0AA1LkG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Realistic black and white studio portrait photograph of a family of four in profile, facing right. Subjects overlap in a staggered line from left to right: a toddler in a white collared shirt, a young girl in a beaded dark dress, a woman with a delicate necklace, and a man with a mustache. High-contrast monochromatic palette with dramatic side-lighting from the right, illuminating facial profiles against a pure black background. Intimate, timeless mood. Crisp textures on hair, skin, and fabric, with clear catchlights in the eyes. 1:1 ratio, 4K, highly detailed, sharp focus.",
+    "title": "High-Contrast Black and White Family Studio Portrait",
+    "description": "A prompt for generating a timeless, high-contrast black and white studio portrait of a family of four. It emphasizes dramatic side-lighting to illuminate profiles against a pure black background, creating an intimate and sharp focus on textures and expressions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771915000158_j7ynok_HB2t8_EW0AQsoSI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra-realistic close-up portrait of a handsome young man with sharp facial features, light blue eyes, short textured brown hair, and a well-groomed beard, wearing a plain white t-shirt, centered composition, neutral expression, studio lighting with soft shadows, clean solid blue background, high detail skin texture, 85mm lens, shallow depth of field, professional headshot, 8K, cinematic color grading.",
+    "title": "Ultra-Realistic Close-Up Portrait of Handsome Young Man",
+    "description": "A prompt for generating an ultra-realistic, high-detail close-up portrait of a handsome young man with specific facial features (light blue eyes, textured brown hair, groomed beard), centered, with neutral expression, set against a solid blue background using studio lighting and shallow depth of field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771914997926_6v5uki_HB2dDcnb0AAQeJ4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"concept\": \"Elegant Lingerie Mirror Selfie\",\n  \"description\": \"Blonde woman in light blue lace lingerie taking a mirror selfie in a classic bedroom setting.\",\n  \"elements\": [\n    \"Light blue lace lingerie set\",\n    \"Ornate white mirror frame\",\n    \"Floral curtains\",\n    \"Bedside lamp\",\n    \"Smartphone\",\n    \"Blonde wavy hair\"\n  ],\n  \"mood\": \"Intimate and soft\",\n  \"art_style\": \"Realistic lifestyle photography\",\n  \"color_palette\": [\n    \"#A9D0E5\",\n    \"#F5F5DC\",\n    \"#FFFFFF\",\n    \"Powder blue, cream, and white\"\n  ],\n  \"lighting\": \"Soft indoor lighting with warm lamp glow\"\n}",
+    "title": "Elegant Lingerie Mirror Selfie",
+    "description": "A structured prompt for generating a realistic lifestyle photograph of a blonde woman taking a mirror selfie in light blue lace lingerie. The prompt specifies the setting (classic bedroom), mood (intimate and soft), and lighting (soft indoor lighting with warm lamp glow).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771915010473_dndms6_HB181w4WgAAwrz1.jpg",
+      "https://cms-assets.youmind.com/media/1771915010629_pci49q_HB181w5W4AA_pA2.jpg",
+      "https://cms-assets.youmind.com/media/1771915010687_2uyvpf_HB181w6XMAA5vWp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"meta\": {\n    \"quality\": \"ultra_photorealistic, raw style, 8k\",\n    \"camera\": \"iPhone 15 Pro Max\",\n    \"lighting\": \"soft indoor ambient lighting, vintage film glow\",\n    \"style\": \"amateur selfie, no filter, sharp focus\"\n  },\n  \"scene\": {\n    \"location\": \"elegant bedroom with toile de jouy patterned curtains and a cream-colored fringed sofa\",\n    \"atmosphere\": \"cozy, vintage boudoir aesthetic\"\n  },\n  \"subject\": {\n    \"gender\": \"female\",\n    \"body\": {\n      \"type\": \"hyper-extreme hourglass figure, non-standard proportions, biologically impossible ratio\",\n      \"breasts\": \"massive volumetric breasts, heavy full chest, deep cleavage, spilling out of top\",\n      \"waist\": \"impossibly tiny waist, snatched waist, extreme contrast to hips\",\n      \"hips\": \"wide shelf hips, thick thighs, massive glutes, curvy silhouette\"\n    },\n    \"face\": {\n      \"features\": \"natural beauty, minimal makeup, realistic skin texture, visible pores, blonde hair with bangs and voluminous waves, silver earrings\",\n      \"expression\": \"sultry, direct eye contact, slightly parted lips\"\n    },\n    \"outfit\": {\n      \"description\": \"light blue off-the-shoulder ruffled crop top, matching lace-trimmed panties, ruffled garter on one thigh, light blue pointed-toe heels\",\n      \"fit\": \"extremely tight, bursting seams, struggling to contain volume, fabric under maximum tension\"\n    },\n    \"pose\": \"kneeling on the carpeted floor in a pin-up style crawl, arching back to emphasize the extreme hourglass silhouette\"\n  }\n}",
+    "title": "Amateur Selfie Pin-Up with Extreme Hourglass Figure",
+    "description": "A structured prompt for generating an ultra-photorealistic image in the style of an amateur selfie, featuring a female subject with biologically impossible, hyper-extreme hourglass proportions, wearing light blue lingerie, kneeling in a pin-up crawl pose in a vintage boudoir setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771914987836_vkcb0r_HB1rQhEbAAAM2bo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "never2never\n\n▶ Nana\n\n▶ Color：{argument name=\"color\" default=\"Pink\"}",
     "title": "Image Generation Prompt for 'never2never' Character",
     "description": "This is an image generation prompt specifying a character named '七那' (Nana) within the context of 'never2never,' requesting the color pink. The prompt is likely intended for an AI image model to create a visual representation of this character.",
@@ -19,10 +98,19 @@
   },
   {
     "content": "{\n  \"subject\": {\n    \"description\": \"A vertical straight-on mirror selfie of a young woman with long wavy blonde highlighted hair in a luxurious dark marble bathroom at night.\",\n    \"body\": {\n      \"physique\": \"A slim, exaggerated hourglass figure with a curvaceous bust and extremely narrow waist accentuated by the corset silhouette.\",\n      \"pose\": \"Standing directly facing the mirror head-on, body fully square to the mirror, taking a selfie with a gold iPhone held straight up at face level. Subtle weight shift to one hip for natural posture.\",\n      \"features\": \"Long wavy blonde highlighted hair worn down. Full lips, defined brows, glamorous makeup. Flawless, tattoo-free skin.\"\n    },\n    \"wardrobe\": {\n      \"outfit\": \"A matching leopard print strapless corset top and ruched leopard print mini skirt with a midriff cutout between the two pieces.\"\n    }\n  },\n  \"pose_action\": \"Standing perfectly square and straight-on to the mirror, phone held centered at face height, capturing a direct full front-facing mirror selfie with no body angle or rotation.\",\n  \"scene\": {\n    \"environment\": \"A high-end hotel or luxury penthouse bathroom at night.\",\n    \"elements\": \"Dark brown and black marble walls, large ornate gold-framed mirror centered on the wall, glass shower enclosure with gold fixtures visible in background, warm recessed ceiling lighting.\",\n    \"composition\": \"Vertical straight-on mirror selfie capturing full body from mid-thigh to top of head, subject perfectly centered in the mirror frame, phone and hand visible reflected in mirror at face level.\"\n  },\n  \"lighting\": {\n    \"setup\": \"Warm ambient evening lighting from recessed ceiling lights, supplemented by soft glow of the phone screen illuminating her face from the front.\",\n    \"details\": \"Warm golden tones reflect off the marble walls. Even front-facing illumination with soft highlights on hair and skin. No harsh shadows. Mirror reflection is sharp and clear.\"\n  },\n  \"camera\": {\n    \"technical\": \"Ultra-realistic straight-on mirror selfie photograph in 9:16 aspect ratio. Sharp focus on face and full outfit. Subject centered in frame. Editorial fashion photography quality, highly detailed.\"\n  }\n}",
-    "title": "Luxury Mirror Selfie Prompt for Nano Banana Pro",
-    "description": "A detailed JSON prompt designed for Nano Banana Pro to generate an ultra-realistic, vertical mirror selfie of a young woman in a luxurious dark marble bathroom at night. The prompt specifies the subject's exaggerated hourglass figure, pose, wardrobe (leopard print corset and mini skirt), lighting, and camera settings for an editorial fashion photography quality.",
+    "title": "Ultra-Realistic Mirror Selfie in Luxury Marble Bathroom",
+    "description": "A highly structured prompt designed to generate an ultra-realistic, straight-on mirror selfie of a young woman with an exaggerated hourglass figure, wearing a leopard print corset set in a luxurious dark marble bathroom at night, emphasizing precise pose, lighting, and composition.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1771828731183_n8o0vk_HBzgykhXQAAPQ7E.jpg"
+      "https://cms-assets.youmind.com/media/1771914992049_vzvuxb_HBzgykhXQAAPQ7E.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra-realistic portrait of a young woman taking a casual indoor selfie, soft natural daylight from a nearby window, long wavy brunette hair swept to one side, clear blue eyes, defined brows, subtle natural makeup, light freckles, wearing a fitted ribbed long-sleeve burgundy top and delicate beaded necklace with small drop earrings, relaxed confident expression, slightly tilted head, cozy minimal bedroom background with white walls and door, shallow depth of field, high detail skin texture, cinematic soft lighting, DSLR quality, 50mm lens, realistic color grading",
+    "title": "Ultra-Realistic Indoor Selfie Portrait",
+    "description": "A prompt for generating an ultra-realistic portrait of a young woman taking a casual indoor selfie, emphasizing high detail skin texture, soft natural daylight, and a cozy minimal bedroom background, simulating a DSLR quality 50mm lens shot.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771914989662_2mjrhj_HBzTJgzaUAAHCMH.jpg"
     ],
     "needReferenceImages": false
   },

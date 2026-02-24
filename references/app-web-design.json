@@ -1,5 +1,14 @@
 [
   {
+    "content": "Create a MacBook mockup placed in a minimalist room. Use the attached image on the laptop screen. A woman is sitting at the desk, using the computer, shown from behind. https://t.co/Kerh2vHqqE",
+    "title": "MacBook Mockup with User from Behind",
+    "description": "A simple prompt for creating a photorealistic mockup of a MacBook in a minimalist room, featuring a woman sitting at the desk using the computer, viewed from behind. This prompt requires an attached image to be used on the laptop screen.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771914980536_616501_HBz6dtPXMAEcrRF.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "A vertical split-screen composition. Left side: A high-resolution full-body photograph of a handsome man with a neat beard and dark hair, wearing a crisp white dress shirt tucked into navy blue trousers and brown leather oxford shoes. He is posing against a clean grey wall. Right side: A minimalist, black and white geometric low-poly vector illustration of the same man's face. Above the illustration, the bold sans-serif text '{argument name=\"name\" default=\"BOB\"}' is stacked over the word '{argument name=\"profession\" default=\"Designer\"}'. Professional branding aesthetic, clean and modern.",
     "title": "Vertical Split-Screen Branding Composition",
     "description": "A prompt for creating a vertical split-screen image composition used for professional branding. The left side features a high-resolution photograph of a handsome man in business attire, and the right side displays a minimalist, black and white geometric low-poly vector illustration of his face, overlaid with the bold text 'BOB Designer'.",

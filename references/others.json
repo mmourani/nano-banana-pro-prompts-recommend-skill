@@ -12,6 +12,54 @@
     "needReferenceImages": true
   },
   {
+    "content": "postgresql elephants sitting in a boxing arena eating popcorn an watching a boxing fight between a mysql dolphin and a mariadb sea lion.",
+    "title": "Database Mascot Boxing Match",
+    "description": "A creative and humorous prompt for generating an image depicting a boxing match between database mascots: PostgreSQL elephants eating popcorn in the arena, watching a fight between a MySQL dolphin and a MariaDB sea lion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771915011324_xow6na_HB3vg1nWsAAOioN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Generate an ultra-realistic street-fashion portrait of a young woman; A cyberpunk female assassin stands in the pouring rain, gripping a glowing katana; Create an ultra-cinematic, warm-toned beach scene at sunset with horses running along the edge of the water; Nighttime flash photo with Y2K aesthetic, red digital timestamp in corner.",
+    "title": "Multi-Scenario Image Generation Prompt",
+    "description": "A simple, multi-part prompt that instructs the model to generate four distinct, unrelated images: an ultra-realistic street-fashion portrait, a cyberpunk assassin with a glowing katana in the rain, a cinematic beach scene with running horses at sunset, and a Y2K aesthetic nighttime flash photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771915000666_lh6d1h_HB3jR6mW4AE0JtZ.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Extremely minimal abstract visual.\nSingle sculptural form,\nsingle soft light source,\nsingle color family,\nperfect negative space balance,\nrealistic material shading,\nno decorative elements,\ngallery-level composition.",
+    "title": "Ultimate Designer Stress Test: Minimal Abstract Visual",
+    "description": "A concise, high-level prompt designed as a quality benchmark for generative models, focusing on the most challenging aspects of design: extreme minimalism, perfect balance of negative space, realistic material shading, and sophisticated lighting with a single sculptural form.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771915002160_2j23jk_HA9kENJbMAApcyc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a ultra-realistic studio portrait of a fashionable woman ( as attached image ) centered in frame, facing forward with eyes closed and a serene, relaxed expression, as if enjoying music. She has short, voluminous, naturally curly dark brown hair styled in soft, airy curls framing her face. She wears oversized round sunglasses with thin metal frames and reflective teal-tinted lenses that mirror the background tones. Over her ears are pastel pink over-ear headphones with a soft matte finish",
+    "title": "Ultra-Realistic Studio Portrait of Woman with Eyes Closed and Headphones",
+    "description": "A prompt for creating an ultra-realistic studio portrait of a fashionable woman, centered and facing forward with eyes closed in a serene expression, wearing oversized reflective sunglasses and pastel pink over-ear headphones, based on a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771914993554_30bml2_HB1ZtAvbkAAU8UT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Overall framework: Cyberpunk\n\nInclude a lavish, ruffled carriage\nThat Antoinette might ride!",
+    "title": "Cyberpunk Marie Antoinette Carriage",
+    "description": "A prompt requesting a cyberpunk setting featuring a lavish, ruffled carriage that Marie Antoinette might ride, generated using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771915012668_llbwk5_HBz1-fya8AAAWMw.jpg",
+      "https://cms-assets.youmind.com/media/1771915012696_wglh38_HBz1-cmbwAA8NQX.jpg",
+      "https://cms-assets.youmind.com/media/1771915012663_akubif_HBz1-cebMAEp7lR.jpg",
+      "https://cms-assets.youmind.com/media/1771915013460_hthp9n_HBz1-ioagAAU-mI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "{\n  \"meta\": {\n    \"quality\": \"ultra_photorealistic, 8k\",\n    \"camera\": \"portrait framing, 85mm lens\",\n    \"lighting\": \"soft ambient twilight lighting, warm magical glow\",\n    \"style\": \"Pixar-style 3D character, whimsical fantasy, cozy cinematic render\"\n  },\n  \"scene\": {\n    \"location\": \"floating giant soft cloud in dreamy twilight sky, glowing magical butterflies around\",\n    \"atmosphere\": \"magical, whimsical, enchanting, cozy aesthetic\"\n  },\n  \"subject\": {\n    \"gender\": \"female\",\n    \"body\": {\n      \"type\": \"natural teen proportions, sitting relaxed on cloud\",\n      \"pose\": \"holding a glowing magical book with both hands, legs crossed, cheerful posture\"\n    },\n    \"face\": {\n      \"features\": \"big sparkling green eyes, short wavy pink hair tied with ribbons, soft glowing skin, light freckles\",\n      \"expression\": \"cheerful, dreamy, warm smile\"\n    },\n    \"outfit\": {\n      \"description\": \"oversized pastel yellow sweater, soft leggings\",\n      \"fit\": \"loose, flowing, comfortable\"\n    }\n  },\n  \"effects\": {\n    \"special\": \"floating glowing butterflies, magical sparkle particles, soft cinematic bokeh, ultra-detailed textures, dreamy twilight glow\"\n  }\n}",
     "title": "Pixar-Style Girl on a Floating Cloud",
     "description": "A detailed image generation prompt for Nano Banana Pro to create an ultra-photorealistic, Pixar-style 3D character of a girl with pink hair sitting relaxed on a giant soft cloud in a dreamy twilight sky, holding a glowing magical book, surrounded by glowing butterflies.",

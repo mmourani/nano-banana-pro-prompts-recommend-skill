@@ -51,6 +51,49 @@
     "needReferenceImages": false
   },
   {
+    "content": "Top-down flat lay of all {argument name=\"dish\" default=\"DISH\"} ingredients arranged in a perfect radial burst pattern, each in its own pie-slice section radiating from the center. Sections divided by thin hand-drawn lines. Final plated {argument name=\"dish 2\" default=\"DISH\"} in {argument name=\"vessel\" default=\"VESSEL\"} sits at the center, beautifully presented and steaming. Each ingredient labeled at outer edge in uppercase serif with small italic descriptor below — \"[INGREDIENT] / [quantity, preparation, origin]\". Surface: {argument name=\"color\" default=\"COLOR\"} kraft paper, subtly aged. Overhead soft box lighting, zero harsh shadows, slight vignette pulling focus to center. Dish name curved around center circle like an engraving: \"[DISH NAME]\". Subtitle: \"[TAGLINE]\". Luxury cookbook editorial meets heritage restaurant poster. 4K overhead, tack sharp, warm film grain.",
+    "title": "Luxury Cookbook Ingredient Flat Lay Infographic",
+    "description": "A customizable prompt template for generating a top-down flat lay image of food ingredients arranged in a radial burst pattern, designed to look like a luxury cookbook editorial or heritage restaurant poster, with technical annotations and a central plated dish.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771914985734_qt26uq_HB4AQ94XgAErxnO.jpg",
+      "https://cms-assets.youmind.com/media/1771914985780_lbqfol_HB4AY_2WIAARU4C.jpg",
+      "https://cms-assets.youmind.com/media/1771914985761_mod48u_HB4AgcqW4AAycIt.jpg",
+      "https://cms-assets.youmind.com/media/1771914986998_0soqp7_HB4As2eXoAAIMgH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Perfect cinematic cross-section cut through {argument name=\"dish name\" default=\"[DISH]\"}, sliced cleanly down the center revealing every internal layer in full detail. The cut face is facing the camera straight-on, like a geological diagram of flavor. Each visible layer is labeled with a thin horizontal line extending to the right — uppercase sans-serif \"{argument name=\"ingredient name\" default=\"[INGREDIENT NAME]\"}\" with italic descriptor below. Background: flat matte {argument name=\"background color\" default=\"[COLOR]\"}. Lighting: dramatic side light from left casting long shadows, single warm spotlight on the cut face. Every texture hyperreal — visible moisture, air pockets, char, glaze, and steam. Mood: architectural food photography meets scientific illustration. Dish name \"[DISH NAME]\" in large elegant type at top. Subtitle: \"[TAGLINE]\". 4K, tack sharp, Style ref: Wes Anderson symmetry meets Michelin-star kitchen.",
+    "title": "Cinematic cross-section food photography prompt",
+    "description": "A detailed image generation prompt for creating a perfect cinematic cross-section cut of a dish, revealing internal layers with scientific illustration style, dramatic lighting, and specific labeling for ingredients, inspired by Wes Anderson's symmetry.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771915006301_aonsth_HB3TlotXwAAsLBM.jpg",
+      "https://cms-assets.youmind.com/media/1771915006281_0s030u_HB3TlOdW8AAR-hR.jpg",
+      "https://cms-assets.youmind.com/media/1771915006304_5ahdgy_HB3TmLUWAAAQQSE.jpg",
+      "https://cms-assets.youmind.com/media/1771915006739_yxk0ko_HB3TmeHW8AEDBD-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "“Create a technical infographic of {argument name=\"object\" default=\"OBJECT\"} with a 45-degree isometric 3D perspective showing the device slightly tilted to reveal depth and dimension.\nCombine a realistic photoreal render with black ink technical annotations on pure white background. Include:\nKey component labels with color-coded callout boxes\nInternal component visibility through transparent/cutaway sections\nMeasurements, dimensions, and precise scale markers\nMaterial callouts and quantities\nColor-coded arrows for function/flow: RED (power/battery), BLUE (data/connectivity), ORANGE (thermal/processor), GREEN (sensors/haptics)\nSimple schematics or cross-sectional diagrams where relevant\n\nPlace “OBJECT” title in a hand-drawn technical box (top-left corner).\nStyle: Black linework (technical pen/architectural), sketched but precise. Object remains clearly visible. Educational museum-exhibit vibe. Clean composition, balanced negative space.\nPerspective: Isometric 3D angle—tilted to show depth, dimension, and internal architecture dramatically. Like a professional product teardown or engineering manual.\nColors: ~10-15% accent density. Black dominant. White background.\nOutput: 1080×1080, ultra-crisp, social-feed optimized.”",
+    "title": "Technical Infographic of an Object with Isometric 3D View",
+    "description": "A reusable prompt template for generating a technical infographic of any specified object, presented in a 45-degree isometric 3D perspective, combining a photorealistic render with black ink technical annotations, color-coded callouts, and schematics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771914989516_3bwlmw_HB1zkD3bgAAhNXP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic rendering of the object with an overlay of technical annotations placed directly on top.\nUse black ink line drawings and text (in the style of a technical pen / architectural sketch) on a clean white studio background, including:\n• Labels on key components\n• Internal outlines in cutaway or cross-section view\n• Measurement, dimension, and scale markers\n• Material and quantity designations\n• Arrows indicating function, force, or flow (air, sound, power, pressure)\n• Simple diagrams or cross-sections where appropriate\nPlace the title {argument name=\"object title\" default=\"[OBJECT]\"} in a box with hand-drawn technical notes in one of the corners.\nStyle and layout rules:\n• The real object remains clearly visible under the annotations\n• Annotations look schematic, technical, and architectural\n• Clear composition with balanced negative space\n• Educational atmosphere resembling a museum exhibition or engineering manual.\nVisual style:\nMinimalist technical illustration aesthetics, black lines over realistic images, crisp but slightly hand-drawn.\nColor palette:\nWhite background, only black annotation lines and text. No colors.\nOutput:\n1080x1080 resolution, very sharp image, optimized for social media, no watermarks.",
+    "title": "Technical Infographic Overlay for Object Annotation",
+    "description": "A structured prompt template designed to generate an infographic image by combining a realistic photograph of an object with an overlay of technical, architectural-style annotations. It specifies using only black lines on a white background for labels, internal outlines, measurements, and functional arrows, creating an educational, engineering manual aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771915001456_ihgqiy_HBzijzrXkAAFkKT.jpg",
+      "https://cms-assets.youmind.com/media/1771915001462_fzqkfc_HBzijznXMAEkxUV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Perfect cinematic cross-section cut through {argument name=\"dish\" default=\"[DISH]\"}, sliced cleanly down the center revealing every internal layer in full detail. The cut face is facing the camera straight-on, like a geological diagram of flavor. Each visible layer is labeled with a thin horizontal line extending to the right — uppercase sans-serif \"{argument name=\"ingredient name\" default=\"[INGREDIENT NAME]\"}\" with italic descriptor below. Background: flat matte {argument name=\"color\" default=\"[COLOR]\"}. Lighting: dramatic side light from left casting long shadows, single warm spotlight on the cut face. Every texture hyperreal — visible moisture, air pockets, char, glaze, and steam. Mood: architectural food photography meets scientific illustration. Dish name \"[DISH NAME]\" in large elegant type at top. Subtitle: \"[TAGLINE]\". 4K, tack sharp, Style ref: Wes Anderson symmetry meets Michelin-star kitchen.",
     "title": "Architectural Food Photography Cross-Section Prompt",
     "description": "A structured prompt designed for Adobe Firefly using Nano Banana Pro to create a hyper-realistic, cinematic cross-section of a dish. It uses a scientific illustration style with labeled layers, dramatic lighting, and a Wes Anderson aesthetic.",
