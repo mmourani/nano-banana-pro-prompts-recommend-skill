@@ -1,5 +1,45 @@
 [
   {
+    "content": "Make a beautiful 9:16 wallpaper. Leave natural negative space near the top and bottom. Give the wallpaper a subtle top to bottom gradient. No blur effects or cropping. Keep the scene simple.\n({argument name=\"image concept\" default=\"[Enter the image concept you want to generate]\"})",
+    "title": "Nano Banana Pro Prompt: 9:16 Wallpaper Generation",
+    "description": "A template prompt for Nano Banana Pro to generate high-quality 9:16 wallpapers suitable for mobile devices, emphasizing natural negative space, subtle gradients, and simplicity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001543764_6jyaz9_HB6DubIaoAA1t_C.jpg",
+      "https://cms-assets.youmind.com/media/1772001543656_hzk2z8_HB6DucjaYAAKG2S.jpg",
+      "https://cms-assets.youmind.com/media/1772001543916_es242v_HB6Dua_a4AAsvR9.jpg",
+      "https://cms-assets.youmind.com/media/1772001544616_5hdd6l_HB6DudCa0AIMPcP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A large-scale origami-style kitchen cutaway in color, filling most of the frame. All elements are made from folded paper planes: cabinets, countertops, island, backsplash, floor, window, and appliances simplified into geometric forms. Soft pastel colors (warm white cabinetry, pale sage or soft blue accents, light wood tones). Clear fold lines, layered paper depth, visible paper texture. Natural daylight, subtle shadows, modern minimal kitchen aesthetic.",
+    "title": "Origami Kitchen Cutaway",
+    "description": "A prompt for generating a large-scale, origami-style cutaway of a modern kitchen, where all elements (cabinets, island, appliances) are rendered as folded paper planes, specifying soft pastel colors, visible fold lines, and natural daylight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001503565_6xqmmv_HB53rLUa0AA_O14.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A large-scale origami-style living room cutaway in color, filling most of the frame. The entire space is constructed from folded paper planes: sofa, coffee table, floor, walls, window, shelving, and decor, all formed with crisp, architectural folds. Soft pastel palette ({argument name=\"color palette\" default=\"warm beige walls, muted gray sofa, soft terracotta accents, light wood tones\"}). Visible paper texture throughout. Natural daylight, gentle shadows between folds, clean geometry, premium modern interior feel.",
+    "title": "Origami Living Room Architecture Concept",
+    "description": "A detailed prompt for generating a large-scale origami-style living room cutaway, emphasizing architectural folds, a soft pastel palette, and clean geometry for a premium modern interior feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001510077_j423j7_HB5Q8lGa4AAO6WU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a photorealistic 8K top-down flat lay composition of a dog formed entirely from real mechanical keyboard keycaps. The keycaps should be matte PBT plastic in OEM or Cherry profile, arranged in a tight, uniform grid. Every keycap must include crisp, realistic legends—letters, numbers, punctuation, function keys, arrows, and symbols—printed in double-shot or dye-sublimated style. No blank keycaps are allowed. The distribution of legends should feel naturally randomized, as if sourced from real keyboards, with believable variation.\n\nThe keycaps must be precisely arranged to form a clean, clearly recognizable side-profile silhouette of a dog. The silhouette should be sharp and well-defined, with smooth contour transitions that accurately capture the dog’s head, ears, body, legs, and tail. Outside the silhouette, there should be pure white negative space with no additional objects or distractions.\n\nThe background must be seamless, pure white. The composition should have a 16:9 aspect ratio and be perfectly centered in frame. The camera angle must be an exact 90-degree overhead view with minimal perspective distortion, maintaining a completely flat surface appearance.\n\nLighting should be soft, diffused studio lighting with very gentle contact shadows beneath each keycap and subtle edge highlights that emphasize the plastic texture. Avoid harsh shadows or dramatic contrast. The overall result should feel ultra-sharp, clean, noise-free, and highly detailed, showcasing realistic material texture and precise arrangement.",
+    "title": "Top-Down Flat Lay of Dog Formed from Keyboard Keycaps",
+    "description": "A detailed prompt for creating a photorealistic, top-down flat lay image of a dog silhouette formed entirely from mechanical keyboard keycaps, emphasizing precise arrangement, realistic legends, and soft studio lighting on a pure white background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001523931_vt3vmu_HB4yLIaboAARdHP.jpg",
+      "https://cms-assets.youmind.com/media/1772001524120_i4dipq_HB4yLIab0AEA2uv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Create a MacBook mockup placed in a minimalist room. Use the attached image on the laptop screen. A woman is sitting at the desk, using the computer, shown from behind. https://t.co/Kerh2vHqqE",
     "title": "MacBook Mockup with User from Behind",
     "description": "A simple prompt for creating a photorealistic mockup of a MacBook in a minimalist room, featuring a woman sitting at the desk using the computer, viewed from behind. This prompt requires an attached image to be used on the laptop screen.",

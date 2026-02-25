@@ -1,5 +1,119 @@
 [
   {
+    "content": "Final Fantasy\n{argument name=\"summon name\" default=\"Leviathan\"} summon beast VS player in a fantastical style\n\nNext\n\n{argument name=\"theme 1\" default=\"Sacred Geometry\"}\n\nNext\n\nSacred Geometry and {argument name=\"theme 2\" default=\"Fractal Structure\"}",
+    "title": "Final Fantasy Leviathan VS Player and Sacred Geometry",
+    "description": "A sequence of three prompts: the first requests a fantastical depiction of the Final Fantasy summon Leviathan battling a player, followed by prompts for Sacred Geometry and Sacred Geometry combined with Fractal Structure.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001540583_u47ljz_HB9aUvcaMAEzOAb.jpg",
+      "https://cms-assets.youmind.com/media/1772001540579_4dbyn1_HB9aUwkaMAE97KZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "MASTER MINIATURE DIORAMA PROMPT SHELL — CONSOLIDATED VERSION\nSCENE:\nA fortified desert caravanserai featuring thick outer walls, a large central courtyard, multiple merchant lodging wings, camel stables, watchtowers, arched gateways, and clustered market storage rooms.\n\nIf no scene description is provided, generate a visually interesting culturally recognizable environment or architectural location of your own choosing. Create a cohesive miniature settlement, district, or environment with multiple structures, pathways, and environmental storytelling elements arranged into a contained display composition suitable for a collectible diorama.\nWhen generating or inventing a scene, prioritize architectural and cultural diversity and intentionally vary the environment type, building styles, historical inspiration, regional influence, and settlement purpose so each generated miniature feels visually distinct and not a repetition of common village, temple, garden, or plaza layouts.\nEnsure the architecture organizes around a natural central hub so structures cluster with believable spatial gravity, forming a cohesive miniature settlement with denser core structures and supporting elements arranged outward. Arrange the layout as a compact, layered, interconnected district filling the platform naturally without empty gaps. Ensure the entire environment clearly reads as a small handcrafted tabletop collectible model, with miniature-scale architecture and compressed model-world proportions rather than life-sized buildings.\nSTYLE:\nFrame the camera at a stable product-display distance so the entire collectible diorama remains clearly visible with comfortable margins, avoiding close cinematic crops or environmental perspective shots. Render as a premium stylized 3D collectible miniature diorama on a fully visible, centered self-contained display base, shown from a slightly elevated 3/4 tabletop angle against a clean neutral studio gradient background. Maintain collectible figurine scale and clean display presentation.\nAll elements should appear sculpted from smooth matte ceramic, painted resin, or stylized polymer with rounded edges, simplified geometry, and slightly exaggerated toy-like proportions. Keep surfaces clean and intentionally stylized. Avoid fingerprints, rough handmade textures, workshop scenes, macro photography depth-of-field, or photoreal clay imperfections.\nUse soft professional studio product lighting: gentle global illumination, warm key light, soft ambient bounce, controlled shadows, and optional warm interior window glow.\nRender any water or translucent materials as poured clear resin with smooth transparency, subtle reflections, soft internal depth, and slightly thick stylized edges.\nInclude small environmental details but keep everything cohesive, simplified, and sculptural. Prioritize clean stylized modeling over photorealistic texture detail.\nOver",
+    "title": "Whimsical Diorama of a Fortified Desert Caravanserai",
+    "description": "A comprehensive miniature diorama prompt shell for generating a fortified desert caravanserai, detailing the scene, architecture, composition, and a stylized aesthetic resembling a collectible model sculpted from matte ceramic or resin.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001512185_q3gc2y_HB83aaIaMAMEYX5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Scene:\nA stylized medieval fantasy village at morning featuring a Market Square Shopfront with timber awning frame and striped fabric canopy, a Village Inn with carved wooden balcony railings and dormer windows, a Timber-Framed Village Cottage built on a stone foundation base with exposed timber beams and plaster wall panels, a Noble Manor House with multiple steep shingled roofs and decorative roof finials, a Stone Watchtower with circular tower windows and crenellation detail, and an Arched Gatehouse with keystoned arch and portcullis gate. Artisan stalls are arranged in structured rows across the cobblestone square with clear walking lanes between them. Potters, weavers, and woodcarvers display goods beneath striped canopies while villagers gather in moderate evenly spaced clusters. Guards maintain presence near the gatehouse and market edges. The Reflective Water Body remains unobstructed and calm, with activity confined to dock platforms only. Dense pine forest clusters and rounded shrubs frame the vibrant yet orderly craft fair.\n\nStyle:\nCinematic stylized fantasy medieval village, warm golden morning sunlight, long soft shadows, clean blue sky illumination, subtle volumetric light rays, painterly materials, softened stone and wood textures, vibrant but controlled color grading, rounded stylized forms, balanced exposure, atmospheric clarity, cozy environmental realism, high-end game environment quality\n\nCamera:\nElevated three-quarter aerial perspective overlooking the village center, slight downward angle, wide environmental framing, medium-wide lens feel, strong foreground-to-background depth layering, foreground elements anchoring lower frame, midground architecture forming primary focal mass, background forest creating depth wall, natural diagonal building arrangement, cobblestone paths acting as leading lines guiding toward central focal structure, balanced environmental composition, cinematic AAA game establishing shot",
+    "title": "Cinematic Stylized Medieval Market Day",
+    "description": "A detailed prompt for generating a cinematic, stylized fantasy medieval village scene during a market day, specifying architectural elements, warm golden morning sunlight, and an elevated aerial perspective for a high-end game environment quality.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001524129_3uxbyt_HB82bMGaIAAHc-7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "SCENE:\nA vast frozen valley contains the fallen remains of enormous ancient stone giants locked in a long-forgotten battle beneath pale winter daylight. Colossal shattered statues, broken weapons, and half-buried armored limbs stretch across the icy terrain while narrow frozen pathways and abandoned expedition markers show human scale. In the foreground, cracked ice ridges, snow-covered shields, and wind-swept banners frame the overlook. Low winter sunlight reflects off snow particles while distant glacier cliffs dissolve into cold atmospheric haze.\nSTYLE:\nProduction-ready AAA cinematic game environment concept art emphasizing monumental scale contrast, believable winter lighting physics, snow diffusion realism, and semi-painterly stone material clarity.",
+    "title": "Frozen Valley of Fallen Titans Concept Art",
+    "description": "A detailed prompt for generating concept art of a vast, frozen valley containing the shattered remains of ancient stone giants, emphasizing monumental scale, winter lighting physics, and AAA cinematic game environment style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001511255_v5635i_HB80wFoaMAIfas2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Nobita's Great Adventure into the Underworld\nVS {argument name=\"enemy character\" default=\"Demonic\"}",
+    "title": "Doraemon Movie Scene Generation",
+    "description": "A prompt for generating an image based on the Doraemon movie 'Nobita's Great Adventure into the Underworld,' specifically featuring a confrontation with the character Demonic. The prompt uses the Japanese titles and names.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001537687_nbso6a_HB7URsja4AARqgb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Final Fantasy\nSummoned Beast Leviathan VS Player in Cyberpunk style!\n↑\nCyberpunk (template)\n\nNext\nMake the players 9 people...",
+    "title": "Nano Banana Pro Prompt: Final Fantasy Leviathan vs Player (Cyberpunk)",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) to generate an image of the Final Fantasy summon Leviathan battling a player, rendered in a Cyberpunk style. The user then tried to increase the number of players to 9.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001543784_owip3k_HB5zCxHasAIebJp.jpg",
+      "https://cms-assets.youmind.com/media/1772001543764_fjnwal_HB5zC0_bQAEgUM3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Make {argument name=\"summon beast\" default=\"Titan\"} a little smaller\nIn the back of the screen\nMake it emit {argument name=\"attack name\" default=\"Hokuto Hyakuretsu Ken\"} with radiation",
+    "title": "Titan with Hokuto Hyakuretsu Ken Generation",
+    "description": "A prompt requesting a depiction of the Final Fantasy summon Titan, positioned slightly smaller and further back in the frame, while emitting a 'Hokuto Hyakuretsu Ken' (Fist of the North Star Hundred Crack Fist) style radiation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001540357_m9jagy_HB5wh93bMAAYnLT.jpg",
+      "https://cms-assets.youmind.com/media/1772001540387_te2yxt_HB5wh93aoAAZ5Go.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Final Fantasy\n{argument name=\"summon name\" default=\"Bahamut\"} summon beast VS player in a fantastical style",
+    "title": "Final Fantasy Bahamut VS Player Generation",
+    "description": "A prompt requesting a fantastical depiction of the Final Fantasy summon Bahamut battling a player character.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001539833_vq1pv6_HB5sRE5bIAAszlp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Final Fantasy\n{argument name=\"summon name\" default=\"Ifrit\"} summon beast in a fantastical style",
+    "title": "Final Fantasy Ifrit Summon Generation",
+    "description": "A prompt requesting a fantastical or imaginative depiction of the Final Fantasy summon Ifrit.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001537687_q0xiic_HB5rwOFbkAEJ6he.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Final Fantasy\n{argument name=\"summon name\" default=\"Titan\"} summon beast in a fantastical style",
+    "title": "Final Fantasy Titan Summon Generation",
+    "description": "A prompt requesting a fantastical or imaginative depiction of the Final Fantasy summon Titan.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001538916_rcorkv_HB5rUAiaoAA5pkI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A cinematic close-up of a weathered retro-futuristic binocular device being held by a scout in a dusty desert environment. The device is painted a faded {argument name=\"device color\" default=\"red and yellow\"}, covered in sand and grime. Sunlight glints off the thick glass lens. In the background, a hazy, orange-tinted wasteland is visible through a shallow depth of field. 35mm film grain, moody lighting, \"Star Wars\" or \"Dune\" aesthetic. Focus on the tactile buttons, rubberized grips, and the worn-down industrial labels. 8k, photorealistic.",
+    "title": "Retro-Futuristic Binocular Cinematic Close-up",
+    "description": "A detailed prompt for generating a cinematic close-up of a weathered, retro-futuristic binocular device held by a scout in a dusty desert, emphasizing tactile details, film grain, and a 'Star Wars' or 'Dune' aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001520412_071dc5_HB5IoudaEAAuJI-.jpg",
+      "https://cms-assets.youmind.com/media/1772001520418_b9zkcz_HB5InL_b0AA3fX9.jpg",
+      "https://cms-assets.youmind.com/media/1772001520469_l440jz_HB5IsllbMAADPNk.jpg",
+      "https://cms-assets.youmind.com/media/1772001522063_s3nudk_HB5Jp-ba8AIGQnY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A young woman wearing a sleek, form-fitting yellow and black crystal-clear spider suit. The material is reflective and transparent, showing a black armored exoskeleton underneath. She is perched on a rainy gargoyle overlooking a Neo-Tokyo cityscape. Neon yellow lights reflect off the wet suit. Intense atmosphere, dramatic shadows, volumetric fog, hyper-detailed textures, masterpiece quality.",
+    "title": "Crystal Spider Suit in Neo-Tokyo",
+    "description": "A prompt for generating a dramatic, hyper-detailed image of a young woman in a reflective, transparent yellow and black crystal-clear spider suit. The scene is set on a rainy gargoyle overlooking a Neo-Tokyo cityscape, emphasizing intense atmosphere, dramatic shadows, volumetric fog, and neon yellow reflections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001533974_leyibe_HB3Icd7bgAErN7M.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Reimagine me inside a glowing Minecraft cave, standing with one arm raised while a cubical bat hangs upside down above my hand",
     "title": "Reimagine Photo in Minecraft Cave",
     "description": "A prompt for transforming an uploaded photo of a person into a digital illustration where they are standing inside a glowing Minecraft cave with a cubical bat hanging above their hand.",

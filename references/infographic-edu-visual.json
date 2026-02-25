@@ -51,6 +51,36 @@
     "needReferenceImages": false
   },
   {
+    "content": "high-resolution black and white coloring book style line art set of simple stick figure clipart on a clean white background, featuring a diverse group of people in various poses and activities, along with a playful dog, a standing horse, a grazing cow, a sitting cat, and other familiar everyday subjects such as trees, houses, cars, flowers, and basic objects, all drawn with smooth, consistent outlines, no shading, large open areas for coloring, and clear separation between each element for easy cutting and arrangement.",
+    "title": "Simple Stick Figure Coloring Book Clipart",
+    "description": "A prompt for generating high-resolution black and white line art suitable for a coloring book, featuring simple stick figure clipart of diverse people, animals (dog, horse, cow, cat), and everyday objects, emphasizing clear outlines and large open areas for coloring.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001502085_cwy9tu_HB7ul-SXoAAjoBU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Perfect cinematic cross-section cut through a tiramisu, sliced cleanly down the center, cut face straight-on to camera like a geological flavor diagram. Clearly visible layers: cocoa powder dusting, mascarpone cream, espresso-soaked ladyfingers, mascarpone cream base — each layer labeled with thin horizontal line to the right, uppercase sans-serif ingredient name with italic descriptor below. Flat matte neutral beige background. Dramatic left side lighting casting long shadows, single warm spotlight illuminating the cut face. Hyperreal textures — visible cocoa dust, creamy air pockets, soaked sponge structure, slight moisture and softness. Mood: architectural food photography meets scientific illustration. Title “TIRAMISU” in large elegant type at top. Subtitle: “Layers of Espresso & Cream.” 4K, tack sharp, Wes Anderson symmetry meets Michelin-star kitchen.",
+    "title": "Architectural Tiramisu Cross-Section",
+    "description": "A highly specific prompt for generating a hyperreal, architectural food photograph of a tiramisu cross-section, detailing visible layers, textures, lighting (dramatic left side lighting), and labeling the ingredients like a scientific illustration, inspired by Wes Anderson aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001504717_6unzx2_HB40FVIXQAE9het.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a technical infographic of {argument name=\"object name\" default=\"[OBJECT NAME]\"} with a 45-degree isometric 3D perspective showing the device slightly tilted to reveal depth and dimension.\nCombine a realistic photoreal render with black ink technical annotations on pure white background. Include:\nKey component labels with color-coded callout boxes Internal component visibility through transparent/cutaway sections\nMeasurements, dimensions, and precise scale markers Material callouts and quantities \nColor-coded arrows for function/flow: RED (power/battery), BLUE (data/connectivity), ORANGE (thermal/processor), GREEN (sensors/haptics)\nSimple schematics or cross-sectional diagrams where relevant \nPlace “OBJECT NAME” title in a hand-drawn technical box (top-left corner).\nStyle: Black linework (technical pen/architectural), sketched but precise. Object remains clearly visible. Educational museum-exhibit vibe. Clean composition, balanced negative space.\nPerspective: Isometric 3D angle—tilted to show depth, dimension, and internal architecture dramatically. Like a professional product teardown or engineering manual.\nColors: ~10–15% accent density. Black dominant. White background.\nOutput: 1080×1080, ultra-crisp, social-feed optimized.",
+    "title": "Technical Infographic Template for Objects",
+    "description": "A template prompt for creating a technical infographic of any object, using a 45-degree isometric 3D perspective, combining photorealism with black ink annotations and color-coded arrows for function/flow.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001512625_1omobh_HB4jNMqXQAAQHJE.jpg",
+      "https://cms-assets.youmind.com/media/1772001512780_i7a0s3_HB4jNLvWgAALsmW.jpg",
+      "https://cms-assets.youmind.com/media/1772001512653_wu5r6i_HB4jNL1XkAAa_CV.jpg",
+      "https://cms-assets.youmind.com/media/1772001514012_n92c2t_HB4jNMYWMAEDohe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Top-down flat lay of all {argument name=\"dish\" default=\"DISH\"} ingredients arranged in a perfect radial burst pattern, each in its own pie-slice section radiating from the center. Sections divided by thin hand-drawn lines. Final plated {argument name=\"dish 2\" default=\"DISH\"} in {argument name=\"vessel\" default=\"VESSEL\"} sits at the center, beautifully presented and steaming. Each ingredient labeled at outer edge in uppercase serif with small italic descriptor below — \"[INGREDIENT] / [quantity, preparation, origin]\". Surface: {argument name=\"color\" default=\"COLOR\"} kraft paper, subtly aged. Overhead soft box lighting, zero harsh shadows, slight vignette pulling focus to center. Dish name curved around center circle like an engraving: \"[DISH NAME]\". Subtitle: \"[TAGLINE]\". Luxury cookbook editorial meets heritage restaurant poster. 4K overhead, tack sharp, warm film grain.",
     "title": "Luxury Cookbook Ingredient Flat Lay Infographic",
     "description": "A customizable prompt template for generating a top-down flat lay image of food ingredients arranged in a radial burst pattern, designed to look like a luxury cookbook editorial or heritage restaurant poster, with technical annotations and a central plated dish.",

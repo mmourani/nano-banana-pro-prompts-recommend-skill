@@ -12,6 +12,36 @@
     "needReferenceImages": true
   },
   {
+    "content": "Tarot Card 18 The Moon\nLike Mális Mizer...\n\nNext\nInclude Eros and Aphrodite\n\nFront and back\n\nMake Pisces circle the margin",
+    "title": "Nano Banana Pro Prompt: Tarot Card 18 (The Moon) with Mális Mizer and Pisces",
+    "description": "A complex prompt for Nano Banana Pro (Gemini 3 Pro Image) to generate an image based on the Tarot card 18 (The Moon), incorporating elements reminiscent of the visual kei band Mális Mizer, Eros and Aphrodite, and a circle of Pisces in the margin.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001542683_rabyb0_HB7Q6Lya0AAnV4p.jpg",
+      "https://cms-assets.youmind.com/media/1772001542604_qdkukx_HB7Q6NGaYAEPmk8.jpg",
+      "https://cms-assets.youmind.com/media/1772001543354_wgcrt3_HB7Q6LybAAAh236.jpg",
+      "https://cms-assets.youmind.com/media/1772001544093_xxg82u_HB7Q6NHbgAA0hzH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Cyberpunk\nPalace of Versailles\n{argument name=\"room\" default=\"Marie Antoinette's bedroom\"}",
+    "title": "Cyberpunk Versailles Palace Generation",
+    "description": "A creative prompt combining the cyberpunk aesthetic with the historical setting of Marie Antoinette's bedroom in the Palace of Versailles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001538427_aqnne8_HB6ms2zaMAAoVKN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Cyberpunk\nPalace of Versailles\n{argument name=\"location\" default=\"Apollo's Fountain\"}",
+    "title": "Cyberpunk Apollo's Fountain Generation",
+    "description": "A prompt combining the cyberpunk aesthetic with the historical location of Apollo's Fountain at the Palace of Versailles, aiming for a futuristic prediction.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001539123_mcx2du_HB6lu9GbEAAU-PW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "postgresql elephants sitting in a boxing arena eating popcorn an watching a boxing fight between a mysql dolphin and a mariadb sea lion.",
     "title": "Database Mascot Boxing Match",
     "description": "A creative and humorous prompt for generating an image depicting a boxing match between database mascots: PostgreSQL elephants eating popcorn in the arena, watching a fight between a MySQL dolphin and a MariaDB sea lion.",

@@ -9,6 +9,114 @@
     "needReferenceImages": false
   },
   {
+    "content": "Make this person have the expressions of 4 emojis: {argument name=\"emoji 1\" default=\"😒\"} {argument name=\"emoji 2\" default=\"🤫\"}{argument name=\"emoji 3\" default=\"🙂\"}{argument name=\"emoji 4\" default=\"😉\"}",
+    "title": "Nano Banana Pro Prompt: Changing Facial Expressions with Emojis",
+    "description": "A fun and simple prompt for Nano Banana Pro (Gemini) that uses emojis to easily change the facial expressions of a person in the generated image. This can be tested for free using Gemini.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001541634_umf69c_HB9YxGzaMAMuXES.jpg",
+      "https://cms-assets.youmind.com/media/1772001541774_0gfn6e_HB9YxG2bgAAspIB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n\"scene\": \"Indoor makeup room mirror selfie\",\n\"subject\": {\n\"character\": \"Young woman\",\n\"face\": {\n\"structure\": \"Oval\",\n\"skin\": \"Clear, smooth, slightly tanned\",\n\"eyes\": {\n\"shape\": \"Almond\",\n\"color\": \"Dark brown\",\n\"expression\": \"Focused on phone screen\"\n},\n\"mouth\": {\n\"lips\": \"Puckered in a kissy face\"\n},\n\"makeup\": \"Light eyeliner, natural glossy lips, subtle blush\"\n},\n\"hair\": {\n\"color\": \"Black\",\n\"length\": \"Shoulder-length\",\n\"texture\": \"Straight with wispy bangs\",\n\"style\": \"Worn down\",\n\"shine\": \"Glossy\"\n},\n\"accessories\": {\n\"necklace\": \"Thin gold chain\",\n\"phone\": \"Smartphone with clear case and a polaroid picture inside\",\n\"nails\": \"Dark burgundy manicure\"\n}\n},\n\"pose\": {\n\"overall\": \"Taking a mirror selfie\",\n\"position\": {\n\"base\": \"Standing\",\n\"orientation\": \"Facing the mirror\"\n},\n\"torso\": {\n\"direction\": \"Frontal\",\n\"posture\": \"Relaxed, slight tilt\"\n},\n\"arms\": {\n\"position\": \"One arm raised holding the phone, other out of frame\",\n\"other\": \"Fingers wrapped naturally around phone\"\n},\n\"legs\": {\n\"position\": \"Standing straight\",\n\"visible\": \"Upper thighs and waistband visible\"\n},\n\"head\": {\n\"turn\": \"Slight tilt to the side\",\n\"expression\": \"Playful, kissy face\"\n}\n},\n\"outfit\": {\n\"top\": {\n\"type\": \"Cropped t-shirt\",\n\"color\": \"White\",\n\"style\": \"Fitted\"\n},\n\"jacket\": {\n\"type\": \"Vintage racing jacket\",\n\"color\": \"Cream, black, and orange\",\n\"style\": \"Oversized, zipped open\",\n\"details\": {\n\"branding\": \"McLaren and Shell logos\",\n\"texture\": \"Distressed fabric\"\n}\n},\n\"bottoms\": {\n\"type\": \"Leggings or yoga pants\",\n\"color\": \"Black\",\n\"style\": \"High-waisted\"\n}\n},\n\"body\": {\n\"type\": \"Slim\",\n\"skin\": \"Smooth, naturally tanned\",\n\"midriff\": \"Slightly exposed above waistband\"\n},\n\"environment\": {\n\"location\": \"Backstage dressing room or makeup studio\",\n\"lighting_fixture\": {\n\"mirror\": \"Wooden frame with large round light bulbs\",\n\"ceiling\": \"Black stage lights\"\n},\n\"background\": {\n\"room\": \"Clothing rack with various garments hanging\",\n\"counter\": \"Makeup tools, brushes, and a clear water bottle on a black surface\"\n}\n},\n\"lighting\": {\n\"type\": \"Artificial vanity lighting\",\n\"quality\": {\n\"intensity\": \"Bright\",\n\"direction\": \"Frontal from the mirror bulbs\"\n},\n\"on_subject\": {\n\"skin\": \"Evenly illuminated with soft shadows\",\n\"hair\": \"Prominent catchlights showing shine\"\n}\n},\n\"photography\": {\n\"angle\": \"Eye-level mirror reflection\",\n\"framing\": \"Medium shot, from upper thighs up\",\n\"focus\": \"Subject and phone in sharp foreground\",\n\"style\": \"Casual mirror selfie\"\n},\n\"color_palette\": {\n\"subject\": {\n\"hair\": \"Black\",\n\"skin\": \"Warm beige\",\n\"top\": \"White\",\n\"jacket\": \"Cream, faded black, orange\",\n\"nails\": \"Dark red\"\n},\n\"environment\": {\n\"lights\": \"Warm white\",\n\"frame\": \"Light wood\",\n\"background\": \"Black, grey, white, pink clothing\"\n}\n},\n\"vibe\": {\n\"energy\": \"Youthful, stylish\",\n\"mood\": \"Casual, confident, playful\",\n\"aesthetic\": \"Vintage streetwear, behind-the-scenes\"\n},\n\"critical_requirements\": {\n\"HAIR\": \"Black, shoulder-length, straight with wispy bangs.\",\n\"FACE\": \"L",
+    "title": "Indoor Makeup Room Mirror Selfie",
+    "description": "A highly structured JSON prompt designed to generate a photorealistic mirror selfie of a young woman in a backstage dressing room, detailing her appearance, pose, outfit (including a vintage racing jacket), environment, and specific lighting conditions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001495687_t7k2ny_HB89ot5WMAAoebk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A portrait size image of highly detailed black and white digital illustration in a comic book or vector art style, depicting a person ({argument name=\"person\" default=\"uploaded photo\"}) she has a calm expression. Her eyes are gazing upwards and slightly to the side. She is dressed in a formal collared shirt underneath a zipped-up leather or bomber-style jacket with a high collar, rendered with clean lines, high contrast shading, and cross-hatching for texture. The background is plain white, focusing entirely on the bust portrait from the chest up, angled slightly from below to emphasize her upward gaze. Style reminiscent of noir graphic novels or modern pop art portraits, monochromatic with gradients from pure black to white.",
+    "title": "Black and White Digital Illustration Portrait",
+    "description": "A prompt for creating a highly detailed black and white digital illustration in a comic book/vector art style. It requires using an uploaded photo for the person's likeness, depicting them in a formal shirt and leather jacket, with a focus on high contrast shading, cross-hatching texture, and a noir graphic novel aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001529716_lgy4jo_HB8HPf_XQAA51BJ.jpg",
+      "https://cms-assets.youmind.com/media/1772001530398_535sda_HB8HPgXWAAAyO6F.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Ultra-realistic portrait of a young woman (use uploaded photo for exact face likeness 100% match, no facial alterations). A medium close-up, low-angle shot; stylish square black glasses; dressed in a red oversized collared t-shirt. A brown leather camera strap crosses her chest as she holds a vintage film camera in her hands. She looks upward thoughtfully, surrounded by lush white climbing flowers in soft focus.",
+    "title": "Ultra-Realistic Portrait with Vintage Camera and Flowers",
+    "description": "A detailed prompt for generating an ultra-realistic, thoughtful portrait of a young woman using an uploaded photo for exact facial likeness. The scene features a low-angle medium close-up, specific clothing (red oversized t-shirt, square black glasses), and a vintage film camera, set against a background of soft-focus white climbing flowers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001527436_008uyt_HB7y0gVbYAEBoM3.jpg",
+      "https://cms-assets.youmind.com/media/1772001527384_xxt2vv_HB7y0b_aEAAgTQw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"prompt\": \"A candid mirror selfie of a woman with long dark hair, whose face is based on a provided reference image, sitting on a white bed next to a fluffy, light-colored cat. She is wearing a dark tank top and light grey wide-leg sweatpants, holding a smartphone up to take the photo. Her bare feet with dark nail polish are visible at the bottom of the frame. The background includes blue floor-to-ceiling curtains and a wooden wardrobe door. The lighting is soft and warm indoors.\"\n}",
+    "title": "Candid Bedroom Mirror Selfie",
+    "description": "A JSON prompt for generating a candid mirror selfie of a woman (based on a reference image) sitting on a white bed next to a fluffy cat, detailing her casual outfit, visible dark nail polish on her feet, and the soft, warm indoor lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001507879_ufu6x2_HB7qs51XIAAcZ-B.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Ultra-realistic studio portrait of a man, close-up headshot, centered composition, neutral expression, sharp facial details, textured skin, clean grooming, wearing a black turtleneck and dark tailored coat, modern minimalist fashion, monochrome black and white photography style, only the glasses in color (translucent amber/orange frame), high contrast lighting, soft studio light, cinematic shadows, editorial fashion photography, plain light background, 85mm lens, shallow depth of field, ultra detailed, photorealistic, magazine quality, 8K.",
+    "title": "Monochrome Portrait with Color Accent",
+    "description": "A prompt for generating an ultra-realistic, monochrome black and white studio portrait of a man, emphasizing sharp facial details, cinematic shadows, and a single color accent: translucent amber/orange glasses frames.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001509837_wtdti7_HB6PZHka8AAyFpm.jpg",
+      "https://cms-assets.youmind.com/media/1772001509899_k5bb2u_HB6PZHjaUAApmHE.jpg",
+      "https://cms-assets.youmind.com/media/1772001509841_4sjjwn_HB6PZHjbcAAGgdX.jpg",
+      "https://cms-assets.youmind.com/media/1772001510775_7769ij_HB6PZHiaMAEnqeC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Hyper-stylized dynamic 3D floating head portrait of the attached reference image, perfectly centered, upright, symmetrical, filling 80% of the 4:5 frame. No neck. No shoulder edges. Clean cut-out. Subject floating in white space.Predominantly white background enhanced with subtle tonal gradients and soft volumetric glow. A thin luminous neon halo ring glows behind the head, slightly diffused but clean and circular.\n\nFacial features match reference photo precisely. Expression: confident, dominant smirk with focused eye contact. Diamond-studded braces sparkle under sharp lighting.\n\nSleek silver sports sunglasses reflect digital stadium lights and neon streaks. Chrome stud earrings and polished silver chain subtly visible.\n\nOfficial lakers shirt strictly front view chest logo and sponsor visible only.\n\nLighting combines bright frontal fill with strong rim lights. Subtle neon reflections trace along jawline edges. Micro lens flares appear at high-intensity highlights.\n\nWhite-on-white energy with controlled neon accents. Futuristic champion aura. Glossy skin, exaggerated reflections, cinematic intensity.\n\nAspect ratio 4:5.",
+    "title": "Dynamic 3D Floating Head Portrait",
+    "description": "A highly specific prompt for generating a hyper-stylized, dynamic 3D floating head portrait based on a reference image, featuring a confident expression, diamond-studded braces, silver sports sunglasses, and an official Lakers shirt logo, set against a white-on-white background with neon accents and strong rim lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001507635_fwhmes_HB6JHiXagAAwLZE.jpg",
+      "https://cms-assets.youmind.com/media/1772001507828_wyaaih_HB6JHfybAAA__0D.jpg",
+      "https://cms-assets.youmind.com/media/1772001508278_yhapbq_HB6JHg1bkAA_FHm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "AI influencer in alternative goth fashion wearing a black glossy face mask, spiked leather wrist cuffs, and long black nails in an indoor setting.",
+    "title": "AI Influencer in Goth Fashion Portrait",
+    "description": "A simple prompt for generating a portrait of an AI influencer styled in alternative goth fashion, featuring a black glossy face mask and spiked leather accessories in an indoor setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001515485_feirlh_HB59YsgWcAEAjTn.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"prompt\": \"Ultra-realistic beach selfie of a young woman with long wavy red hair standing on a rocky sandy beach at golden hour. She is holding a bright pink flower over one eye, looking directly at the camera with a soft, natural expression. She is wearing a white strapless top and a delicate gold heart necklace. Sun-kissed glowing skin with light freckles, dewy makeup, glossy lips. Ocean waves and scattered rocks in the background, warm sunset lighting, cinematic natural light, high detail, sharp focus, shallow depth of field, 4k resolution, photorealistic.\",\n  \"negative_prompt\": \"blurry, low resolution, overexposed, underexposed, distorted face, extra fingers, bad anatomy, watermark, text, logo\",\n  \"settings\": {\n    \"resolution\": \"1024x1536\",\n    \"style\": \"photorealistic\",\n    \"lighting\": \"golden hour\",\n    \"camera\": \"selfie perspective\",\n    \"quality\": \"high detail, 4k\"\n  }\n}",
+    "title": "Golden Hour Beach Selfie with Pink Flower",
+    "description": "A structured prompt for generating an ultra-realistic beach selfie during golden hour. The subject is a young woman with red hair holding a bright pink flower over one eye. The prompt specifies lighting (golden hour), camera perspective (selfie), and detailed textures (sun-kissed skin, dewy makeup) for a photorealistic result.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001529597_batigu_HB5sBksbQAAy7gu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Make me a rapper with a purple camo BAPE hoodie, give me diamond chains and diamond grill. Keep this same image, just make me a rapper",
+    "title": "Rapper Transformation Prompt",
+    "description": "A prompt requesting the transformation of an existing image into a rapper, specifying a purple camo BAPE hoodie, diamond chains, and a diamond grill.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001515215_ck38ud_HB5pnMmXQAAmqc4.jpg",
+      "https://cms-assets.youmind.com/media/1772001515271_3weeyt_HB5qoFNXQAIiGbP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"version\": \"1.0\",\n  \"type\": \"image_prompt_descriptor\",\n  \"language\": \"tr\",\n  \"image_info\": {\n    \"filename\": \"HATX7pYWkAAhEOf.jpg\",\n    \"width\": 1529,\n    \"height\": 2048,\n    \"aspect_ratio\": \"3:4\",\n    \"orientation\": \"portrait\"\n  },\n  \"scene\": {\n    \"location\": \"modern shower cabin / bathroom\",\n    \"background\": [\n      \"large grey ceramic tiles\",\n      \"glass shower panel\",\n      \"shower faucet/handle\",\n      \"towel\"\n    ],\n    \"environment_style\": \"minimal, modern, clean\"\n  },\n  \"subject\": {\n    \"count\": 1,\n    \"description\": {\n      \"gender_presentation\": \"female-presenting adult\",\n      \"hair\": {\n        \"color\": \"platinum blonde / light blonde\",\n        \"style\": \"messy bun with face-framing strands\",\n        \"roots\": \"dark roots visible\"\n      },\n      \"accessories\": [\n        \"large hoop earrings\",\n        \"star necklace\",\n        \"nose piercing\"\n      ],\n      \"outfit\": \"black bikini / strapless top\"\n    }\n  },\n  \"pose_composition\": {\n    \"camera_type\": \"selfie (front camera feel)\",\n    \"angle\": \"high angle downwards\",\n    \"pose\": \"crouching pose\",\n    \"framing\": \"close-medium shot, most of the body in frame\",\n    \"arm_position\": \"arm holding camera extended forward\",\n    \"gaze\": \"direct look at camera\",\n    \"expression\": \"neutral / slightly serious\"\n  },\n  \"lighting\": {\n    \"type\": \"indoor bathroom lighting\",\n    \"quality\": \"soft-diffused / mix of slightly harsh overhead light\",\n    \"highlights\": \"glare/reflection on wet skin\",\n    \"shadows\": \"soft, natural\"\n  },\n  \"visual_style\": {\n    \"mood\": \"casual selfie, candid\",\n    \"color_palette\": [\n      \"grey\",\n      \"black\",\n      \"skin tones\",\n      \"light blonde\"\n    ],\n    \"texture_notes\": [\n      \"wet skin sheen\",\n      \"steam/droplet marks on glass\",\n      \"matte ceramic surface\"\n    ]\n  },\n  \"technical_estimate\": {\n    \"sharpness\": \"high\",\n    \"focus\": \"face centered, wide angle effect\",\n    \"lens_feel\": \"smartphone wide lens\",\n    \"distortion\": \"slight perspective deformation due to selfie\"\n  },\n  \"ai_generation_prompt_tr\": \"Modern gri fayanslı duş kabininde çekilmiş gerçekçi bir ayna/ön kamera selfie hissi. Platin sarı topuz saçlı, yüz çevresinde iki tutam saç bulunan yetişkin kadın, büyük halka küpe, yıldız kolye ve burun piercingi ile çömelmiş pozda. Siyah strapless bikini üst. Kamera yukarıdan elde tutuluyor, kol öne uzanmış. Islak ciltte doğal parlama ve banyo ışığı yansımaları, cam duş panelinde hafif damla/buğu izleri, minimal modern banyo atmosferi, yüksek detay, doğal renkler, smartphone wide-angle selfie composition.\",\n  \"ai_generation_prompt_en\": \"A realistic smartphone selfie shot inside a modern grey-tiled shower cabin. An adult woman with platinum blonde hair in a messy bun, dark roots visible, and face-framing strands, wearing large hoop earrings, a star necklace, and a nose piercing. She is in a crouching pose, holding the camera above at a high angle with her arm extended. Black strapless bikini top. Wet skin highlights with natural bathroom\"\n}",
+    "title": "Realistic Bathroom Selfie in Turkish",
+    "description": "A complex, structured JSON prompt written primarily in Turkish, with an English translation provided within the prompt structure. It aims to generate a realistic, high-angle smartphone selfie feel of a woman in a black bikini top, crouching in a modern gray-tiled shower cabin, focusing on wet skin highlights, visible dark roots, and minimal modern bathroom aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772001534103_oaaitu_HB5O_f4WcAAHwvo.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "{\n  \"prompt\": \"Aesthetic mirror selfie of a young man in a dimly lit modern bedroom, wearing a black oversized sweatshirt, holding a smartphone. A white cat is sitting on his shoulder and licking his hair affectionately. Soft warm overhead lighting from a hanging lamp creates a cozy mood. Slightly messy mirror with smudges and dust visible for a candid, realistic feel. Neutral expression, soft facial features, natural hair. Minimalist interior background with a door and light-colored walls. Subtle grain and low-light noise for a film-like, casual Instagram aesthetic.\",\n  \"style\": \"photorealistic, candid, lifestyle, soft lighting, cozy aesthetic\",\n  \"camera\": {\n    \"type\": \"smartphone front camera\",\n    \"angle\": \"mirror selfie, eye level\",\n    \"lighting\": \"warm overhead light, soft shadows\",\n    \"focus\": \"sharp on subject, slightly soft background\"\n  },\n  \"details\": [\n    \"white cat interacting with subject\",\n    \"messy mirror texture\",\n    \"oversized streetwear\",\n    \"muted color palette\",\n    \"natural imperfections\"\n  ],\n  \"mood\": \"calm, intimate, casual\",\n  \"resolution\": \"high\"\n}",
     "title": "Cozy Aesthetic Mirror Selfie with White Cat",
     "description": "A detailed JSON prompt for generating a photorealistic, candid mirror selfie of a young man in a dimly lit modern bedroom. The prompt includes specific elements like an oversized black sweatshirt, a white cat licking his hair, soft warm overhead lighting, and intentional imperfections like smudges on the mirror to achieve a casual, film-like Instagram aesthetic.",
@@ -32,20 +140,20 @@
   },
   {
     "content": "{\n  “subject”: {\n    “description”: “A candid vertical mirror selfie photograph of a young woman with long hair, taken in a cluttered bedroom.”,\n    “body”: {\n      “physique”: “She has a highly exaggerated, curvy hourglass figure with an extremely narrow, cinched waist and significantly large, wide, and round fitness-style glutes and hips. Her thighs are thick and toned. The pose emphasizes this dramatic waist-to-hip ratio.”,\n      “pose”: “Standing in front of a large round mirror, holding a smartphone with a patterned case up to take a mirror selfie, partially covering her face. One arm is crossed over her midriff. She is looking at the phone screen.”,\n      “features”: “Long hair cascading over her shoulders. The phone case has a colorful cartoon pattern.”\n    }\n  },\n“wardrobe”: {\n    “top”: “A simple, tight-fitting black strapless tube top (bandeau) that shows her midriff.”,\n    “bottom”: “High-waisted, vibrant red booty shorts featuring a large, smiling cartoon face of the Pokemon character Charmander printed across the front.”,\n    “accessories”: “A silver necklace with a small pendant.”\n  },\n  “pose_action”: “Taking a mirror selfie in a messy bedroom to showcase her outfit and physique.”,\n  “scene”: {\n    “environment”: “A cluttered, personalized bedroom reflected in a large round mirror.”,\n    “elements”: “To the left is a bed with a pink and white patterned duvet and a pink metal locker-style cabinet covered in stickers. The wall behind the bed is decorated with several framed anime posters. The floor is messy with clothes, boxes, boots, and other items. A doorway is visible in the background reflection on the right.”,\n“composition”: “Vertical 9:16 aspect ratio mirror selfie. The circular frame of the mirror is visible, reflecting the woman and the entire messy room.”\n  },\n  “lighting”: {\n    “setup”: “Natural ambient room lighting mixed with indoor lights.”,\n    “details”: “The light is bright enough to show all the details of the room and the subject, reflecting off the mirror surface.”\n  },\n  “camera”: {\n    “technical”: “Shot on a smartphone. The photo has a candid, unedited aesthetic typical of a mirror selfie, with realistic colors and textures.”,\n    “constraints”: [\n      “Aspect Ratio 9:16”,\n      “Physique MUST have an extremely narrow waist and SIGNIFICANTLY LARGE, wide fitness glutes and hips”,\n      “Bottoms MUST be red high-waisted shorts with a CHARMANDER Pokemon face”,\n      “Replicate the messy bedroom background with anime posters and pink furniture”,\n      “The image must be a vertical mirror selfie”\n    ]\n  }\n}",
-    "title": "Candid Mirror Selfie with Exaggerated Physique and Charmander Shorts",
-    "description": "A highly specific and structured prompt for generating a candid vertical mirror selfie. The prompt demands an extremely exaggerated hourglass figure with a narrow waist and large glutes, and specifies the subject's attire: a black tube top and vibrant red high-waisted shorts featuring a Charmander cartoon face. It also requires a messy bedroom background with anime posters.",
+    "title": "Mirror Selfie with Exaggerated Hourglass Figure and Charmander Shorts",
+    "description": "A detailed image generation prompt for the Nano Banana Pro model, instructing it to create a vertical mirror selfie of a young woman with an extremely exaggerated hourglass figure, wearing a black tube top and high-waisted red shorts featuring a large Charmander face. The scene must be a cluttered bedroom with specific elements like anime posters and pink furniture, mimicking a candid, unedited smartphone photo aesthetic.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1771915011867_v9p7ni_HBzCNGsXUAE_gbC.jpg"
+      "https://cms-assets.youmind.com/media/1772001545184_6s538z_HBzCNGsXUAE_gbC.jpg"
     ],
     "needReferenceImages": false
   },
   {
-    "content": "{\n  \"subject\": {\n    \"description\": \"A beautiful woman with an hourglass figure\",\n    \"features\": {\n      \"hair\": \"Long, wavy blonde hair with dark roots\",\n      \"eyes\": \"Soft brown eyes, looking towards the camera\",\n      \"facial_details\": \"Well-defined cheekbones, subtle pink lipstick, glowing skin\",\n      \"accessories\": \"Large gold hoop earrings, a gold chain waist belt with hanging tassels\"\n    },\n    \"pose\": \"Mirror selfie, leaning slightly to the left, holding a black smartphone with one hand\",\n    \"attire\": \"Hot pink string bikini with side-tie bottoms\"\n  },\n  \"environment\": {\n    \"setting\": \"Modern, minimalist bathroom\",\n    \"background_elements\": [\n      \"Smooth white wall\",\n      \"Chrome towel rack with a white hanging towel\",\n      \"Marble countertop with a built-in sink in the foreground\",\n      \"Blurred reflection in the bottom mirror edge\"\n    ]\n  },\n  \"lighting_and_atmosphere\": {\n    \"type\": \"Direct, harsh sunlight through a window\",\n    \"effects\": [\n      \"Strong diagonal shadows across the wall\",\n      \"Warm highlights on the subject's skin\",\n      \"High contrast between light and shadow\",\n      \"Bright, airy daytime aesthetic\"\n    ]\n  },\n  \"technical_specifications\": {\n    \"camera_angle\": \"Eye-level, front-facing mirror reflection\",\n    \"composition\": \"Medium shot, vertical orientation\",\n    \"style\": \"Hyper-realistic lifestyle photography\",\n    \"color_palette\": [\"Vivid pink\", \"Crisp white\", \"Warm gold\", \"Soft marble grey\"]\n  }\n}",
-    "title": "Hyper-realistic Mirror Selfie in a Modern Bathroom",
-    "description": "A structured prompt for generating a hyper-realistic lifestyle photograph of a woman taking a mirror selfie in a modern, minimalist bathroom. The prompt specifies details about the subject's appearance, attire (hot pink bikini), and the high-contrast lighting created by harsh sunlight.",
+    "content": "{\n  \"subject\": {\n    \"description\": \"A beautiful woman with an hourglass figure\",\n    \"features\": {\n      \"hair\": \"Long, wavy blonde hair with dark roots\",\n      \"eyes\": \"Soft brown eyes, looking towards the camera\",\n      \"facial_details\": \"Well-defined cheekbones, subtle pink lipstick, glowing skin\",\n      \"accessories\": \"Large gold hoop earrings, a gold chain waist belt with hanging tassels\"\n    },\n    \"pose\": \"Mirror selfie, leaning slightly to the left, holding a black smartphone with one hand\",\n    \"attire\": \"{argument name=\"bikini color\" default=\"Hot pink\"} string bikini with side-tie bottoms\"\n  },\n  \"environment\": {\n    \"setting\": \"Modern, minimalist bathroom\",\n    \"background_elements\": [\n      \"Smooth white wall\",\n      \"Chrome towel rack with a white hanging towel\",\n      \"Marble countertop with a built-in sink in the foreground\",\n      \"Blurred reflection in the bottom mirror edge\"\n    ]\n  },\n  \"lighting_and_atmosphere\": {\n    \"type\": \"Direct, harsh sunlight through a window\",\n    \"effects\": [\n      \"Strong diagonal shadows across the wall\",\n      \"Warm highlights on the subject's skin\",\n      \"High contrast between light and shadow\",\n      \"Bright, airy daytime aesthetic\"\n    ]\n  },\n  \"technical_specifications\": {\n    \"camera_angle\": \"Eye-level, front-facing mirror reflection\",\n    \"composition\": \"Medium shot, vertical orientation\",\n    \"style\": \"Hyper-realistic lifestyle photography\",\n    \"color_palette\": [\"{argument name=\"color 1\" default=\"Vivid pink\"}\", \"Crisp white\", \"Warm gold\", \"Soft marble grey\"]\n  }\n}",
+    "title": "Hyper-Realistic Bikini Mirror Selfie Prompt",
+    "description": "A detailed prompt for generating a hyper-realistic lifestyle photo of a woman taking a mirror selfie in a hot pink bikini. The scene is set in a modern, minimalist bathroom with harsh, high-contrast sunlight creating strong shadows.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1771915008537_aqrq1a_HB3BNABbEAAtnuN.jpg",
-      "https://cms-assets.youmind.com/media/1771915008581_tnl09m_HB3BNU0a0AA1LkG.jpg"
+      "https://cms-assets.youmind.com/media/1772001546937_dks35c_HB3BNABbEAAtnuN.jpg",
+      "https://cms-assets.youmind.com/media/1772001546829_qgdjgm_HB3BNU0a0AA1LkG.jpg"
     ],
     "needReferenceImages": false
   },
