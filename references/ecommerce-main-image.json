@@ -1,5 +1,17 @@
 [
   {
+    "content": "A highly detailed stylized caricature figurine of a person made entirely from woven wicker / rattan material, big head and small body proportions, hyper-realistic texture with intricate basket weave patterns forming facial features, hair, and clothing. The figure stands on a small woven base placed on a wooden table. Background is a warm wooden wall with subtle brand logos or props. Studio lighting, soft shadows, shallow depth of field, ultra-detailed, 8K resolution, sharp focus, photorealistic, artistic craftsmanship, handcrafted sculpture look.",
+    "title": "Stylized Wicker Caricature Figurine",
+    "description": "A prompt for generating a highly detailed, photorealistic image of a stylized caricature figurine made entirely from woven wicker/rattan material, emphasizing hyper-realistic texture, studio lighting, and artistic craftsmanship.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772087649701_0tqhhw_HB9wErJa4AA_xv2.jpg",
+      "https://cms-assets.youmind.com/media/1772087649680_q5i5xl_HB9wEkHaMAApdE0.jpg",
+      "https://cms-assets.youmind.com/media/1772087649691_0fpc19_HB9wEhsbwAAZ5yT.jpg",
+      "https://cms-assets.youmind.com/media/1772087650416_02qv98_HB9wEyYbIAAVqsy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Premium banana milk drink bottle surrounded by swirling milk splash, floating bananas and berries, dynamic liquid motion, creamy textures, bright yellow background, high-speed splash photography, glossy product lighting, ultra-realistic, commercial food ad style, sharp focus, 8K.",
     "title": "Banana Milk Commercial Ad",
     "description": "A prompt for generating an ultra-realistic commercial food advertisement image of a premium banana milk drink bottle, featuring dynamic liquid motion, swirling milk splashes, and floating fruits against a bright yellow background.",

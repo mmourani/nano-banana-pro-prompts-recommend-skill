@@ -9,6 +9,25 @@
     "needReferenceImages": false
   },
   {
+    "content": "{\n  \"id\": \"img_001\",\n  \"title\": \"Blue Seat Gym Mirror Selfie Portrait\",\n  \"category\": \"Fitness Photography\",\n  \"location\": {\n    \"place\": \"Modern Fitness Gym\",\n    \"environment_type\": \"Indoor\",\n    \"flooring\": \"Rubber gym flooring\",\n    \"background_details\": \"Multiple workout machines, weight equipment, and blurred gym members\"\n  },\n  \"subject\": {\n    \"type\": \"Person\",\n    \"gender\": \"Female\",\n    \"age_group\": \"Young adult\",\n    \"pose\": \"Sitting on workout machine seat while taking mirror selfie\",\n    \"facial_expression\": \"Calm and focused\",\n    \"hair\": {\n      \"color\": \"Blonde\",\n      \"style\": \"Tied back ponytail\"\n    }\n  },\n  \"clothing\": {\n    \"top\": {\n      \"type\": \"Sleeveless shirt\",\n      \"color\": \"White\",\n      \"fit\": \"Comfortable gym wear\"\n    },\n    \"bottom\": {\n      \"type\": \"Jogger pants\",\n      \"color\": \"Black with light tie-dye pattern\",\n      \"style\": \"Athletic\"\n    },\n    \"shoes\": {\n      \"type\": \"Sneakers\",\n      \"color\": \"White\",\n      \"purpose\": \"Workout footwear\"\n    }\n  },\n  \"accessories\": {\n    \"headphones\": {\n      \"type\": \"Over-ear\",\n      \"color\": \"White\",\n      \"usage\": \"Listening to music during workout\"\n    },\n    \"mobile_phone\": {\n      \"type\": \"Smartphone\",\n      \"color\": \"Green\",\n      \"usage\": \"Taking mirror selfie\"\n    }\n  },\n  \"equipment\": {\n    \"machine_type\": \"Strength training machine\",\n    \"seat\": {\n      \"color\": \"Blue\",\n      \"material\": \"Cushioned padding\"\n    },\n    \"frame\": {\n      \"color\": \"Grey\",\n      \"material\": \"Metal\"\n    }\n  },\n  \"lighting\": {\n    \"type\": \"Indoor artificial lighting\",\n    \"brightness\": \"Well-lit\",\n    \"mood\": \"Neutral and professional\"\n  },\n  \"camera\"",
+    "title": "Blue Seat Gym Mirror Selfie Portrait",
+    "description": "A highly structured prompt for generating a fitness photography image of a young woman taking a mirror selfie while sitting on a blue seat of a strength training machine in a modern gym.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772087648735_6occrj_HCAJf6RbUAA9o5G.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra-realistic cinematic studio portrait using provided person only. Subject wears black cyberpunk hoodie fully covered in bright glowing neon-orange circuit lines and illuminated zipper, hood up, hands in pockets, three-quarter pose facing right, head slightly down. Round shutter glasses with glowing orange bars. Dramatic studio lighting, glow casting light spill. Smooth dark-to-burnt orange gradient background. Style locked.",
+    "title": "Ultra-Realistic Cyberpunk Studio Portrait",
+    "description": "A prompt for generating an ultra-realistic cinematic studio portrait of a person wearing a black cyberpunk hoodie covered in glowing neon-orange circuit lines, emphasizing dramatic lighting and a specific pose.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772087648655_9ib3at_HB_ww7jaoAAVPGt.jpg",
+      "https://cms-assets.youmind.com/media/1772087648663_06cftj_HB_ww7fbcAACHHL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Make this person have the expressions of 4 emojis: {argument name=\"emoji 1\" default=\"😒\"} {argument name=\"emoji 2\" default=\"🤫\"}{argument name=\"emoji 3\" default=\"🙂\"}{argument name=\"emoji 4\" default=\"😉\"}",
     "title": "Nano Banana Pro Prompt: Changing Facial Expressions with Emojis",
     "description": "A fun and simple prompt for Nano Banana Pro (Gemini) that uses emojis to easily change the facial expressions of a person in the generated image. This can be tested for free using Gemini.",
@@ -49,10 +68,10 @@
   },
   {
     "content": "{\n  \"prompt\": \"A candid mirror selfie of a woman with long dark hair, whose face is based on a provided reference image, sitting on a white bed next to a fluffy, light-colored cat. She is wearing a dark tank top and light grey wide-leg sweatpants, holding a smartphone up to take the photo. Her bare feet with dark nail polish are visible at the bottom of the frame. The background includes blue floor-to-ceiling curtains and a wooden wardrobe door. The lighting is soft and warm indoors.\"\n}",
-    "title": "Candid Bedroom Mirror Selfie",
-    "description": "A JSON prompt for generating a candid mirror selfie of a woman (based on a reference image) sitting on a white bed next to a fluffy cat, detailing her casual outfit, visible dark nail polish on her feet, and the soft, warm indoor lighting.",
+    "title": "Nano Banana Pro Prompt: Candid Mirror Selfie with Cat",
+    "description": "A simple text prompt for Nano Banana Pro describing a candid mirror selfie of a woman with long dark hair (based on a reference image) sitting on a white bed next to a cat. The prompt details her attire, the presence of a smartphone for the photo, and the indoor background elements like curtains and a wardrobe.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1772001507879_ufu6x2_HB7qs51XIAAcZ-B.jpg"
+      "https://cms-assets.youmind.com/media/1772087655942_vdyp6u_HB7qs51XIAAcZ-B.jpg"
     ],
     "needReferenceImages": true
   },

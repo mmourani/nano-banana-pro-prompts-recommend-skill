@@ -12,6 +12,44 @@
     "needReferenceImages": true
   },
   {
+    "content": "Scene:\nA sleek high-speed train glides across an elevated rail bridge spanning an enormous flooded forest valley. Half-submerged ancient tree trunks rise from still reflective water while small patches of moss-covered land hold abandoned wooden cabins and broken docks. Morning fog drifts between the skeletal trees, and distant mountains fade into pale atmospheric haze. The bridge stretches far into the distance, its repeating supports creating strong cinematic perspective lines across the quiet, mysterious landscape.\n\nStyle:\nFantasy hand-drawn watercolor illustration style. Traditional watercolor rendering with visible pigment splashes, fluid paint diffusion, and softly blended tonal transitions. Delicate hand-illustrated linework with expressive drawn detailing and organic sketch-like contours. Soft, gentle color palette emphasizing airy tones and subtle saturation rather than strong contrast. Painterly layered watercolor textures combined with illustrative fantasy art aesthetics. Decorative, richly illustrated environments with numerous small background details integrated into the composition. Elegant full illustration treatment prioritizing handcrafted visual charm, artistic softness, and classic storybook-inspired fantasy rendering.",
+    "title": "Fantasy Watercolor Illustration of an Elevated Rail Bridge over Flooded Forest",
+    "description": "A detailed prompt for generating a fantasy watercolor illustration featuring a high-speed train on an elevated rail bridge spanning a mysterious flooded forest valley, emphasizing traditional watercolor techniques and a soft, atmospheric palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772087647365_ft23o9_HCBZaVAaMAEyjzJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Take this base image, strictly Eiffel Tower at golden hour, extreme low angle on legs, miniskirt {argument name=\"miniskirt length\" default=\"15cm\"}, emphasize thigh gap and smooth leg lines, photoreal sunset lighting, high detail on skin texture and fabric movement",
+    "title": "Eiffel Tower Golden Hour Miniskirt Legs",
+    "description": "A detailed image generation prompt for Nano Banana Pro (Gemini 3 Pro Image) focusing on capturing a photorealistic scene at the Eiffel Tower during golden hour, emphasizing the aesthetic of legs in a miniskirt from an extreme low angle.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772087649881_78ajbx_HB_qTEKa0AA9v_t.jpg",
+      "https://cms-assets.youmind.com/media/1772087649886_h3zk5d_HB_qTEGbQAAINZw.jpg",
+      "https://cms-assets.youmind.com/media/1772087649925_7yk19f_HB_qTEDaMAA03L3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Use the uploaded image as the exact visual reference for environment, lighting mood, window background, blanket texture, depth of field, and color tone.\n\nImportant:\nThe reference image represents the FINAL composition only.\nThe first frame must NOT contain the hand.\nThe first frame must NOT contain the bottle.\nStart with an empty scene.\n\nStarting Frame:\nA cozy blanket in the foreground.\nSoft warm natural light coming through the window.\nBackground window blurred.\nNo hand.",
+    "title": "Scene Composition Control with Visual Reference",
+    "description": "A detailed prompt for video generation using a visual reference image to control environment, lighting, texture, depth of field, and color tone. It specifies the final composition but instructs the generation to start with an empty scene, excluding the hand and bottle from the first frame.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772087644345_wl7z1u_HB95obXbwAAF6qG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Cheating theme\nA moralistic painting like Caravaggio, set in {argument name=\"game\" default=\"Mahjong\"}",
+    "title": "Caravaggio-style Moral Painting of Cheating at Mahjong",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) requesting a moralistic painting in the style of Caravaggio, depicting cheating, specifically within the context of Mahjong.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772087651098_8ugdmo_HB9tro3boAEB3vs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Tarot Card 18 The Moon\nLike Mális Mizer...\n\nNext\nInclude Eros and Aphrodite\n\nFront and back\n\nMake Pisces circle the margin",
     "title": "Nano Banana Pro Prompt: Tarot Card 18 (The Moon) with Mális Mizer and Pisces",
     "description": "A complex prompt for Nano Banana Pro (Gemini 3 Pro Image) to generate an image based on the Tarot card 18 (The Moon), incorporating elements reminiscent of the visual kei band Mális Mizer, Eros and Aphrodite, and a circle of Pisces in the margin.",
