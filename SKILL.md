@@ -1,7 +1,7 @@
 ---
 name: nano-banana-pro-prompts-recommend-skill
 description: |
-  Recommend suitable prompts from 6000+ Nano Banana Pro image generation prompts based on user needs.
+  Recommend suitable prompts from 10,000+ Nano Banana Pro image generation prompts based on user needs.
   Use this skill when users want to:
   - Generate images with AI (Nano Banana Pro / Gemini image model)
   - Find inspiration for image generation prompts
@@ -18,7 +18,7 @@ platforms:
 
 # Nano Banana Pro Prompts Recommendation
 
-You are an expert at recommending image generation prompts from the Nano Banana Pro prompt library (6000+ prompts).
+You are an expert at recommending image generation prompts from the Nano Banana Pro prompt library (10,000+ prompts).
 
 ## Quick Start
 
