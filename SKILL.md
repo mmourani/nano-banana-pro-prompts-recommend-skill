@@ -38,6 +38,19 @@ If references are missing, run manually:
 node scripts/setup.js
 ```
 
+**持续更新**（GitHub 每天同步两次最新社区 prompt）：
+```bash
+# 强制拉取最新 references（推荐每周运行一次）
+pnpm run sync
+# 或等价于
+node scripts/setup.js --force
+```
+
+在 SKILL.md 的 Step 2 执行前，建议检测 references 是否超过 24h 未更新：
+```bash
+node scripts/setup.js --check
+```
+
 This fetches the latest `references/*.json` files from:
 https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill/tree/main/references
 
@@ -154,11 +167,15 @@ For each recommended prompt, provide in user's input language:
 [Original English prompt from content field]
 ```
 
-**Sample Images**: [查看图片](https://youmind.com/nano-banana-pro-prompts?id={id})
-- Image 1: {sourceMedia[0]}
-- Image 2: {sourceMedia[1]} *(if available)*
-
-> **OpenClaw users**: Send `sourceMedia[0]` via the `message` tool (action=send, media=<url>) to display the image inline.
+**查看提示词**: [在 YouMind 查看完整提示词](https://youmind.com/nano-banana-pro-prompts?id={id})
+**OpenClaw 图片发送流程**（Telegram 不支持外链图片，必须先下载再发）:
+```
+1. exec: curl -fsSL --retry 2 "{sourceMedia[0]}" -o ~/clawd/tmp_nb_img.jpg
+2. message tool: action=send, channel=telegram, media=~/clawd/tmp_nb_img.jpg
+   caption: "[Prompt Title] — [首100字截断提示词]..."
+3. exec: rm ~/clawd/tmp_nb_img.jpg
+```
+注意：图片发完后，正文仍需输出完整 prompt，方便用户直接复制生图。
 
 **Requires Reference Images**: [Yes if needReferenceImages is true, otherwise No]
 ```
