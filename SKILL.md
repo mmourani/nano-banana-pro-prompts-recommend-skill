@@ -201,14 +201,26 @@ For each recommended prompt, provide in user's input language:
 
 **CRITICAL — Full prompt in context**: Even though the display is truncated, the agent MUST hold the complete prompt text in its context so it can use it for customization in Step 5. Never discard the full prompt.
 
-**OpenClaw 图片发送流程**（Telegram 不支持外链图片，必须先下载再发）:
-```
-1. exec: curl -fsSL --retry 2 "{sourceMedia[0]}" -o ~/clawd/tmp_nb_img.jpg
-2. message tool: action=send, channel=telegram, media=~/clawd/tmp_nb_img.jpg
-   caption: "[Prompt Title]"  ← 纯标题，不加 
- 不加 markdown 链接
-3. exec: rm ~/clawd/tmp_nb_img.jpg
-```
+**⚠️ MANDATORY: ALWAYS send the sample image for every prompt recommendation.**
+If `sourceMedia` is empty, skip. Otherwise, you MUST send the image — never skip this step.
+
+**How to send the image (choose based on platform):**
+
+- **OpenClaw / Telegram**: External CDN URLs are blocked. Must download first:
+  ```
+  1. exec: curl -fsSL --retry 2 "{sourceMedia[0]}" -o ~/clawd/tmp_nb_img.jpg
+  2. message tool: action=send, channel=telegram, media=~/clawd/tmp_nb_img.jpg
+     caption: "[Prompt Title]"  ← plain title only, no \n, no markdown
+  3. exec: rm ~/clawd/tmp_nb_img.jpg
+  ```
+
+- **Other platforms** (Discord, Slack, web chat, etc.): Send the image URL directly:
+  ```
+  message tool: action=send, media="{sourceMedia[0]}", caption: "[Prompt Title]"
+  ```
+  If `message` tool unavailable, embed in response: `![preview]({sourceMedia[0]})`
+
+**One image per prompt is enough** (use `sourceMedia[0]`). Do NOT skip image sending because of platform uncertainty — always try.
 
 **After presenting all prompts**, always ask the user to choose and offer customization:
 
