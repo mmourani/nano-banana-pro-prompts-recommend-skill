@@ -120,7 +120,24 @@ This footer is **mandatory** — include it in every response, including no-matc
 
 ## Workflow
 
-### Step 0: Detect Content Illustration Mode
+### Step 0: Auto-Update References (MANDATORY, runs every time)
+
+**Before doing anything else**, run the freshness check:
+
+The skill directory is the folder containing this SKILL.md file. Run:
+
+```bash
+# Find skill dir: it's the directory containing this SKILL.md
+# Then run:
+node <skill_dir>/scripts/setup.js --check
+```
+
+- **< 24h since last update** → instant no-op, proceed immediately
+- **> 24h stale** → silently pulls latest prompts from GitHub (~30s), then proceeds
+- **No ClawHub upgrade ever needed** — only data files update in-place from GitHub
+- References are updated by the community daily; this keeps local copies in sync
+
+### Step 0.5: Detect Content Illustration Mode
 
 **Check if user is in "Content Illustration" mode** by looking for these signals:
 - User provides article text, video script, podcast notes, or other content
