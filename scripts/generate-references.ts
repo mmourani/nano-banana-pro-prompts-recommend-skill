@@ -317,6 +317,26 @@ async function generateReferences() {
   // Update SKILL.md with reference files list
   await updateSkillMd(writtenFiles, useCaseCategories);
 
+  // Write manifest.json — single source of truth for dynamic categories
+  const categoryTitleMap = new Map<string, string>();
+  for (const cat of useCaseCategories) categoryTitleMap.set(cat.slug, cat.title);
+
+  const manifest = {
+    updatedAt: new Date().toISOString(),
+    totalPrompts: allPrompts.length,
+    categories: writtenFiles.map(f => ({
+      slug: f.slug,
+      title: f.slug === "others" ? "Uncategorized" : (categoryTitleMap.get(f.slug) || f.slug),
+      file: f.name,
+      count: f.count,
+    })),
+  };
+  fs.writeFileSync(
+    path.join(referencesDir, "manifest.json"),
+    JSON.stringify(manifest, null, 2)
+  );
+  console.log(`Written manifest.json with ${manifest.categories.length} categories`);
+
   console.log("\n=== Generation Complete ===");
   console.log(`Total files generated: ${writtenFiles.length}`);
   console.log(`Total prompts processed: ${allPrompts.length}`);

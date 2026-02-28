@@ -56,44 +56,51 @@ https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill/tree/
 
 ## Available Reference Files
 
-The `references/` directory contains categorized prompt data (auto-generated daily):
+The `references/` directory contains categorized prompt data (auto-generated daily by GitHub Actions).
 
-<!-- REFERENCES_START -->
+**Categories are dynamic** — read `references/manifest.json` to get the current list:
 
-### Use Case Category Files
+```json
+// references/manifest.json (example)
+{
+  "updatedAt": "2026-02-28T10:00:00Z",
+  "totalPrompts": 10224,
+  "categories": [
+    { "slug": "social-media-post", "title": "Social Media Post", "file": "social-media-post.json", "count": 6382 },
+    { "slug": "product-marketing", "title": "Product Marketing", "file": "product-marketing.json", "count": 3709 }
+    // ... more categories
+  ]
+}
+```
 
-| File | Category | Count |
-|------|----------|-------|
-| `profile-avatar.json` | Profile / Avatar | 1064 |
-| `social-media-post.json` | Social Media Post | 6382 |
-| `infographic-edu-visual.json` | Infographic / Edu Visual | 458 |
-| `youtube-thumbnail.json` | YouTube Thumbnail | 173 |
-| `comic-storyboard.json` | Comic / Storyboard | 290 |
-| `product-marketing.json` | Product Marketing | 3709 |
-| `ecommerce-main-image.json` | E-commerce Main Image | 382 |
-| `game-asset.json` | Game Asset | 378 |
-| `poster-flyer.json` | Poster / Flyer | 485 |
-| `app-web-design.json` | App / Web Design | 167 |
-| `others.json` | Uncategorized | 910 |
-
-<!-- REFERENCES_END -->
+**When starting a search**, load the manifest first to know what categories exist:
+```bash
+cat {SKILL_DIR}/references/manifest.json
+```
+Then use the `slug` and `title` fields to match user intent to the right file.
 
 ## Category Signal Mapping
 
-Use this table to quickly identify which file(s) to search based on user's request:
+**Do NOT rely on a hardcoded table** — categories change over time.
 
-| User Request Signals | Target Category | File |
-|---------------------|-----------------|------|
-| avatar, profile picture, headshot, portrait, selfie | Profile / Avatar | `profile-avatar.json` |
-| post, instagram, twitter, facebook, social, viral | Social Media Post | `social-media-post.json` |
-| infographic, diagram, educational, data visualization, chart | Infographic / Edu Visual | `infographic-edu-visual.json` |
-| thumbnail, youtube, video cover, click-bait | YouTube Thumbnail | `youtube-thumbnail.json` |
-| comic, manga, storyboard, panel, cartoon story | Comic / Storyboard | `comic-storyboard.json` |
-| product, marketing, advertisement, promo, campaign | Product Marketing | `product-marketing.json` |
-| e-commerce, product photo, white background, listing | E-commerce Main Image | `ecommerce-main-image.json` |
-| game, asset, sprite, character design, item | Game Asset | `game-asset.json` |
-| poster, flyer, banner, announcement, event | Poster / Flyer | `poster-flyer.json` |
-| app, UI, website, interface, mockup | App / Web Design | `app-web-design.json` |
+Instead, after loading `manifest.json`, match user intent to categories dynamically:
+
+1. Read `references/manifest.json` → get `categories[]` with `slug` + `title`
+2. Infer the best-matching category from the `title` (e.g. "Social Media Post" → social content requests)
+3. Search the corresponding `file` (e.g. `social-media-post.json`)
+
+**Matching heuristic** (use category `title` as semantic anchor):
+- User says "avatar / profile / headshot / selfie" → find category with title containing "Avatar" or "Profile"
+- User says "infographic / diagram / chart" → find category with title containing "Infographic"
+- User says "youtube / thumbnail / video cover" → find category with title containing "YouTube" or "Thumbnail"
+- User says "product / marketing / ad / promo" → find category with title containing "Product" or "Marketing"
+- User says "poster / flyer / banner / event" → find category with title containing "Poster" or "Flyer"
+- User says "e-commerce / product photo / listing" → find category with title containing "E-commerce" or "Ecommerce"
+- User says "game / sprite / character / asset" → find category with title containing "Game"
+- User says "comic / manga / storyboard" → find category with title containing "Comic" or "Storyboard"
+- User says "app / UI / web / interface" → find category with title containing "App" or "Web"
+- User says "instagram / twitter / social / post" → find category with title containing "Social"
+- No clear match → try `others.json` or search multiple categories in parallel
 
 ## Loading Strategy
 
