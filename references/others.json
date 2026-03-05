@@ -13,6 +13,102 @@
     "needReferenceImages": true
   },
   {
+    "id": 11441,
+    "content": "skin texture + gaze lock (close-up immersion vibe).",
+    "title": "Nano Banana Prompt for Close-up Immersion with Skin Texture",
+    "description": "A prompt designed to generate a close-up image focusing on detailed skin texture and an intense gaze, creating an immersive visual experience. The prompt is located in the tweet's ALT text, which is not provided in the input data. The tweet instructs the user to copy the prompt from the ALT text and use it with an uploaded photo for generation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692214300_kqhpzk_HClzMbuawAACrYW.jpg",
+      "https://cms-assets.youmind.com/media/1772692214337_pkgo89_HClzMbMawAIaKqa.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11426,
+    "content": "From the uploaded reference image, With same pose and same facial features, keep the identity and facial features identical to the attached, use Gustave dore illustration style,, size 9:16, don't change the expression and facial for all photos, no text, neutral background minimalist.",
+    "title": "Image-to-Illustration Style Transfer Prompt (Gustave Doré)",
+    "description": "A prompt for converting an uploaded reference image into the style of a Gustave Doré illustration, ensuring the pose, facial features, and identity remain identical, while maintaining a neutral background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692205868_ze7f4j_HClZ_ffaoAANZg2.jpg",
+      "https://cms-assets.youmind.com/media/1772692205770_8gz6ao_HClZ_fnawAU4dOa.jpg",
+      "https://cms-assets.youmind.com/media/1772692205777_7g323g_HClZ_fgawAIF165.jpg",
+      "https://cms-assets.youmind.com/media/1772692206886_xei6ij_HClZ_flbIAAcdZQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11435,
+    "content": "european man in his mid 20s, wearing a loose fitting white technical protective lab coat made of smooth light fabric, holding a transparent hologram of a drone rendered with sharp lines and detailed mechanical parts hovering in mid air, with focus on his hands and arms and the hovering drone in the middle ground, set against a soft gray neutral background with subtle cool lighting, high contrast illumination emphasizing the subject and the drone, shot with a Canon EOS R5, 85mm f/1.2 lens, futuristic realistic aesthetic with high detail and crisp tones in 8k",
+    "title": "Man Holding Holographic Drone Prompt",
+    "description": "A prompt for generating a futuristic, realistic image of a European man in a technical lab coat holding a transparent hologram of a detailed drone hovering in mid-air, emphasizing high contrast illumination and 8k resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692211359_7r18kb_HCkul7yawAQuNqD.jpg",
+      "https://cms-assets.youmind.com/media/1772692211363_c7szrz_HCkul7AbMAAMxcg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11405,
+    "content": "Restore and colorize the uploaded old photograph into a crystal-clear, photorealistic, high-detail image while preserving 100% of the original composition. Keep the exact same pose, expression, facial structure, proportions, framing, clothing, hairstyle, background, objects, and all details unchanged. Do not add, remove, move, or restyle anything. Remove blur, noise, scratches, fading, stains, and age-related damage. Recover natural sharpness, fine skin texture, realistic textures, true-to-life colors, and lifelike skin tones. No identity change, no stylization, no cartoon or CGI look, no plastic skin.",
+    "title": "Old Photo Restoration and Colorization Prompt",
+    "description": "A highly specific prompt for Nano Banana 2 instructing it to restore and colorize an uploaded old photograph into a crystal-clear, photorealistic, high-detail image while strictly preserving 100% of the original composition, pose, identity, and details, removing only age-related damage.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692195856_7a1mbe_HCkY_embUAAqIVE.jpg",
+      "https://cms-assets.youmind.com/media/1772692196010_hvboln_HCkY-OiawAU7D04.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11448,
+    "content": "Debussy\nOpera \"Pelléas et Mélisande\"\nFantastically\n\nPelléas et Mélisande\n\nVarious people have composed music for it, but Debussy\n\nDoppelgänger\nWhat is one's other self...",
+    "title": "Image Generation Prompt: Debussy's 'Pelléas et Mélisande'",
+    "description": "A prompt for generating a fantastical image based on Debussy's opera 'Pelléas et Mélisande,' focusing on the themes of the opera and the concept of a doppelgänger.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692216998_sh5iw7_HCj3-F3b0AAviHN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11427,
+    "content": "Ultra-high-quality hyper-realistic photo featuring a real human and a giant 3D Pixar-style version of THE SAME person — both strictly based on the uploaded reference image. The real person and the Pixar character must have identical facial structure, hairstyle, facial expression, body proportions, height, and clothing.\nBoth are wearing a knitted sweater with a gradient from light yellow to pink, high-waisted blue jeans, and white high-top sneakers.\nThe pose must exactly match the reference: the real person stands relaxed with a friendly smile, with their hand naturally resting on the shoulder of the Pixar character. The Pixar version stands slightly wider, arms confidently positioned near the pockets, with a playful sly smirk, one raised eyebrow, and expressive Pixar-style eyes.\nThe Pixar character should be proportionally larger, but anatomically identical to the real person. The facial expression, head tilt, posture, and body language must precisely replicate the reference image.\nClean gray-blue studio background, soft even studio lighting, realistic shadows, crisp fabric texture, smooth Pixar-style skin shading, cinematic sharpness.\nDO NOT change the pose, reaction, clothing, or proportions. Strict adherence to the reference.",
+    "title": "Human and Pixar Character Duplication Prompt",
+    "description": "A prompt for generating an ultra-high-quality photo featuring a real human and a giant 3D Pixar-style version of the same person, both based strictly on an uploaded reference image, ensuring identical features, clothing, and a specific pose (hand on shoulder).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692206977_uffu8i_HCj2ArxbQAAw5Xo.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11432,
+    "content": "{\n  \"generation_mode\": \"thinking|standard\",\n\n  \"output_specifications\": {\n    \"resolution\": \"1K|2K|4K\",\n    \"aspect_ratio\": \"16:9|1:1|9:16|custom\",\n    \"quality_priority\": \"speed|balanced|quality\"\n  },\n\n  \"scene_description\": {\n    \"primary_subject\": \"{argument name=\"primary subject\" default=\"[main focus of image]\"}\",\n    \"environment\": \"{argument name=\"environment\" default=\"[setting and background]\"}\",\n    \"atmosphere\": \"[mood and feeling]\",\n    \"style\": \"[visual aesthetic]\",\n    \"time_of_day\": \"[if relevant]\"\n  },\n\n  \"camera_controls\": {\n    \"angle\": \"[camera perspective]\",\n    \"focal_length\": \"[lens type - wide/standard/telephoto]\",\n    \"depth_of_field\": \"[shallow/deep, what's in focus]\",\n    \"composition\": \"[rule of thirds/centered/golden ratio/etc]\"\n  },\n\n  \"lighting_setup\": {\n    \"primary_light\": {\n      \"type\": \"[natural/studio/dramatic/soft]\",\n      \"direction\": \"[where light comes from]\",\n      \"intensity\": \"[bright/moderate/moody]\"\n    },\n    \"shadows\": \"[deep/subtle/minimal]\",\n    \"color_temperature\": \"[warm/cool/neutral]\",\n    \"special_effects\": \"[rim light/backlighting/etc if needed]\"\n  },\n\n  \"color_grading\": {\n    \"overall_tone\": \"[vibrant/muted/monochrome/etc]\",\n    \"color_palette\": [\"primary color\", \"secondary color\", \"accent color\"],\n    \"mood\": \"[emotional impact of colors]\"\n  },\n\n  \"text_elements\": [\n    {\n      \"text_content\": \"[exact text to render]\",\n      \"position\": \"[location in image]\",\n      \"font_style\": \"[typography description]\",\n      \"size\": \"[relative size]\",\n      \"color\": \"[text color]\",\n      \"effects\": \"[glow/shadow/3D/etc]\",\n      \"language\": \"[if not English]\"\n    }\n  ],\n\n  \"reference_images\": [\n    {\n      \"image_id\": 1,\n      \"purpose\": \"style reference|composition reference|color reference|character reference\",\n      \"extract_elements\": [\"specific elements to copy\"],\n      \"apply_to\": \"[where to use these elements]\",\n      \"transfer_intensity\": \"[0-100%]\"\n    }\n  ],\n\n  \"characters\": [\n    {\n      \"character_id\": 1,\n      \"detailed_description\": \"[ethnicity, age, gender, facial features, hair, expression]\",\n      \"clothing\": \"[detailed outfit description]\",\n      \"pose\": \"[body position and gesture]\",\n      \"position_in_scene\": \"[spatial placement]\",\n      \"consistency_reference\": \"[image_id if maintaining across multiple generations]\"\n    }\n  ],\n\n  \"grounding\": {\n    \"enabled\": true|false,\n    \"search_queries\": [\"facts to verify\"],\n    \"data_requirements\": [\"specific information needed\"],\n    \"accuracy_priority\": \"high|medium\"\n  },\n\n  \"style_constraints\": {\n    \"artistic_style\": \"[photorealistic/illustration/3D render/watercolor/etc]\",\n    \"inspiration\": \"[specific artists or movements if relevant]\",\n    \"must_avoid\": [\"elements to exclude\"]\n  },\n\n  \"technical_requirements\": {\n    \"intended_use\": \"[social media/print/web/presentation]\",\n    \"safe_zones\": \"[areas to keep clear fo\"\n  }\n}",
+    "title": "Nano Banana Pro Master Prompt Template (JSON)",
+    "description": "The complete JSON template for Nano Banana Pro, designed to combine all technical and creative controls (scene, camera, lighting, color grading, text, references, characters) for generating perfect images.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692210203_p3fahr_HCjhvLZawAIDbVH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11440,
+    "content": "{\n  \"scene\": \"AI engineer working at futuristic desk with multiple holographic displays\",\n  \"camera\": {\n    \"angle\": \"over-the-shoulder, slightly elevated\",\n    \"focal_length\": \"50mm portrait lens\",\n    \"depth_of_field\": \"shallow, subject in sharp focus, background slightly blurred\"\n  },\n  \"lighting\": {\n    \"type\": \"dramatic side lighting with blue accent lights\",\n    \"time_of_day\": \"late night\",\n    \"mood\": \"focused, tech-noir atmosphere\",\n    \"shadows\": \"deep but not harsh\"\n  },\n  \"color_grade\": \"cool tones, teal and orange color scheme\"\n}",
+    "title": "JSON Prompt Template for Camera and Lighting Control",
+    "description": "A JSON template and an example prompt demonstrating how to specify professional camera controls (angle, focal length, depth of field) and lighting conditions (type, time of day, mood) in Nano Banana Pro to generate a tech-noir scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692214180_wsvj87_HCjhpb5awAUW6gj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11445,
+    "content": "{\n  \"scene\": \"futuristic AI workspace with holographic screens showing code\",\n  \"resolution\": \"4K\",\n  \"aspect_ratio\": \"16:9\",\n  \"style\": \"cinematic lighting, cyberpunk aesthetic, ultra-detailed\"\n}",
+    "title": "JSON Prompt Template for Defining Canvas Size",
+    "description": "A JSON template and an example prompt demonstrating how to specify resolution and aspect ratio (canvas size) for image generation in Nano Banana Pro to ensure consistent output dimensions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692215653_cb1v3p_HCjhmfHbAAABnl0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11260,
     "content": "Convert this into an ultra-realistic, cinematic, fully photorealistic scene. The characters must be transformed into real human versions of the original uploaded references, keeping their identity, facial structure, key features, and overall likeness intact.",
     "title": "Ultra-Realistic Character Transformation Prompt",

@@ -1,5 +1,15 @@
 [
   {
+    "id": 11450,
+    "content": "Today's events\nMorning\nTuna can\n\nNoon\nBig Mac set at McDonald's\nFries and chocolate shake\n\nAfternoon\nGyoza no Ohsho, 2 servings of grilled gyoza to go\n\nNight\nCurry\n\n4-panel manga",
+    "title": "4-Panel Manga Prompt: A Day's Meals",
+    "description": "A detailed prompt for generating a 4-panel manga illustrating the user's meals throughout a day, including tuna can for breakfast, Big Mac set for lunch, gyoza for an afternoon snack, and curry for dinner.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692217028_9f7lxf_HCj6sk2awAE0SIw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11390,
     "content": "Eiji Kotoge = Harry Potter Voldemort = Kotogemort = Ministry of Finance\n4 vertical panels\n4 horizontal rows\n16 frames\n4-panel comic strip\n\nThe Reversal of Finance",
     "title": "Nano Banana Pro Comic Prompt: Eiji Kotoge as Harry Potter",

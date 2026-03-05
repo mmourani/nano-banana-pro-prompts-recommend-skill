@@ -10,6 +10,49 @@
     "needReferenceImages": false
   },
   {
+    "id": 11424,
+    "content": "{\n \"description\": \"Ultra-realistic passport-size photo of me (exact face likeness, 99% match, no facial changes).\",\n \"style\": \"Professional studio portrait suitable for official ID or passport use.\",\n \"outfit\": \"as per uploaded pic\",\n \"expression\": \"Neutral closed-lip smile, straight look, both ears visible, shoulders included.\",\n \"lighting\": \"Even balanced front lighting, no harsh shadows, soft studio tone.\",\n \"background\": \"Plain light cream or light blue background, clean anduniform.\",\n \"composition\": \"Centered head and shoulder framing with natural proportions as per passport standards.\",\n \"output\": \"Generate 6 identical passp ort/ticket-size photos (3x2 grid layout vertical) on one sheet, evenly spaced, print-ready, high-resolution studio quality.\"\n}",
+    "title": "Passport Photo Generator Prompt (JSON)",
+    "description": "A structured JSON prompt designed to generate a grid of six identical, ultra-realistic passport-size photos based on an uploaded image, ensuring strict adherence to official standards for expression, lighting, background, and composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692205674_gdvagt_HCkyjyhaYAEMMkp.jpg",
+      "https://cms-assets.youmind.com/media/1772692205547_gds5f0_HCkyjzrawAErNz7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11402,
+    "content": "3D cartoon avatar character showing different emotions arranged in a 3x3 grid, same male character with brown hair, Pixar-style animation, each square showing a different expression (happy, shocked, angry, caring with a puppy, confident, thumbs up, sad, thinking, professional), colorful gradient backgrounds for each panel, soft studio lighting, smooth 3D rendering, expressive eyes and facial expressions, modern emoji-style character design, clean composition, ultra-detailed, vibrant colors, 8K.",
+    "title": "3D Cartoon Avatar Character Grid Prompt (Pixar Style)",
+    "description": "A prompt for generating a 3x3 grid of the same male 3D cartoon avatar character, rendered in Pixar style, showing nine different emotions and expressions, with colorful gradient backgrounds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692194935_7d0yjl_HCkvAMGbwAEsZOR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11413,
+    "content": "{\n  \"master_prompt\": {\n    \"scene_type\": \"fine-art cinematic monochrome studio portrait\",\n\n    \"reference_requirement\": {\n      \"identity_match\": \"precisely match the uploaded reference image\",\n      \"facial_structure_accuracy\": [\n        \"bone structure\",\n        \"eye shape\",\n        \"nose proportions\",\n        \"jawline definition\",\n        \"facial symmetry\",\n        \"hairline\",\n        \"beard density if present\"\n      ],\n      \"skin_texture\": \"authentic natural skin texture with visible pores and fine lines\",\n      \"no_artificial_smoothing\": true\n    },\n\n    \"subject\": {\n      \"type\": \"mature confident man\",\n      \"expression\": {\n        \"mood\": \"serious, contemplative, quietly authoritative\",\n        \"gaze\": \"deep-set eyes looking directly into the camera\",\n        \"emotion\": \"focused and introspective, not aggressive\"\n      }\n    },\n\n    \"facial_hair\": {\n      \"adaptive\": true,\n      \"rules\": [\n        \"replicate beard exactly if present\",\n        \"match density, length, shape, and edges\",\n        \"preserve natural tonal variation including salt-and-pepper if visible\",\n        \"beard lines clean and structured\"\n      ],\n      \"clean_shaven_rule\": \"if clean-shaven, emphasize natural jawline definition and skin texture\"\n    },\n\n    \"hairstyle\": {\n      \"adaptive\": true,\n      \"requirement\": \"match hairstyle from reference image exactly\",\n      \"details\": [\n        \"same volume\",\n        \"same direction\",\n        \"same hairline\",\n        \"natural strand texture\",\n        \"subtle specular highlights from overhead lighting\"\n      ]\n    },\n\n    \"pose\": {\n      \"style\": \"classic thinker pose\",\n      \"description\": [\n        \"one hand raised to chin\",\n        \"thumb along the jawline\",\n        \"index finger slightly curled\",\n        \"knuckles and tendons subtly defined\",\n        \"hand in sharp focus with natural skin texture\"\n      ]\n    },\n\n    \"lighting\": {\n      \"style\": \"low-key fine-art studio lighting\",\n      \"contrast\": \"high contrast but refined tonal control\",\n\n      \"key_light\": {\n        \"position\": \"slightly above eye level\",\n        \"direction\": \"toward viewer's left angled downward\",\n        \"type\": \"large softbox or diffused beauty dish\",\n        \"effect\": \"strong top-plane highlights with crisp edge definition\"\n      },\n\n      \"highlight_focus\": [\n        \"forehead center\",\n        \"nose bridge\",\n        \"upper cheekbones\",\n        \"beard texture\",\n        \"top planes of the hand\"\n      ],\n\n      \"shadow_control\": [\n        \"subtle shadow shaping under brow ridge\",\n        \"defined cheekbone shadow\",\n        \"deep but detailed shadow side\",\n        \"midtone detail preserved\"\n      ],\n\n      \"fill_light\": {\n        \"position\": \"minimal fill from front-center\",\n        \"purpose\": \"maintain facial symmetry while preserving depth\"\n      },\n\n      \"rim_light\": {\n        \"intensity\": \"very subtle\",\n        \"location\": \"hair edges and outer shoulder\",\n        \"purpose\": \"separate subject from black\"\n      }\n    }\n  }\n}",
+    "title": "Fine-Art Cinematic Monochrome Studio Portrait Prompt (Reference Match)",
+    "description": "A highly detailed JSON prompt for generating a fine-art cinematic monochrome studio portrait of a mature confident man, with strict requirements for precisely matching an uploaded reference image's identity, facial structure, beard, and hairstyle, focusing on low-key lighting and high contrast tonal control.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692199520_kv6bmn_HCkRUi4acAAR8xy.jpg",
+      "https://cms-assets.youmind.com/media/1772692199476_fz5wsg_HCkRUhcagAEInOw.jpg",
+      "https://cms-assets.youmind.com/media/1772692199539_bawwsy_HCkRUjdawAY6OUC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11443,
+    "content": "Extreme close-up portrait of a young woman facing the camera directly. She has a short brown bob haircut with a precise center part, smooth and neatly styled. Her eyes are large and bright blue, with natural reflections that enhance their depth and clarity. She is wearing soft, natural makeup with subtle foundation, lightly flushed cheeks, softly defined brows, a touch of mascara, and a nude-toned lip color. Small, elegant pearl earrings add a delicate and refined touch to her appearance.\nHer expression is innocent, calm, and slightly curious, with relaxed facial muscles and a gentle gaze. Her skin texture is highly detailed and realistic, showing natural pores, soft highlights, and smooth tonal transitions. The lighting is professional studio lighting, soft and diffused, evenly illuminating her face without harsh shadows, creating gentle highlights on the cheekbones and subtle shadows under the jawline.\nThe background is clean and minimalistic, light gray in color, softly blurred to keep full focus on the subject. The composition is centered and balanced, with sharp focus on the eyes and shallow depth of field. The image is photorealistic, ultra-high resolution, hyper-detailed skin texture, cinematic quality, HDR effect, sharp focus, 8K resolution, realistic color grading, natural skin tones, and professional portrait photography style.",
+    "title": "Extreme Close-up Portrait Prompt",
+    "description": "A highly detailed prompt for generating an extreme close-up, photorealistic portrait of a young woman with a short brown bob haircut. The prompt specifies lighting, makeup, expression, and technical details like 8K resolution and hyper-detailed skin texture, suitable for professional portrait photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692215139_ys14hr_HCiHYdQXAAAyhm1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11389,
     "content": "Aspect ratio 4:5, 2K resolution, ultra-detailed photorealistic editorial portrait. Source: preserve the exact facial features, skin tone, hairstyle, and natural resemblance of the attached reference photo. The subject can be a man or a woman. Wardrobe: Premium black piqué polo shirt, fitted, sharp, with visible cotton piqué texture, deep matte black color. Expression: serious, intense, focused, looking slightly above the camera, not directly at the lens. Composition: Medium close-up (face and shoulders), low-angle shot to convey power and dominance. Background: vibrant red-orange gradient, smooth and intense, no patterns. Lighting: Dramatic and colorful studio lighting. Key light: strong, directional, deep shadows emphasizing facial structure (chiaroscuro). Rim light: strong edge light separating the subject from the background. Mood: intense, mysterious, contrasted. Technique: sharp focus on the face, smooth background gradient, high-quality photorealistic texture, 2K ultra-detail. Apply consistently regardless of gender. Cinematic studio aesthetic, editorial heroic portrait ambiance.",
     "title": "Editorial Portrait Prompt for Nano Banana Pro",

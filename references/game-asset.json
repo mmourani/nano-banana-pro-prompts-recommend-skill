@@ -1,5 +1,46 @@
 [
   {
+    "id": 11402,
+    "content": "3D cartoon avatar character showing different emotions arranged in a 3x3 grid, same male character with brown hair, Pixar-style animation, each square showing a different expression (happy, shocked, angry, caring with a puppy, confident, thumbs up, sad, thinking, professional), colorful gradient backgrounds for each panel, soft studio lighting, smooth 3D rendering, expressive eyes and facial expressions, modern emoji-style character design, clean composition, ultra-detailed, vibrant colors, 8K.",
+    "title": "3D Cartoon Avatar Character Grid Prompt (Pixar Style)",
+    "description": "A prompt for generating a 3x3 grid of the same male 3D cartoon avatar character, rendered in Pixar style, showing nine different emotions and expressions, with colorful gradient backgrounds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692194935_7d0yjl_HCkvAMGbwAEsZOR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11458,
+    "content": "single person, correct anatomy, two legs, two arms",
+    "title": "Anatomy Correction Prompt for Nano Banana 2",
+    "description": "A simple negative prompt designed to stabilize human anatomy generation in Nano Banana 2, especially when dealing with complex poses like leaning, railing interaction, and full-body shots.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692218494_h654yc_HCkYeUfbUAA0yaA.jpg",
+      "https://cms-assets.youmind.com/media/1772692218600_vxwiev_HCkYeUnacAAOVK9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11422,
+    "content": "A giant young woman walking through a modern city street, towering over skyscrapers, her footsteps cracking the asphalt beneath her boots. She wears a brown leather jacket over a beige turtleneck sweater, a fitted brown skirt, ankle socks, and lace-up brown boots. Her long wavy hair flows naturally as she walks confidently. Below her, tiny cars and yellow taxis swerve around broken pavement, pedestrians scatter in shock at a crosswalk. Dust and debris rise dramatically around her feet. Cinematic perspective from low angle, dramatic scale contrast, ultra-realistic details, dynamic lighting, shallow depth of field, 8K resolution, highly detailed city environment, action scene, photorealistic, epic atmosphere.",
+    "title": "Giant Woman City Walk Video Prompt",
+    "description": "A prompt for generating an ultra-realistic, cinematic video of a giant young woman walking through a modern city, towering over skyscrapers, emphasizing dramatic scale contrast, low-angle perspective, and dynamic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692204257_3bcosp_HCjwQpsaIAAIn-F.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11453,
+    "content": "High-definition, high-resolution 2.5D rendered illustration. An image showing a 300-meter-long super-large space battleship flying in near earth orbit space. The camera is looking at the spacecraft diagonally from the side. The space battleship is a spaceplane type with delta wings and tail, and is composed of futuristic organic curves that look like something out of a science fiction movie. Above the space battleship are the battleship's main rotating gun turret on the central axis, bridge, phased array radar, and anti-aircraft missile launchers. The nose of the spacecraft has a radome and is equipped with a leading tail wing. The fuselage is of the scramjet type, with all engines located at the rear of the fuselage. The lower half of the fuselage is painted red like a large naval vessel. Red flashing lights glow on the tips of the space battleship's wings, on top of the bridge, and on the bottom of the hull.",
+    "title": "High-Resolution 2.5D Illustration Prompt for Winged Space Battleship",
+    "description": "A detailed English prompt for generating a high-definition, 2.5D rendered illustration of a massive, futuristic space battleship with delta wings, flying in near-Earth orbit. The prompt specifies the ship's design, composition, armaments, and lighting details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692218185_arc9ls_HCiBy3-agAAoeAt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11376,
     "content": "lego explorer minifigure driving a mini snowmobile across icy terrain chased by a massive roaring polar bear, snow spraying dramatically behind, frozen mist in the air, intense cinematic backlight, dynamic tilted camera shot, blockbuster action style, exaggerated comic motion, crisp lego plastic texture, dramatic cold color grading",
     "title": "Lego Explorer Chased by Polar Bear (Video Prompt)",

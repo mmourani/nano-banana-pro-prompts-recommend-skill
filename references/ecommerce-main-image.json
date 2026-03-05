@@ -1,5 +1,40 @@
 [
   {
+    "id": 11423,
+    "content": "{\n  \"image_generation_request\": {\n    \"subject\": {\n      \"placeholder\": \"{argument name=\"product name\" default=\"[INSERT YOUR PRODUCT HERE]\"}\",\n      \"positioning\": \"centrally aligned, perfectly centered, levitating in mid-air\",\n      \"framing\": \"full object visibility, no cropping, no cut-off edges, ample negative space around the product\"\n    },\n    \"visual_style\": {\n      \"aesthetic\": \"ultra-modern industrial design, hyper-realistic product photography, cinematic tech-minimalism\",\n      \"background\": {\n        \"color\": \"#000000\",\n        \"finish\": \"pure void, matte black, non-reflective\"\n      },\n      \"lighting\": {\n        \"type\": \"top-down rim lighting, subtle key light\",\n        \"effects\": [\n          \"spectral dispersion\",\n          \"chromatic aberration on glass edges\",\n          \"prismatic light refraction\",\n          \"soft caustic highlights\"\n        ]\n      }\n    },\n    \"materials_and_textures\": {\n      \"primary_blends\": [\n        \"anodized brushed aluminum with micro-circular grain\",\n        \"frosted translucent polycarbonate with internal orange-to-white gradient glow\",\n        \"optically clear glass with rainbow refractive edges\",\n        \"matte sandblasted metallic surfaces\"\n      ],\n      \"details\": \"high-precision CNC machined edges, tactile knurling, smooth organic fillets\"\n    },\n    \"constraints\": {\n      \"mandatory_omissions\": [\n        \"no lighting boxes\",\n        \"no softboxes\",\n        \"no tripod stands\",\n        \"no pedestals\",\n        \"no platforms\",\n        \"no props\",\n        \"no text\",\n        \"no watermarks\",\n        \"no human hands\",\n        \"no floor line\",\n        \"no background gradients\"\n      ],\n      \"compositional_rules\": \"The product must be the sole inhabitant of the frame. Ensure zero contact with any surface. Maintain absolute symmetry and 100% black levels for the background environment.\"\n    },\n    \"color_palette\": {\n      \"background\": \"#000000\",\n      \"accents\": [\n        \"#FF4500\",\n        \"#FFFFFF\",\n        \"#808080\",\n        \"spectral rainbow/prismatic dispersion\"\n      ]\n    }\n  }\n}",
+    "title": "Molten Alloy Product Photography Prompt (JSON)",
+    "description": "A highly detailed JSON prompt for generating ultra-modern, hyper-realistic product photography of a levitating object (placeholder), emphasizing specific material textures, minimal lighting (rim light), and a pure black void background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692204161_ks3j0r_HCloZC1WIAEWPOA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11412,
+    "content": "Ultra-realistic commercial skincare product photography featuring a vibrant cobalt-blue squeeze tube labeled “{argument name=\"product name\" default=\"Fresho – Fresho Ness Scrub\"}” standing upright at the center of the frame. The tube has a glossy finish with clean white typography and a translucent flip-top cap, and it is placed on top of a matching blue product box that subtly displays the brand name on its side. The background is a seamless bright blue studio backdrop that enhances the monochromatic aesthetic.",
+    "title": "Ultra-Realistic Skincare Product Photography Prompt (Cobalt Blue)",
+    "description": "A prompt for generating ultra-realistic commercial product photography of a vibrant cobalt-blue squeeze tube of skincare scrub, emphasizing monochromatic aesthetic, glossy finish, and clean studio backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692198912_5whv4m_HCjzB67akAAl0zN.jpg",
+      "https://cms-assets.youmind.com/media/1772692198759_jcf9dy_HCjzBwXbcAAzBEn.jpg",
+      "https://cms-assets.youmind.com/media/1772692198898_25dcko_HCjzB5_bAAABTKb.jpg",
+      "https://cms-assets.youmind.com/media/1772692199790_bfppz0_HCjzB8AaMAAENNE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11421,
+    "content": "Luxury perfume bottle centered on a minimal beige background, clear rectangular glass bottle with black cap, soft golden fragrance inside, blue flower petals floating mid-air around the bottle, frozen motion effect, soft studio lighting, gentle shadows on surface, clean aesthetic composition, premium product photography, shallow depth of field, ultra-realistic, 8K, commercial fragrance ad",
+    "title": "Luxury Perfume Bottle Product Shot Prompt",
+    "description": "A prompt for generating an ultra-realistic commercial photograph of a luxury perfume bottle, centered on a minimal beige background, featuring floating blue flower petals and soft studio lighting for a clean, premium aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692204111_vqcjft_HChxCqmawAUOpHV.jpg",
+      "https://cms-assets.youmind.com/media/1772692204116_fd02ow_HChxAvBawAIvCT0.jpg",
+      "https://cms-assets.youmind.com/media/1772692204109_yst0j5_HChxBtBbYAAPORl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11378,
     "content": "Create a hyper-realistic 8K product render of {argument name=\"product name\" default=\"[INSERT YOUR PRODUCT HERE]\"}\n\nThe subject should be perfectly centered and levitating in mid-air, floating in a void with no surface, platform, stand, or floor. Show the full product with zero cropping and visible margins on all sides. \nUse a dynamic macro 45-degree hero angle.\n\nThe background must be solid pure black (#000000).\n\nLighting should feature hard edge lighting with strong rim light highlights. Use a high-contrast chiaroscuro look with thin chromatic aberration along metallic edges. Include reflective caustic light hits and an oily iridescent sheen on polished surfaces.\n\nColor palette:\n\nBackground: #000000\nMetal highlights: #E0E0E0\nIridescent accents: #4169E1, #FFD700, #FF4500\n\nMaterials and textures should combine micro-brushed sandblasted aluminum with mirror-finish chrome. Add subtle prismatic dispersion and thin-film interference along metal curves. Include fine film grain for tactile realism.\n\nDo not include any props or additional objects. \nNo light boxes, umbrellas, softboxes, pedestals, cables, tripods, or hands. \nNo cropped edges or cut-off parts. \nNo text, logos, watermarks, blur, bokeh background, dust, or scratches.\n\nStyle reference: Industrial Design meets luxury hardware photography.",
     "title": "Hyper-Realistic Product Render with Holochrome Gradients",

@@ -20,6 +20,52 @@
     "needReferenceImages": false
   },
   {
+    "id": 11434,
+    "content": "Create a technical infographic of  timeline poster of {argument name=\"product name\" default=\"[PRODUCT NAME]\"}. Use sharp ink lines and soft watercolor on textured paper.\nFeature a central hero illustration with handwritten years, arrows, notes, and small sketches showing design evolution and key milestones. Keep it clean, lively, colourful and strong contrast. Highly detailed, vertical portrait.\n\nVisual Concept\nA realistic photograph or photorealistic render combined with dense technical annotation overlays, exactly like an engineering, Pure white studio background.\n\nTitle Placement\nProduct name in English , bold font, inside a hand-drawn technical annotation frame (as in engineering blueprints), positioned in the upper corner.\n\nStyle & Layout\n• Very high information density • Annotations feel like an engineering / architectural sketch • Black lines — 70–80% of all graphics • Accent {argument name=\"brand color\" default=\"[BRAND COLOR]\"} — 20–30% (arrows, key zones, headings) • The realistic product remains fully readable • Educational, industrial-premium aesthetic • Small brand logo in the corner (in English)\n\nVisual Style\nMinimal technical illustration aesthetic: black linework over realistic imagery, precise, highly detailed, slightly hand-drawn, like professional technical manuals.\nColor Palette\nWhite background Black text and linework {argument name=\"brand color 2\" default=\"[BRAND COLOR]\"} used only for accents\nOutput\n9:16 Vertical portrait, 8K, highly detailed, Ultra-crisp image Social-feed optimized No watermark",
+    "title": "Vintage Blueprint Timeline Infographic Poster Prompt",
+    "description": "A detailed prompt for generating a technical infographic poster in the style of a vintage blueprint, illustrating the timeline and evolution of a product (placeholder), emphasizing sharp ink lines, watercolor accents, and high information density.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692210399_y1o3tw_HCmEub0WAAAjjJt.jpg",
+      "https://cms-assets.youmind.com/media/1772692210474_inxngq_HCmEubjWYAANBAp.jpg",
+      "https://cms-assets.youmind.com/media/1772692210610_ovo80n_HCmEucKawAESTH7.jpg",
+      "https://cms-assets.youmind.com/media/1772692211430_0a3xkv_HCmEubqWwAArTWQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11439,
+    "content": "{\n  \"scene\": \"minimalist tech poster with gradient background\",\n  \"text_elements\": [\n    {\n      \"text\": \"AI Revolution 2025\",\n      \"position\": \"center, upper third\",\n      \"font_style\": \"bold, futuristic sans-serif, glowing effect\",\n      \"size\": \"large headline\"\n    },\n    {\n      \"text\": \"The future is now\",\n      \"position\": \"center, lower third\",\n      \"font_style\": \"elegant script, smaller subtitle\"\n    }\n  ]\n}",
+    "title": "JSON Prompt Template for Text Rendering in AI Images",
+    "description": "A JSON template and an example prompt demonstrating how to use the Nano Banana Pro's text rendering parameters. This allows users to specify the exact text, position, font style, and size for text elements within the generated image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692212949_dvixdt_HCjhnofaUAAfVfN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11425,
+    "content": "Photorealistic candid shot of a lively outdoor night party or music festival crowd, energetic young people densely packed together, front and center Ana de Armas in her late 20s with long straight hair, radiant golden tan skin, dramatic glossy makeup, bold eyeliner, wearing a tight white sleeveless ruched mini dress / tank top dress with thin straps, large gold hoop earrings, layered gold necklaces, multiple chunky gold bracelets and bangles, posing seductively over her shoulder, looking directly at the camera with a flirty smile, one hand holding her phone high for a selfie, body slightly angled, legs crossed subtly, surrounded by excited friends pressing in close — a tall smiling guy in a beige trucker cap with deer logo, another guy in a dark pinstripe suit, girls in summer outfits, everyone holding up phones to take photos, colorful wristbands and festival vibes, warm golden hour / evening ambient lighting with bokeh city lights and crowd glow in the background, dynamic composition, high detail skin texture, sharp focus, Canon EOS R5, 50mm lens, natural candid photography style, vibrant and fun atmosphere --ar 2:3 --v 6 --q 2 --stylize 250",
+    "title": "Ana de Armas Festival Candid Shot Prompt",
+    "description": "A prompt for generating a photorealistic, candid shot of Ana de Armas at a lively outdoor night party or music festival, emphasizing specific clothing, makeup, dynamic composition, and warm ambient lighting with bokeh effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692205572_68geoc_HCjVcRFbMAA3OiG.jpg",
+      "https://cms-assets.youmind.com/media/1772692205641_e9ky4e_HCjVcPWawAEb85x.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11446,
+    "content": "I want a Logo display wall that has won a graphic design award, and the Logo design theme is {argument name=\"theme\" default=\"monkey\"}",
+    "title": "Logo Design Wall Generation Prompt for Monkey Theme",
+    "description": "A prompt used for generating a 'logo wall' featuring multiple logo designs simultaneously, intended to quickly iterate and find a suitable design. The theme is 'monkey' and the desired style is one that would win a graphic design award. This method is used with tools like Nano Banana, ChatGPT, and Jimeng.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692216318_e2eb2y_HCiRfHZbgAAouj1.jpg",
+      "https://cms-assets.youmind.com/media/1772692216252_odhevr_HCiRfHbbAAAgR7b.jpg",
+      "https://cms-assets.youmind.com/media/1772692216316_0q8zrq_HCiRfHaawAEL6G6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11388,
     "content": "PROMPT:\nUltra high-resolution photorealistic street photo at dusk (blue hour) in Shibuya, Tokyo, at the famous scramble crossing. Neon signs and city lights glowing in the background with strong bokeh, crowded pedestrians with slight motion blur, cinematic urban atmosphere. A young Japanese woman (around early 20s), small face, natural youthful features, dark brown to black medium bob haircut with straight bangs. She is looking downward with a quiet, slightly melancholic expression, eyes cast down, calm and reserved mood. Full-body shot in a vertical composition, standing near the curb on the sidewalk, relaxed posture with one hand in a pocket, shoulders slightly tucked in.\n\nOutfit: red and beige varsity jacket with white striped ribbing, plain white T-shirt underneath. Thick mustard-yellow knitted scarf wrapped around her neck with visible fringes. Oversized faded wide-leg blue jeans with heavy distressing and large rips around the knees. Red-and-black basketball-style sneakers, black laces. Crosswalk white stripes visible, evening warm light on the pavement, no rain.\n\nCamera & look: 35mm–50mm street photography, f/1.8–f/2.8, shallow depth of field, sharp focus on the subject’s face and upper body, background softly blurred. Natural skin texture (no heavy beauty filter), subtle pores, realistic hair strands. Cinematic color grading (warm highlights, slightly cool shadows), HDR, crisp detail, low noise, 8K quality, vertical 9:16, full body in frame, no cropping.\n\nNEGATIVE PROMPT:\nlow quality, blurry, out of focus, bad anatomy, deformed body, distorted face, uneven eyes, extra fingers, extra limbs, unnatural joints, plastic skin, over-smoothed skin, AI-looking shine, heavy noise, grain, text, watermark, logo, readable sign text, cropped body, out of frame, overexposed, blown highlights, crushed blacks, anime style, illustration, cartoon",
     "title": "Photorealistic Street Photo Prompt: Vintage Fashion Girl in Shibuya",

@@ -56,6 +56,19 @@
     "needReferenceImages": false
   },
   {
+    "id": 11434,
+    "content": "Create a technical infographic of  timeline poster of {argument name=\"product name\" default=\"[PRODUCT NAME]\"}. Use sharp ink lines and soft watercolor on textured paper.\nFeature a central hero illustration with handwritten years, arrows, notes, and small sketches showing design evolution and key milestones. Keep it clean, lively, colourful and strong contrast. Highly detailed, vertical portrait.\n\nVisual Concept\nA realistic photograph or photorealistic render combined with dense technical annotation overlays, exactly like an engineering, Pure white studio background.\n\nTitle Placement\nProduct name in English , bold font, inside a hand-drawn technical annotation frame (as in engineering blueprints), positioned in the upper corner.\n\nStyle & Layout\n• Very high information density • Annotations feel like an engineering / architectural sketch • Black lines — 70–80% of all graphics • Accent {argument name=\"brand color\" default=\"[BRAND COLOR]\"} — 20–30% (arrows, key zones, headings) • The realistic product remains fully readable • Educational, industrial-premium aesthetic • Small brand logo in the corner (in English)\n\nVisual Style\nMinimal technical illustration aesthetic: black linework over realistic imagery, precise, highly detailed, slightly hand-drawn, like professional technical manuals.\nColor Palette\nWhite background Black text and linework {argument name=\"brand color 2\" default=\"[BRAND COLOR]\"} used only for accents\nOutput\n9:16 Vertical portrait, 8K, highly detailed, Ultra-crisp image Social-feed optimized No watermark",
+    "title": "Vintage Blueprint Timeline Infographic Poster Prompt",
+    "description": "A detailed prompt for generating a technical infographic poster in the style of a vintage blueprint, illustrating the timeline and evolution of a product (placeholder), emphasizing sharp ink lines, watercolor accents, and high information density.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692210399_y1o3tw_HCmEub0WAAAjjJt.jpg",
+      "https://cms-assets.youmind.com/media/1772692210474_inxngq_HCmEubjWYAANBAp.jpg",
+      "https://cms-assets.youmind.com/media/1772692210610_ovo80n_HCmEucKawAESTH7.jpg",
+      "https://cms-assets.youmind.com/media/1772692211430_0a3xkv_HCmEubqWwAArTWQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11373,
     "content": "Convert the provided photo into a black and white coloring page. Preserve the original composition, proportions, and recognizable facial features from the original photo.\nStyle: children's illustration with a soft cartoonish look, inspired by Pixar aesthetics, but simplified for coloring.\nLines: clean, smooth, medium-thickness outlines, clear closed shapes, no broken lines, no sketchiness.\nShading: no gray colors, no shadows, no gradients — outlines only.\nDetails: simplified but accurate, preserving the recognizability of key objects and expressions, removing unnecessary background.\nFaces: expressive, friendly, slightly rounded features, kid-friendly, maintaining likeness.\nBackground: simplified interior or environmental elements, minimalistic yet readable.\nComposition: centered, balanced, with comfortable margins for printing.\nTechnical requirements:\n– clean black lines on a white background\n– high contrast\n– printable A4 / US Letter format\n– suitable for coloring with pencils or markers\nNo color, no textures, no realism, no photo effects, no hatching, no cross-hatching.",
     "title": "Convert Photo to Black and White Coloring Page",

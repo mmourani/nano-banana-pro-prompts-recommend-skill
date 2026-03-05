@@ -1,5 +1,15 @@
 [
   {
+    "id": 11452,
+    "content": "A cinematic short video of a woman baking sweets. Unified with film-like color tones, soft highlights, warm shadows, and shallow depth of field, the woman's cuteness is expressed only through gestures, subtle expressions, and reactions to sound. It begins with a close-up of her hands, depicting a series of actions—mixing ingredients, pouring, baking in the oven, and finally taking a bite—accompanied by ASMR-like immersive sounds (contact sounds of utensils, baking sounds, breathing). A warm video composed of smooth gimbal work and focus pulls, with natural transitions timed to the peak of movement and sound.",
+    "title": "Cinematic Short Video Prompt for Baking Scene",
+    "description": "A summarized prompt used for both image and video generation (Kling 3.0 Omni) to create a cinematic short film about a woman baking. It emphasizes film-like color tones, shallow depth of field, ASMR-like sound details, and smooth camera work.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772692218084_f33mq4_HCiHBl1awAA5lA-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11387,
     "content": "A cinematic short film depicting the delicate cuteness of a woman engrossed in art creation. Emphasizing silence with close-ups of her hands and ASMR sound, smoothly shifting focus to her gaze and gestures. Capturing the texture of brushes and paper with extreme close-ups, then slowly pulling the camera back to leave a lingering impression. Unified by a 24fps film look, shallow depth of field, and soft lighting, weaving a story through the quality of her actions and sounds.",
     "title": "Cinematic Short Film Prompt: Woman Immersed in Art",
