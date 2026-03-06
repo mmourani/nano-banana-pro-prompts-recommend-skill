@@ -1,5 +1,69 @@
 [
   {
+    "id": 11565,
+    "content": "SCENE:\nA trading settlement built around a large stone bridge crossing a deep river gorge with shops, storage sheds, and stairways leading to dock platforms below. Tiny traders move goods while birds glide along canyon walls.\nSTYLE:\nCreate a premium stylized miniature diorama where canyon terrain and river water form a continuous sculpted base integrated with market structures. The entire diorama floats in mid-air inside a blank single-color background environment that contrasts with the rocky terrain. Use stylized resin water, compact shops, and rope docks. Include miniature traders, carts, birds, barrels, crates, and rope details to reinforce handcrafted miniature storytelling scale. Lock the render to 4:3.\nLIGHTING:\nThe scene occurs in late evening after sunset with very low natural light. Ambient lighting remains dim while lanterns, shop lights, and small lamps illuminate the bridge and market stalls. These lights create warm glowing pockets of illumination across the trading post while surrounding canyon surfaces remain darker, producing strong contrast and dramatic miniature depth.\nCAMERA:\nUse an isometric camera capturing the entire floating diorama clearly from top to bottom and side to side.",
+    "title": "Floating Miniature Diorama Prompt",
+    "description": "A detailed prompt for generating a stylized miniature diorama of a trading settlement built around a large stone bridge, emphasizing the handcrafted miniature scale, late evening lighting, and an isometric camera view.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778745843_y4i9o7_HCrfZVeaUAQv9ek.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11480,
+    "content": "Extreme closeup, hard surface modelling final render. In the style of retro cassette realism. A futuristic device, not a cassette tape. Incredible detail. Stunning design. Sharp focus and shallow depth of field. Glass details. Surface imperfections. 32k uhd",
+    "title": "Hard Surface Modeling Retro Cassette Realism",
+    "description": "A prompt for generating an extreme closeup, hard surface modeling final render. The style is retro cassette realism, applied to a futuristic device, emphasizing incredible detail, sharp focus, glass details, and surface imperfections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778700676_u3sto4_HCqsmGnXEAE0iPI.jpg",
+      "https://cms-assets.youmind.com/media/1772778700724_qq4ooi_HCqskfgaUAI0PQg.jpg",
+      "https://cms-assets.youmind.com/media/1772778700773_b1nehi_HCqslQWaUAABlWR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11482,
+    "content": "Cute stylized 3D animated boy with messy fluffy blue hair and big expressive eyes, soft freckles on face, wearing a fuzzy blue striped sweater, small adorable raccoon sitting on his shoulder, looking upward with a gentle smile, Pixar-style character design, soft studio lighting, pastel blue background, ultra-detailed fur and fabric texture, cinematic portrait composition, high-quality 3D render, 8K.\nIMAGE 2 \n2️⃣ Child with Bird\nAdorable stylized 3D child character wearing a fluffy sweater, soft blue hair, big emotional eyes looking upward, cute small bird sitting on the shoulder, cinematic red and purple lighting, dreamy atmosphere, Pixar-style animated character, ultra-detailed feathers and fabric textures, soft glow lighting, shallow depth of field, highly detailed 3D render, 8K",
+    "title": "Pixar-Style 3D Animated Child Portrait with Animal",
+    "description": "Two prompts for generating cute, stylized 3D animated child characters in the Pixar style. The first features a boy with a raccoon on his shoulder, emphasizing detailed fur and fabric textures. The second features a child with a bird, focusing on dramatic lighting and a dreamy atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778701511_rl2jrs_HCp4e1faAAAVbqC.jpg",
+      "https://cms-assets.youmind.com/media/1772778701511_qzs2wk_HCp43zqacAACxzh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11575,
+    "content": "manga <Uzumaki Naruto>\n      [   OUT OF FOCUS LIBRARY BACKGROUND   ]\n      \n      [       VERTICAL MANGA PANEL ART      ] <--- Backplate\n                |\n      [  3D [CHARACTER] JUMPING OUTWARD     ] <--- Hero Object\n      [  (Mid-Air Pose, Dynamic Action)     ]\n                |\n      [   OPEN BOOK / GRASS / DEBRIS BASE   ] <--- Ground\n      [   (Infer based on [SERIES_NAME])    ]\n\n      [  TABLE SURFACE  ]\n</spatial_map>\n\nINSTRUCTION: \n1. Render as a high-end \"Pop-Up Book\" aesthetic.\n2. The Background is flat paper. The Character is full 3D plastic/resin.\n3. Lighting: \"Toy Photography\" style (Softbox, vibrant colors).",
+    "title": "Uzumaki Naruto Pop-Up Book Prompt",
+    "description": "A structured prompt using a spatial map to generate a 3D 'Pop-Up Book' aesthetic image based on the manga 'Uzumaki Naruto', featuring a 3D character jumping out of a vertical manga panel art background, rendered in 'Toy Photography' style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778750572_ln6whq_HCp3EbTboAAg1Ba.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11474,
+    "content": "SCENE: A peaceful village built along the edge of a tall forest waterfall with small shrines, wooden houses, rope bridges, and viewing platforms carved into the cliff. Tiny villagers carry baskets along stone paths while birds fly through the mist and moss grows on the rocks.  \n\nSTYLE: Create a premium stylized miniature diorama whose terrain base blends naturally with the environment so cliffs, forest floor, and flowing water form a continuous sculpted model. The entire diorama including the terrain base should float freely in mid-air without resting on any table or platform. Surround the diorama with a blank single-color environment that contrasts with the scene so the miniature stands out clearly. Use stylized resin waterfall effects, compact architecture, warm lantern glow, and dense foliage clusters. Include miniature villagers, birds, baskets, shrubs, and path props to reinforce handcrafted collectible scale. Lock the render to a 4:3 aspect ratio.  \n\nCAMERA: Use an isometric camera angle positioned high enough to clearly view the terrain layers and structures. Frame the entire floating diorama so the full base and environment are visible from top to bottom and side to side with comfortable margins.",
+    "title": "Stylized Miniature Diorama of Forest Waterfall Village",
+    "description": "A detailed prompt for generating a premium stylized miniature diorama of a peaceful village built along a forest waterfall. The prompt specifies the scene elements (shrines, houses, villagers), the style (floating diorama, resin effects, handcrafted scale), and the camera angle (isometric, high angle, 4:3 aspect ratio).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778696952_zgwlkh_HCpzeJ9bsAER_Az.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11462,
+    "content": "{\n  \"prompt\": \"Ultra-realistic 3D cinematic full body portrait of a smiling young boy with Tom and Jerry. Boy wearing light grey sweater, blue jeans, white sneakers, relaxed crossed-leg pose. One arm around Tom. Tom standing upright with one hand on waist, other arm around the boy. Jerry sitting on Tom’s shoulder smiling. Tom and Jerry have realistic detailed fur but their faces remain consistent and unchanged. Age-appropriate boy height. Soft blue studio background, dramatic soft lighting, sharp focus, photorealistic quality. No cartoon look, no blur, no distortion.\",\n  \"style\": \"ultra-realistic 3D cinematic\",\n  \"camera\": \"full body portrait, sharp focus\",\n  \"lighting\": \"dramatic soft studio lighting\",\n  \"background\": \"soft blue studio background\",\n  \"quality\": \"photorealistic\",\n  \"constraints\": [\n    \"Keep Tom and Jerry faces consistent and unchanged\",\n    \"Age-appropriate boy height\",\n    \"No cartoon look\",\n    \"No blur\",\n    \"No distortion\"\n  ]\n}",
+    "title": "Ultra-Realistic 3D Cinematic Portrait with Tom and Jerry",
+    "description": "A structured prompt designed to generate an ultra-realistic 3D cinematic full-body portrait of a smiling young boy posing with Tom and Jerry, emphasizing realistic fur textures for the animals while maintaining their original facial consistency, set against a soft blue studio background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778692413_8kn6hi_HCn9vadakAEQVdz.jpg",
+      "https://cms-assets.youmind.com/media/1772778692423_fqh6bb_HCn9vZIawAEbbsE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11402,
     "content": "3D cartoon avatar character showing different emotions arranged in a 3x3 grid, same male character with brown hair, Pixar-style animation, each square showing a different expression (happy, shocked, angry, caring with a puppy, confident, thumbs up, sad, thinking, professional), colorful gradient backgrounds for each panel, soft studio lighting, smooth 3D rendering, expressive eyes and facial expressions, modern emoji-style character design, clean composition, ultra-detailed, vibrant colors, 8K.",
     "title": "3D Cartoon Avatar Character Grid Prompt (Pixar Style)",

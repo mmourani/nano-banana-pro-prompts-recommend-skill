@@ -56,6 +56,74 @@
     "needReferenceImages": false
   },
   {
+    "id": 11512,
+    "content": "class Culinary_PopUp_Book:\n    def __init__(self, dish=\"Köttbullar (Traditional Swedish Meatballs)\"):\n        self.base = \"Ancient leather-bound cookbook, open on a rustic wooden table\"\n        self.scale = \"1:87 (HO Scale) Miniature Diorama\"\n        \n    def generate_spread(self):\n        # 1. Left Page: The Origin (Nature)\n        origin_biome = \"Dense Swedish pine forest with wild lingonberry bushes and misty green pastures for cattle\"\n        harvesters = \"Miniature foragers picking bright red lingonberries in the woods and traditional farmers tending to dairy cows\"\n        \n        # 2. Center Gutter: The Transformation (Cooking)\n        machinery = \"Classic Swedish wood stove (vedspis) with a massive, sizzling cast-iron skillet\"\n        physics = \"Rich buttery steam and savory smoke rising from the glowing embers in the gutter\"\n        \n        # 3. Right Page: The Result (Feast)\n        plating = f\"A massive, delicious pile of finished {dish} swimming in rich brown cream sauce (gräddsås), alongside buttery mashed potatoes\"\n        garnish = \"Miniature chefs carefully placing sprigs of fresh dill and dolloping bright lingonberry jam\"\n        \n        return [origin_biome, machinery, plating, harvesters, garnish]\n\n# EXECUTE RENDER: 8k resolution, tilt-shift photography, warm rustic lighting, cozy Scandinavian aesthetic (Hygge).",
+    "title": "Culinary Pop-Up Book Diorama of Swedish Meatballs",
+    "description": "A highly structured, code-like prompt for Gemini Nano Banana 3 to generate a miniature diorama (1:87 scale) of traditional Swedish meatballs (Köttbullar) presented as a culinary pop-up book. The prompt details the scene across three sections: origin (forest/nature), transformation (cooking stove), and the final feast (plating), emphasizing tilt-shift photography and a cozy Scandinavian aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778716090_aukdch_HCqrAeYasAAbU9j.jpg",
+      "https://cms-assets.youmind.com/media/1772778716147_fn45l6_HCqq6BNWkAEscMd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11514,
+    "content": "A National Park trail map unfolded on a picnic table, with the wilderness rising into explorable miniature ecosystem. {TRAILHEAD} emerges with {VISITOR_ELEMENT}, the marked paths wind upward through {TERRAIN_1} featuring {WILDLIFE_1}, past {VIEWPOINT_1} with {SCENIC_ELEMENT}, toward {SUMMIT/DESTINATION} with {PAYOFF_VIEW}. {WATER_FEATURE} flows actual water down the topography. {FOREST_TYPE} trees stand at proper scale, {BIRD_SPECIES} perch in branches. Trail markers and signs are legible. Elevation changes create dramatic miniature mountains. {WEATHER_ELEMENT} affects one region while another stays clear. Camping symbols mark actual tiny tent sites with smoke rising. Day hikers frozen mid-stride, wildlife pausing mid-graze. Golden hour backcountry light, wilderness diorama perfection, 8K, the park as you imagined it from the map.",
+    "title": "National Park Trail Map Miniature Ecosystem Diorama",
+    "description": "A detailed template prompt for Nano Banana 2 in Firefly, designed to generate an image of a National Park trail map unfolded on a picnic table, transforming into an explorable miniature ecosystem diorama. The prompt uses placeholders (like {TRAILHEAD}, {WILDLIFE_1}) for customization and specifies elements like elevation changes, weather, and lighting (Golden hour backcountry light).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778716690_e5o1re_HCqabmGW4AAVCJ4.jpg",
+      "https://cms-assets.youmind.com/media/1772778716517_6ljg89_HCqaomWXcAA7_p0.jpg",
+      "https://cms-assets.youmind.com/media/1772778716591_rwkcwo_HCqaLJFaUAIOf_m.jpg",
+      "https://cms-assets.youmind.com/media/1772778717673_ywc88n_HCqa3tfW8AELheo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11547,
+    "content": "Create a branded technical infographic of a {argument name=\"product name\" default=\"PRODUCT NAME\"}, fully matching the visual density, structure, and engineering-style presentation of the technical food schematics of {argument name=\"product name 2\" default=\"PRODUCT NAME\"} with all text written in English\nCRITICAL LANGUAGE RULE: Every visible word on the image must be in English.\nVisual Concept\nA realistic photograph or photorealistic render of the snack combined with dense technical annotation overlays, exactly like an engineering or food-packaging blueprint. Pure white studio background.\nRequired Technical Elements (ALL LABELED IN English)\n• Labels for key product components • Internal cross-section showing structure, layers, or filling • Measurements: height, width, volume, weight (metric system) • Packaging and product material callouts with composition and quantities • Arrows indicating function, pressure, sealing, and structural integrity • Simple schematic or sectional diagram of mechanics / form / packaging • Sustainability and environmental callouts (recycling, materials, waste reduction)\nTitle Placement\nProduct name in English, bold font, inside a hand-drawn technical annotation frame (as in engineering blueprints), positioned in the upper corner.\nStyle & Layout\n• Very high information density • Annotations feel like an engineering / architectural sketch • Black lines — 70–80% of all graphics • Accent {argument name=\"brand color\" default=\"BRAND COLOR\"} — 20–30% (arrows, key zones, headings) • The realistic product remains fully readable • Educational, food-engineering, industrial-premium aesthetic • Small brand logo in the corner (in English)\nVisual Style\nMinimal technical illustration aesthetic: black linework over realistic imagery, precise, highly detailed, slightly hand-drawn, like professional technical manuals.\nColor Palette\nWhite background Black text and linework {argument name=\"brand color 2\" default=\"BRAND COLOR\"} used only for accents\nOutput\n9:16 Vertical portrait, 8K, highly detailed,  Ultra-crisp image Social-feed optimized No watermark",
+    "title": "Technical Infographic Schematic for a Product/Beverage",
+    "description": "A complex, multi-part prompt designed to generate a technical infographic or blueprint of a product, combining a photorealistic image with dense, engineering-style annotations, labels, measurements, and structural callouts, all strictly in English, against a pure white background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778735760_tee359_HCpmLIjWgAAMdnX.jpg",
+      "https://cms-assets.youmind.com/media/1772778735879_t5ypcc_HCpmLIZW8AEejEf.jpg",
+      "https://cms-assets.youmind.com/media/1772778735929_xy3vkq_HCpmLJJakAAS9Dj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11579,
+    "content": "Create the following presentation slide image\nTheme:\n・\n・\n・\n・\n* Add other recommended content",
+    "title": "Presentation Slide Generation Template using Nano Banana Pro",
+    "description": "A template for generating presentation slides easily using Nano Banana Pro. The user provides a copy-paste template for creating slides based on a specified theme and additional content.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778751889_wlpuem_HCpUd40bMAAfiKD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11466,
+    "content": "Motion Prompt: The taco begins a slow, smooth rotation while its layers gently separate one by one, maintaining perfect alignment, spacing, and scale. Each ingredient floats apart with precise, controlled motion. The movement is clean and fluid, with no extra effects or distractions.\n\nImage 1 :-  A high-quality, professional product photograph of a grilled chicken taco filled with juicy grilled chicken pieces with visible char marks, fresh shredded red cabbage, and creamy white sauce topped with small diced tomatoes, onions, and parsley garnish, all placed inside a soft wheat taco tortilla. The taco looks fresh, flavorful, and well-filled with visible textures and vibrant ingredients. Minimalist style, shot against a pure solid white background with soft, natural shadows. 8K resolution, ultra-sharp focus, clean and modern food photography aesthetic.\n\nImage 2 :- Create a hyper-realistic exploded vertical infographic composition of a grilled chicken taco. At the top, a creamy white sauce with herb garnish and small diced tomato and onion pieces resting on the surface. Below it, juicy grilled chicken pieces with visible grill marks and a lightly charred texture. Beneath that, a layer of fresh shredded red cabbage floating naturally with crisp texture. At the bottom, a soft wheat taco tortilla shell slightly curved and aligned to hold the ingredients.\nPure solid white background, soft studio lighting, subtle realistic shadows beneath each floating layer, ultra-sharp focus, DSLR macro photography look. Clean minimalist infographic text labels with thin pointer lines identifying each ingredient. Premium fast-food product photography aesthetic, photorealistic, 8K resolution.",
+    "title": "Exploded View Grilled Chicken Taco Product Photography",
+    "description": "A complex prompt for generating two high-quality images of a grilled chicken taco: a professional product photograph and a hyper-realistic exploded vertical infographic composition, emphasizing texture, alignment, and commercial food photography aesthetics. It also includes a motion prompt for a video generation model (Kling 3.0) describing the taco's slow, controlled rotation and separation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778693992_gdu4zr_HCo6HRmXEAApfVa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11483,
+    "content": "Create a branded technical infographic of a [{argument name=\"product name\" default=\"PRODUCT NAME\"}], fully matching the visual density, structure, and engineering-style presentation of the technical food schematics of [PRODUCT NAME]with all text written in English\nCRITICAL LANGUAGE RULE: Every visible word on the image must be in English.\nVisual Concept\nA realistic photograph or photorealistic render of the snack combined with dense technical annotation overlays, exactly like an engineering or food-packaging blueprint. Pure white studio background.\nRequired Technical Elements (ALL LABELED IN English)\n• Labels for key product components • Internal cross-section showing structure, layers, or filling • Measurements: height, width, volume, weight (metric system) • Packaging and product material callouts with composition and quantities • Arrows indicating function, pressure, sealing, and structural integrity • Simple schematic or sectional diagram of mechanics / form / packaging • Sustainability and environmental callouts (recycling, materials, waste reduction)\nTitle Placement\nProduct name in English, bold font, inside a hand-drawn technical annotation frame (as in engineering blueprints), positioned in the upper corner.\nStyle & Layout\n• Very high information density • Annotations feel like an engineering / architectural sketch • Black lines — 70–80% of all graphics • Accent [{argument name=\"brand color\" default=\"BRAND COLOR\"}] — 20–30% (arrows, key zones, headings) • The realistic product remains fully readable • Educational, food-engineering, industrial-premium aesthetic • Small brand logo in the corner (in English)\nVisual Style\nMinimal technical illustration aesthetic: black linework over realistic imagery, precise, highly detailed, slightly hand-drawn, like professional technical manuals.\nColor Palette\nWhite background Black text and linework [BRAND COLOR] used only for accents\nOutput\n9:16 Vertical portrait, 8K, highly detailed,  Ultra-crisp image Social-feed optimized No watermark",
+    "title": "Technical Infographic Sheet Product Specification Template",
+    "description": "A complex, structured prompt template designed to generate a branded technical infographic sheet for a product. It mandates a visual style mimicking engineering blueprints, combining a realistic product photograph with dense, English-labeled technical annotations, measurements, and material callouts, all against a pure white studio background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778702584_chfqv2_HCnWqiPXoAAXcJN.jpg",
+      "https://cms-assets.youmind.com/media/1772778702557_s4nskd_HCnWqirawAMF856.jpg",
+      "https://cms-assets.youmind.com/media/1772778702644_vep4az_HCnWqiOX0AAMPnq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11434,
     "content": "Create a technical infographic of  timeline poster of {argument name=\"product name\" default=\"[PRODUCT NAME]\"}. Use sharp ink lines and soft watercolor on textured paper.\nFeature a central hero illustration with handwritten years, arrows, notes, and small sketches showing design evolution and key milestones. Keep it clean, lively, colourful and strong contrast. Highly detailed, vertical portrait.\n\nVisual Concept\nA realistic photograph or photorealistic render combined with dense technical annotation overlays, exactly like an engineering, Pure white studio background.\n\nTitle Placement\nProduct name in English , bold font, inside a hand-drawn technical annotation frame (as in engineering blueprints), positioned in the upper corner.\n\nStyle & Layout\n• Very high information density • Annotations feel like an engineering / architectural sketch • Black lines — 70–80% of all graphics • Accent {argument name=\"brand color\" default=\"[BRAND COLOR]\"} — 20–30% (arrows, key zones, headings) • The realistic product remains fully readable • Educational, industrial-premium aesthetic • Small brand logo in the corner (in English)\n\nVisual Style\nMinimal technical illustration aesthetic: black linework over realistic imagery, precise, highly detailed, slightly hand-drawn, like professional technical manuals.\nColor Palette\nWhite background Black text and linework {argument name=\"brand color 2\" default=\"[BRAND COLOR]\"} used only for accents\nOutput\n9:16 Vertical portrait, 8K, highly detailed, Ultra-crisp image Social-feed optimized No watermark",
     "title": "Vintage Blueprint Timeline Infographic Poster Prompt",

@@ -1,5 +1,61 @@
 [
   {
+    "id": 11571,
+    "content": "photorealistic top-down close-up view of a professional animation light table in a dimly lit studio, bright soft white glow coming from underneath through the glass surface, a crisp white sheet of animation paper centered on the light table, detailed pencil sketch of **{argument name=\"subject\" default=\"a character portrait\"}** drawn in clean confident animator lines on the paper, visible rough construction lines, light guidelines, subtle eraser marks and graphite texture, soft rim lighting highlighting the paper edges and pencil strokes, realistic light diffusion and subtle bloom from the table, warm wooden table frame, scattered animation pegs and a few loose pencils nearby, focused cinematic atmosphere, ultra detailed, high-end animation production still",
+    "title": "Classic Animation Light Table Prompt",
+    "description": "A template prompt for generating a photorealistic, top-down close-up view of a professional animation light table in a dimly lit studio, featuring a detailed pencil sketch of a customizable subject on the glowing paper.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778747789_ojg4qi_HCqMh5lWAAAKtf6.jpg",
+      "https://cms-assets.youmind.com/media/1772778748001_93fzbs_HCqMfpEagAArVk0.jpg",
+      "https://cms-assets.youmind.com/media/1772778748051_3x4ju8_HCqMh6GbgAA7NTZ.jpg",
+      "https://cms-assets.youmind.com/media/1772778748880_z9qpxt_HCqMh7KWYAEDmTD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11581,
+    "content": "Currency issuance rights, my favorite (lol) ~Melody of infinite balance~\n\nThe “Truth” of NOBU, President of the Space Bank\n\n“The illusion of ‘trillions’ crushed by a tank”\n\n“The Hermit’s Smile: Japan’s Exemption Plan”\n\n4-panel manga",
+    "title": "Nano Banana Pro Image Generation Prompt: Currency Issuance and Infinite Balance",
+    "description": "A creative, abstract prompt designed for Nano Banana Pro (Gemini 3 Pro Image) to generate images related to complex, philosophical concepts like currency issuance rights, infinite balance, and global financial themes, presented in a four-panel manga format.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778752652_715xln_HCqSW7GbcAA3o8v.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11478,
+    "content": "[Image reference/object/person] as a [movie/TV show genre] movie storyboard, six sequential panels, pencil sketch with tonal shading, cinematic camera angles, shot type labels, director's notes in margins, 4K storyboard sheet.",
+    "title": "Six-Panel Cinematic Storyboard Sketch",
+    "description": "A reusable prompt template for generating a six-panel movie storyboard sketch based on a provided subject. It specifies pencil sketch style with tonal shading, cinematic camera angles, and inclusion of shot type labels and director's notes in the margins.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778698182_uts6i4_HCp-CH0aEAAna4A.jpg",
+      "https://cms-assets.youmind.com/media/1772778698371_h0yoho_HCp-CEpbUAAvvFi.jpg",
+      "https://cms-assets.youmind.com/media/1772778699040_78j0kt_HCp-B_9WgAItd5V.jpg",
+      "https://cms-assets.youmind.com/media/1772778699435_h52z7a_HCp-CKQaoAAp-1C.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11575,
+    "content": "manga <Uzumaki Naruto>\n      [   OUT OF FOCUS LIBRARY BACKGROUND   ]\n      \n      [       VERTICAL MANGA PANEL ART      ] <--- Backplate\n                |\n      [  3D [CHARACTER] JUMPING OUTWARD     ] <--- Hero Object\n      [  (Mid-Air Pose, Dynamic Action)     ]\n                |\n      [   OPEN BOOK / GRASS / DEBRIS BASE   ] <--- Ground\n      [   (Infer based on [SERIES_NAME])    ]\n\n      [  TABLE SURFACE  ]\n</spatial_map>\n\nINSTRUCTION: \n1. Render as a high-end \"Pop-Up Book\" aesthetic.\n2. The Background is flat paper. The Character is full 3D plastic/resin.\n3. Lighting: \"Toy Photography\" style (Softbox, vibrant colors).",
+    "title": "Uzumaki Naruto Pop-Up Book Prompt",
+    "description": "A structured prompt using a spatial map to generate a 3D 'Pop-Up Book' aesthetic image based on the manga 'Uzumaki Naruto', featuring a 3D character jumping out of a vertical manga panel art background, rendered in 'Toy Photography' style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778750572_ln6whq_HCp3EbTboAAg1Ba.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11501,
+    "content": "Panels are NOT edge-to-edge\nVisible thin white spacing between panels Subtle outer white margin around the entire grid clean modern UI-style layout\nSlight rounded corners on each tile\nPanel 1 — Joyful / Celebratory (Yellow) Bright yellow gradient background\nArms raised\nEyes closed\nBig open laugh\nEnergetic posture\nPanel 2 — Shocked (Blue)\nBlue gradient background\nHands on cheeks\nWide eyes\nOpen mouth\nRaised brows\nPanel 3 — Serious / Stern (Red)\nRed background\nArms crossed\nFurrowed brows\nNeutral tight lips\nWearing dark hoodie\nPanel 4 — Affectionate (Pink)\nSoft pink gradient\nHolding small brown puppy\nGentle smile\nCozy knit sweater\nPanel 5 — Confident / Sassy (Purple)\nPurple gradient background\nOne hand on hip\nSlight smirk\nGraphic t-shirt\nRelaxed stance\nPanel 6 — Friendly / Casual Approval (Green)\nGreen gradient background\nWearing cap + denim jacket\nThumbs-up\nRelaxed smile\nPanel 7 — Sad / Emotional (Gray)\nGray gradient background\nSlight downward gaze\nEyebrows slightly raised in center\nLips slightly curved downward",
+    "title": "Emotion Grid with Gradient Backgrounds",
+    "description": "A prompt for generating a multi-panel grid (7 panels) showing different emotions (Joyful, Shocked, Serious, Affectionate, Confident, Friendly, Sad) against corresponding colored gradient backgrounds, with specific instructions for layout and visual details for each panel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778710280_sk4aen_HCnFCQ5awAA1rA6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11450,
     "content": "Today's events\nMorning\nTuna can\n\nNoon\nBig Mac set at McDonald's\nFries and chocolate shake\n\nAfternoon\nGyoza no Ohsho, 2 servings of grilled gyoza to go\n\nNight\nCurry\n\n4-panel manga",
     "title": "4-Panel Manga Prompt: A Day's Meals",

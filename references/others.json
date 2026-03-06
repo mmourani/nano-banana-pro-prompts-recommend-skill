@@ -13,6 +13,19 @@
     "needReferenceImages": true
   },
   {
+    "id": 11526,
+    "content": "Replace the grey shirt man in image 1 with the orange sweater man from image 2. Match the exact pose from image 1 Remove the caption text \"HEY COME HERE\" Remove the black from the top right corner\n\nWhile maintaining the exact pose, change the location in the background to on an empty new orleans street sidewalk. The POV is from someone seated looking upward so match the background perspective accordingly Adjust the lighting on the man to match the new scene.",
+    "title": "Image Editing and Background Replacement Workflow",
+    "description": "A two-step workflow demonstrating how to use Nano Banana Pro for image editing. The first prompt replaces a person in an image with a person from a second image while maintaining the pose. The second prompt uses the resulting image as input to change the background location and adjust lighting and perspective accordingly.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778722759_080rjg_HCq4zWzaUAA18LO.jpg",
+      "https://cms-assets.youmind.com/media/1772778722720_mveb1h_HCq4Q7qaIAArVd8.jpg",
+      "https://cms-assets.youmind.com/media/1772778722825_dxdx8o_HCq5CBMaUAA93hJ.jpg",
+      "https://cms-assets.youmind.com/media/1772778723944_259nr6_HCq5SbKaUAov4du.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 11441,
     "content": "skin texture + gaze lock (close-up immersion vibe).",
     "title": "Nano Banana Prompt for Close-up Immersion with Skin Texture",

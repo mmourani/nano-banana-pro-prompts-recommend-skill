@@ -10,6 +10,198 @@
     "needReferenceImages": false
   },
   {
+    "id": 11562,
+    "content": "(9:16) Photorealistic mirror selfie, high angle looking down, medium shot, iPhone 17 Pro sim, 24mm, f/2.2, subject sharp, natural falloff, digital grain.\n\nSubject head→lap ~75% frame, camera ~0.5m arm-length angled downward. Background: cream walls, bed with sage/green patterned duvet left, dark desk with items right.\n\nIDENTITY LOCK — inherit ALL facial traits from selfie (face shape, eyes, nose, lips, chin, skin tone, hair color/texture, freckles/moles). Natural skin fidelity: micro-pores, vellus hair, soft luminosity, even tone.\n\nExpression: pensive, subtly confident; gaze upward to lens, relaxed closed lips / soft pout; head tilted forward ~15°.\n\nHair: inherit selfie color/texture; long voluminous loose waves, high-definition strand separation. Left hand lifting roots at crown; hair framing face and falling over shoulders.\n\nMakeup: minimal natural — neutral gloss, even skin, defined brows.\n\nAccessories: black rectangular glasses, thin gold chain necklace.\n\nOutfit: black rib-knit long-sleeve henley bodysuit (deep button neckline) + grey heather athletic leggings; defined S-curve silhouette (+20%).\n\nPose: seated leaning forward; right arm holding camera; left hand in hair behind head; collarbones subtly defined.\n\nMood: casual, intimate bedroom selfie. Palette: black, slate-grey, sage green, cream.\n\nLighting: warm indoor ~3000K, soft diffused front-left light, moderate contrast.\n\nEnvironment: bedroom/dorm; bed with green geometric duvet (left), black desk with red bottle + notebooks (right), colorful anime poster upper-right; background soft bokeh.",
+    "title": "Photorealistic Mirror Selfie with Identity Lock",
+    "description": "A highly specific prompt for generating a photorealistic mirror selfie, emphasizing 'IDENTITY LOCK' to ensure the generated subject perfectly matches the facial traits of the reference image. Details include camera specs (iPhone 17 Pro sim, 24mm), pose (seated, pensive), outfit (black henley bodysuit, grey leggings), and environment (bedroom/dorm).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778744448_lswbam_HCrWsy0aMAAzdHT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11577,
+    "content": "(9:16) Photorealistic medium-wide environmental portrait, iPhone 17 Pro sim, 35mm, f/8, everything sharp, authentic digital grain.\n\nSubject seated on stone wall (~50% frame), camera ~3m. Upper frame: overcast sky + cherry blossom canopy (~40%). Lower frame: concrete parking lot (~20%).\n\nIDENTITY LOCK — inherit ALL permanent facial features from selfie (face shape, bone structure, eyes, nose, lips, chin, skin tone, hair color/texture, freckles/moles/distinct marks). Natural skin detail: micro-pores, vellus hair, soft luminosity, even tone, subtle jaw shadow, nasal highlight, zygomatic light, defined lashes/brows, bright teeth, groomed hair strands.\n\nExpression: pensive, serene; head turned left, gaze upper-left (~45° off-camera); relaxed closed lips.\n\nHair: inherit selfie color/texture; long voluminous wavy blowout, center part, hair flowing back from face.\n\nOutfit: pale {argument name=\"dress color\" default=\"mint-blue\"} rib-knit sleeveless maxi dress, scoop neckline, ribbed texture, defined S-curve silhouette (+20% waist-hip emphasis).\n\nPose: sitting on weathered stone retaining wall, torso angled left; right hand holding white smartphone outward; left hand on thigh. White quilted shoulder bag beside subject.\n\nEnvironment: concrete parking lot with painted lines, white modern sedan mid-ground, sparse cherry blossom trees with dusty-rose blossoms behind.\n\nMood: serene breezy spring day. Palette: mint-blue, optic white, dusty rose, concrete grey.\n\nLighting: bright diffused overcast daylight (~5500K), low-moderate contrast, soft shadows on stone and ground.",
+    "title": "Cherry Blossom Parking Lot Portrait Prompt",
+    "description": "A highly detailed photorealistic portrait prompt for generating an image of a subject seated on a stone wall in a parking lot with cherry blossoms, emphasizing identity lock based on a selfie and specific technical camera settings (iPhone 17 Pro sim, 35mm, f/8).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778751348_owrxzi_HCrQ3N0aQAEQqOn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11528,
+    "content": "{\n  \"image_prompt\": {\n    \"meta\": {\n      \"aspect_ratio\": \"9:16\",\n      \"style\": \"0.5x mirror selfie, E-Girl bedroom chaos\"\n    },\n    \"subject\": {\n      \"description\": \"20-year-old E-Girl with an edgy, alternative vibe\",\n      \"face\": \"Looking at the phone screen through the mirror, sticking her tongue out slightly, heavy makeup, septum piercing\",\n      \"skin\": \"Sharp highlights from the phone flash, contrasting with the dark room\",\n      \"hair\": \"Messy space buns with colorful butterfly clips\",\n      \"pose\": \"Sitting cross-legged on a messy bed, holding a phone covered in anime stickers directly in front of her face, shooting into a full-length mirror\",\n      \"outfit\": \"Black pleated mini skirt, ripped fishnet tights, oversized black hoodie, chunky platform boots with silver chains\"\n    },\n    \"environment\": {\n      \"location\": \"A dark bedroom covered in posters\",\n      \"background_elements\": [\n        \"Ceiling lined with glowing purple and blue LED strip lights\",\n        \"Mirror frame covered in polaroids and sticker residue\",\n        \"Messy unmade bed with black sheets and stuffed animals\"\n      ]\n    },\n    \"lighting\": {\n      \"type\": \"Harsh Smartphone Flash + Ambient LED Strips\",\n      \"characteristics\": [\n        \"Flash starburst dominating the mirror reflection\",\n        \"Vignetted edges emphasizing the flash pop\",\n        \"Electric purple glow spilling into the shadows\"\n      ]\n    },\n    \"photography_style\": {\n      \"style\": \"TikTok era photo dump\",\n      \"camera_look\": \"Smartphone 0.5x ultra-wide lens, distorted leg proportions\",\n      \"imperfections\": \"Fingerprints and smudges on the mirror glass, digital grain, chaotic background\",\n      \"mood\": \"Rebellious, chaotic, digital-native, aesthetic\"\n    }\n  }\n}",
+    "title": "E-Girl Mirror Selfie Prompt (JSON Format)",
+    "description": "A highly structured JSON prompt for Gemini Nano Banana Pro, detailing an E-Girl mirror selfie scene. It specifies the subject's appearance, pose, outfit, environment (chaotic bedroom with LED lights), and photography style (0.5x ultra-wide lens, harsh smartphone flash) to achieve a rebellious, digital-native aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778725961_b579yo_HCqmCf0XYAAqZoE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11506,
+    "content": "{\n  \"prompt\": \"aesthetic mirror selfie of a young woman with long red hair lying on a white bed, wearing a red floral summer dress, soft natural sunlight streaming through window blinds creating warm highlights on her skin, elegant white ornate mirror frame, minimal cozy bedroom with a plant and wooden door in the background, glowing skin, soft makeup, relaxed pose, modern smartphone in hand, bright airy atmosphere, lifestyle photography, high detail, photorealistic\",\n  \"style\": \"natural light photography\",\n  \"lighting\": \"soft warm sunlight through window blinds\",\n  \"camera_angle\": \"mirror selfie perspective\",\n  \"composition\": \"subject lying across bed centered in ornate mirror frame\",\n  \"environment\": \"minimal bright bedroom with white bedding and houseplant\",\n  \"mood\": \"soft, calm, aesthetic\",\n  \"quality\": \"high detail, photorealistic, 4k\"\n}",
+    "title": "Aesthetic Mirror Selfie in Sunlight",
+    "description": "A prompt for generating an aesthetic, photorealistic mirror selfie of a young woman with long red hair lying on a white bed, captured with soft natural sunlight streaming through window blinds, creating a warm, cozy, and bright atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778713155_vp3q0v_HCqZazUaUAEW7tJ.jpg",
+      "https://cms-assets.youmind.com/media/1772778713168_nvl7xs_HCqZbGobUAAf67Z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11521,
+    "content": "{\n  \"photo_type\": \"Casual vacation selfie captured on an iPhone 16 Pro front camera with typical arm distortion and lens curvature\",\n  \"subject\": {\n    \"age\": \"Early 20s\",\n    \"body_type\": \"Young Woman, round breast shape, prominent projected profile, fuller bust measurement, large-breasted proportions, fuller chest frame, shapely upper silhouette, top-heavy silhouette, buxom figure, high waist-to-hip contrast, defined waistline, fuller glute measurement, curvy, prominent hips, rounded hip contour, curvy lower body, thick, powerful thighs, full thighs, push-up bra effect\",\n    \"description\": \"A young woman with an oval face shape, fair skin with warm undertones, and a buxom silhouette holding a smartphone for a self-portrait while standing in ocean water.\",\n    \"ethnicity\": \"NA\",\n    \"expression\": \"Slightly pouting, neutral yet confident gaze looking directly into the lens\",\n    \"gender\": \"Female\",\n    \"mirror_rules\": \"Not a mirror selfie, direct front-camera handheld capture\",\n    \"pose_description\": \"Upper body shot, standing in waist-deep water, one arm extended out of frame to hold the camera, torso slightly angled toward the camera to accentuate the figure\",\n    \"tattoos\": \"None visible\"\n  },\n  \"clothing\": {\n    \"bottom\": {\n      \"color\": \"White\",\n      \"details\": \"Matching bikini bottom partially submerged\",\n      \"fabric\": \"Ribbed texture\",\n      \"type\": \"Bikini bottom\"\n    },\n    \"fit_and_physics\": \"The bikini top is strained over a fuller chest, creating visible fabric tension and a push-up effect; wet fabric clinging slightly to the skin with realistic bunching at the seams.\",\n    \"outerwear\": {\n      \"color\": \"None\",\n      \"details\": \"None\",\n      \"fabric\": \"None\",\n      \"type\": \"None\"\n    },\n    \"shoes\": {\n      \"color\": \"None\",\n      \"details\": \"Submerged\",\n      \"fabric\": \"None\",\n      \"type\": \"None\"\n    },\n    \"top\": {\n      \"color\": \"Off-white / Cream\",\n      \"details\": \"Ribbed vertical patterns with thick decorative gold chain links as shoulder straps\",\n      \"fabric\": \"Textured ribbed synthetic swim fabric\",\n      \"type\": \"Triangle bikini top\"\n    }\n  },\n  \"hair\": {\n    \"color\": \"Dark brown, nearly black\",\n    \"interaction\": \"Gathered into a messy high bun with several loose, damp strands falling around the face and one long wet strand draping over the shoulder\",\n    \"style\": \"Thick, wavy hair tied up, looking damp from sea spray\"\n  },\n  \"face\": {\n    \"description\": \"Use the uploaded character reference image, keep all facial details 100% unchanged\",\n    \"eyebrows\": \"Well-defined, arched, and dark\",\n    \"eyes\": \"Almond-shaped with winged black eyeliner\",\n    \"lips\": \"Full, symmetrical lips with a soft pink matte finish\",\n    \"makeup\": \"Sunkissed look with soft blush on the cheeks, sharp eyeliner, and natural-looking mascara\"\n  },\n  \"skin_texture\": \"Natural skin with visible pores on the nose and cheeks, faint beauty marks, and a slight glossy sheen from the water and sun.\",\n  \"biological_featur",
+    "title": "Vacation Selfie of Buxom Woman in Ribbed Bikini",
+    "description": "An extremely detailed, structured JSON prompt for Gemini Nano Banana Pro to generate a casual vacation selfie taken with an iPhone 16 Pro front camera. The prompt meticulously describes the subject's body type (buxom, curvy), pose (standing in ocean water), clothing (ribbed off-white bikini with gold chain links), hair (messy high bun, damp strands), makeup, and skin texture, emphasizing photorealistic details and the physics of the strained fabric.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778720920_eul1wz_HCqMH2Wb0AAhYYu.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11487,
+    "content": "Using the uploaded selfie as strict face reference, keep identical facial features, hair, expression, and likeness. Create cute 3D Pixar-style avatar stickers: glossy 3D rendered cartoon character, soft lighting, depth with shadows, big sparkling eyes, chibi cute proportions, vibrant and fun. Generate multiple variations in one sheet - different poses, emotions like happy, cheeky wink, surprised - sticker format with clean edges and subtle border shadow, transparent background ready for use, high detail, 8K.",
+    "title": "Pixar-Style Avatar Stickers with Identity Lock",
+    "description": "A prompt for Gemini Nano Banana 2 to create cute 3D Pixar-style avatar stickers based on an uploaded selfie, strictly preserving facial features and likeness across multiple variations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778704108_u4aecf_HCps_4Aa0AAyxvJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11481,
+    "content": "A professional 3x3 grid layout of 9 high-quality portrait photos featuring a consistent character of a stunning young East Asian woman with long wavy dark hair and small silver earrings, wearing a black strapless tube top. Each grid cell shows a distinct and highly differentiated facial expression to ensure no repetition.\nThe 9 expressions are:\nTop Row: [{argument name=\"expression 1\" default=\"Gentle wink with a subtle smile\"}] | [{argument name=\"expression 2\" default=\"Wide teeth-showing joyful grin\"}] | [{argument name=\"expression 3\" default=\"Angry scowl with furrowed brows\"}].\nMiddle Row: [Playful wink with a cheeky tongue-out] | [Bursted loud laughter with closed eyes] | [Disgusted face with a wrinkled nose].\nBottom Row: [Naughty side-view with tongue sticking out] | [Ecstatic head-tilted laughter] | [Depressed downward gaze with a sad pout].\nTechnical Settings: Clean solid light grey background, soft studio high-key lighting, ultra-realistic skin texture with visible pores, 8k resolution, cinematic photography, shot on 85mm lens, f/1.8, hyper-detailed, masterpiece, photorealistic.”",
+    "title": "3x3 Grid Portrait Photos with Differentiated Expressions",
+    "description": "A highly specific prompt for generating a 3x3 grid layout of nine high-quality portrait photos of a consistent East Asian woman. The prompt mandates nine distinct and highly differentiated facial expressions, ranging from winks and smiles to scowls and laughter, while maintaining ultra-realistic skin texture and cinematic photography settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778701049_tbrno6_HCpnAB6bIAIFSr9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11574,
+    "content": "{\n  \"description\": \"A young woman taking a mirror selfie while kneeling on a pink yoga mat in a bright minimalist room. She is wearing a {argument name=\"outfit color\" default=\"light purple\"} sports bra and matching shorts with a wristband, her hair tied in a ponytail. A water bottle and dumbbells are placed on the wooden floor beside the mat. Natural light is coming through a large window, creating a soft and clean fitness atmosphere.\",\n  \"environment\": {\n    \"location\": \"indoor home workout space\",\n    \"lighting\": \"natural daylight from large window\",\n    \"floor\": \"wooden floor\",\n    \"background\": [\"standing mirror\", \"white sofa\", \"minimalist wall\"]\n  },\n  \"subject\": {\n    \"activity\": \"taking a mirror selfie during workout\",\n    \"pose\": \"kneeling on yoga mat and leaning forward\",\n    \"outfit\": \"light purple sports bra and shorts\",\n    \"hair\": \"brown ponytail\",\n    \"accessories\": [\"smartphone\", \"wristband\"]\n  },\n  \"objects\": [\n    \"pink yoga mat\",\n    \"dumbbells\",\n    \"water bottle\",\n    \"large mirror\"\n  ],\n  \"style\": \"fitness lifestyle, casual selfie, natural light\"\n}",
+    "title": "Mirror Selfie Yoga Prompt (Sadie Sink)",
+    "description": "A JSON prompt for generating a fitness lifestyle image of a young woman (Sadie Sink) taking a mirror selfie while kneeling on a pink yoga mat in a bright, minimalist indoor workout space.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778750011_44xztw_HCphZOHa0AAzykD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11485,
+    "content": "Create a high-fidelity photographic transformation. Maintain the exact facial identity from the provided source image with absolute precision and zero alteration.\n[SCENE]: A bright, warm-toned indoor setting, likely a home environment. The background is a soft, light-colored wall with abstract patterns of natural light and shadows, possibly from a window or nearby foliage, adding subtle depth. A glimpse of a blurred green plant or object is visible in the far right corner. The composition is an upper-body shot, captured in a portrait orientation, with the subject leaning slightly into the left side of the frame as she holds her phone. The entire scene is in sharp focus, without any background blur or bokeh.\n[SUBJECT]: An adult woman with a fair complexion, captured mid-selfie. Her dark brown hair is long and voluminous, styled with soft mermaid waves, prominent butterfly-style layers that frame her face and shoulders, and soft curtain bangs gently sweeping across her forehead. She is wearing a light pink button-up cardigan over a light grey ribbed knit bralette or top featuring a subtle cut-out and delicate strappy detail at the chest. Her right arm is slightly raised, holding a light purple smartphone with a triple camera array towards the camera, while her left shoulder is subtly lower, demonstrating natural weight shift. Her head is slightly tilted to her right (viewer's left), and her gaze is soft and direct, with subtle, natural-looking hazel contact lenses that blend with the natural eye color, adding warmth and depth. Her expression is serene and inviting, with a gentle, soft smile causing a slight micro-tightening at the outer corners of her eyes. Her lips are glossy, plump, and a natural pinkish-mauve with a subtle shimmer, slightly parted. Her brows are relaxed. Her skin is flawless and luminous, featuring a 'glass skin' texture with intense, dewy highlights on the bridge and tip of the nose, complemented by a subtle blush applied with high placement on the cheekbones.\n[LIGHTING]: Natural daylight with soft rosy undertones reflecting subtly on the skin, enhancing the natural blush tones. The clean white balance ensures true-to-life colors, with a soft highlight rolloff that prevents harshness.\n[AESTHETIC]: A hyper-realistic, ultra-sharp photograph taken on a modern smartphone, specifically an iPhone 15 Pro, characterized by its digital clarity. The image showcases realistic, digital texture with sharp details, including visible pores on the skin. There is minimal contrast, no HDR flattening, and no heavy color grading, preserving the soft pink warmth of the skin. ar 4:5",
+    "title": "High-Fidelity Photographic Transformation Selfie",
+    "description": "A highly detailed prompt for an image-to-image transformation, demanding absolute precision in maintaining the facial identity from the source image. The scene is a hyper-realistic selfie taken indoors, specifying detailed subject appearance (hair, clothing, makeup, contact lenses) and technical settings (iPhone 15 Pro clarity, glass skin texture, minimal contrast).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778703070_u98cda_HCpaCKVb0AABiCC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11467,
+    "content": "A cinematic monochrome portrait that keeps my real face exactly intact. I am shown in profile, leaning with ease against a smooth wall. My pose is relaxed yet graceful—head tilted slightly back, chin lifted, and eyes closed in a quiet moment of introspection. My left arm rests naturally, while my right arm bends gently to hold a clear glass tumbler at my waist.",
+    "title": "Cinematic Monochrome Portrait with Face Intact",
+    "description": "A prompt for generating a cinematic monochrome portrait that requires the AI to keep the user's face exactly intact (identity preservation). The subject is shown in profile, leaning against a wall with eyes closed, holding a clear glass tumbler, conveying a quiet moment of introspection.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778694276_kjweid_HCpNHD2aoAAMqWj.jpg",
+      "https://cms-assets.youmind.com/media/1772778694267_2nsanw_HCpNHFCbkAANYLC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11465,
+    "content": "A Realistic First Person (Pov) Selfie Taken With An Outside Arm, In The Same Clothes As In The Uploaded Photo.\nClose-up Of Me Hugging Tom, The Cartoon Gray Cat From Tom And Jerry, With A Small Smile (Jerry Can Be Looking Out Of My Shoulder Or My Pocket).\nPhotorealistic Environment: Studio Set, Office Interior, Warm Light, Props, Spotlights And Cables In The Background.\nTom Is A Strongly Stylized Toon 3d: Cel-shading, Multi-proportions, Clear Contour, No Realistic Fur, Not Live-action.\nOrganic: Zoom To The Chest, Contact Of Hugs, Single Light, Natural Shadows. 4k.natural shadows. 4k.",
+    "title": "First-Person Selfie Hugging Stylized Tom and Jerry",
+    "description": "A prompt requesting a hyper-realistic first-person POV selfie, where the user is hugging the cartoon character Tom. It specifies that Tom must be a strongly stylized 3D toon (cel-shaded, non-realistic fur), while the environment is photorealistic, including studio set details and warm lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778693970_ayj74k_HCpMQxha0AA7TAY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11520,
+    "content": "Black bikini + over-shoulder glow (tropical lawn vibe).",
+    "title": "Black Bikini Tropical Lawn Selfie Vibe",
+    "description": "A prompt designed to generate a tropical lawn selfie featuring a black bikini and an over-shoulder glow aesthetic. The user is instructed to copy the prompt from the ALT text, paste it into Gemini Nano Banana Pro, upload a photo, and generate the image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778720390_0qlr3m_HCpJ6RfbMAApKNl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11493,
+    "content": "{\n    \"scene_description\": \"A close-up, slightly high-angle shot of a young woman with voluminous curly hair posing for a video. She is leaning forward slightly, making a playful 'kissy face' expression. She wears a striking metallic chainmail halter top with fringe details. The lighting is warm and somewhat dim, creating a moody or intimate atmosphere.\",\n    \"time_of_day\": \"Indeterminate (Indoor)\",\n    \"weather_atmosphere\": \"Playful/Flirty/Warm\",\n    \"lighting\": {\n      \"source\": \"Artificial/Ambient\",\n      \"direction\": \"Front/Side\",\n      \"quality\": \"Warm, soft shadows\",\n      \"color_temp\": \"Warm Orange/Red tint\"\n    }\n  },\n  \"color_palette\": {\n    \"dominant_hex_estimates\": [\n      \"#8A5A4A\",\n      \"#D9C0A3\",\n      \"#2E3B28\",\n      \"#C0C0C0\"\n    ],\n    \"accent_colors\": [\n      \"Silver/Gold (Top)\",\n      \"Dark Green\"\n    ],\n    \"contrast_level\": \"Medium\"\n  },\n  \"composition\": {\n    \"camera_angle\": \"Eye-level / Slightly High-angle\",\n    \"framing\": \"Medium-close-up (Chest up)\",\n    \"depth_of_field\": \"Shallow (Background is blurred)\",\n    \"focal_point\": \"The subject's face and metallic top\"\n  },\n  \"objects\": [\n    {\n      \"id\": \"obj_001\",\n      \"label\": \"Subject\",\n      \"category\": \"Person\",\n      \"location\": \"Center\",\n      \"prominence\": \"Foreground\",\n      \"visual_attributes\": {\n        \"color\": \"Tan skin, Brown hair\",\n        \"texture\": \"Skin, Curly hair \n      },\n      \"micro_details\": [\n        \"Voluminous curly brown hair falling over right shoulder\",\n        \"Small black bindi on forehead\",\n        \"Glossy lips puckered in a kiss\",\n        \"Winged eyeliner visible\"\n      ],\n      \"pose_or_orientation\": \"Leaning forward, head tilted, facing camera\",\n      \"text_content\": \"null\"\n    },\n    {\n      \"id\": \"obj_002\",\n      \"label\": \"Chainmail Halter Top\",\n      \"category\": \"Clothing\",\n      \"location\": \"Upper Torso\",\n      \"prominence\": \"Foreground\",\n      \"visual_attributes\": {\n        \"color\": \"Silver/Gold Metallic\",\n        \"texture\": \"Chainmail/Rhinestone\",\n        \"material\": \"Metal/Crystal mesh\",\n        \"state\": \"Worn\",\n        \"dimensions_relative\": \"Small/Fitted\"\n      },\n      \"micro_details\": [\n        \"Halter neck chain strap\",\n        \"Deep cowl or draped neckline\",\n        \"Long metallic fringe hanging from the hem\",\n        \"Reflective surface catching the light\"\n      ],\n      \"pose_or_orientation\": \"Worn on torso\",\n      \"text_content\": \"null\"\n    },\n    {\n      \"id\": \"obj_003\",\n      \"label\": \"Skirt/Bottoms\",\n      \"category\": \"Clothing\",\n      \"location\": \"Lower Body\",\n      \"prominence\": \"Foreground (Partial)\",\n      \"visual_attributes\": {\n        \"color\": \"Dark Green\",\n        \"texture\": \"Fabric\",\n        \"material\": \"Silk or Velvet\",\n        \"state\": \"Worn\",\n        \"dimensions_relative\": \"Partial view\"\n      },\n      \"micro_details\": [\n        \"Waistband visible\",\n        \"Dark solid color contrasting with the bright t",
+    "title": "Close-up Portrait with Metallic Chainmail Top",
+    "description": "A highly detailed, structured JSON prompt describing a medium-close-up shot of a young woman with voluminous curly hair making a kissy face, wearing a metallic chainmail halter top with fringe details, under warm, moody lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778706311_p4mjvs_HCohiDmawAQUrnf.jpg",
+      "https://cms-assets.youmind.com/media/1772778706426_x0xehr_HCohiDsb0AAxCaI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11548,
+    "content": "{\n\"description\": \"A stylish young woman with long wavy red hair taking a selfie inside a small convenience store. She is wearing a light green ribbed sweater and a dark high-slit skirt with a wide belt. Her arm is raised holding a smartphone to capture the selfie. Behind her is a brick wall and a black door, while on the right side there is a yellow snack and drink refrigerator stocked with beverages and candies. The lighting is bright and indoor, giving the scene a casual yet fashionable vibe.\",\n  \"location\": \"convenience store\",\n  \"pose\": \"standing selfie pose with one arm raised holding a smartphone\",\n  \"appearance\": {\n    \"hair\": \"long wavy red hair\",\n    \"expression\": \"confident and slightly serious expression\",\n    \"outfit\": \"light green ribbed sweater with a dark high-slit skirt and wide belt\"\n  },\n  \"background\": {\n    \"wall\": \"red brick wall\",\n    \"objects\": [\n      \"yellow snack refrigerator\",\n      \"drink bottles and cans\",\n      \"glass fridge door\",\n      \"black door\"\n    ]\n  },\n  \"lighting\": \"bright indoor lighting\",\n  \"style\": \"fashionable casual selfie\"\n}",
+    "title": "Sadie Sink Selfie in a Convenience Store",
+    "description": "A structured prompt for generating a fashionable, casual selfie image of Sadie Sink inside a convenience store, detailing her outfit (green ribbed sweater, dark high-slit skirt), pose (holding a smartphone for a selfie), and the background elements (brick wall, snack refrigerator).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778736568_1q2911_HCoR_P3bgAAKrLr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11540,
+    "content": "Create a picture of business woman wearing a deep navy blue slim-fit suit with a crisp white shirt and patterned tie, positioned against a smooth monochromatic navy background. Soft cinematic side lighting, dramatic shadows, wide-angle framing, 8K resolution, full body shot.",
+    "title": "Business Woman in Navy Suit Portrait",
+    "description": "A prompt for generating a full-body portrait of a business woman wearing a deep navy blue slim-fit suit with a crisp white shirt and patterned tie. The scene uses a monochromatic navy background, soft cinematic side lighting, and wide-angle framing for an 8K resolution image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778732373_k09fka_HCnsqTIa8AE03ry.jpg",
+      "https://cms-assets.youmind.com/media/1772778732359_kfmof1_HCnsqZtaoAIabWO.jpg",
+      "https://cms-assets.youmind.com/media/1772778732473_9tpm1o_HCnsqWSawAIlkrP.jpg",
+      "https://cms-assets.youmind.com/media/1772778733148_ryky3n_HCnsqUyawAET7UZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11534,
+    "content": "(9:16) Raw high-fidelity photo, high-angle medium shot. iPhone 17 Pro simulation, 24mm wide-angle, f/2.8, sharp subject focus, authentic digital grain.\n\nScene: Subject fills ~65% of frame in crouching/kneeling pose. Upper 40% shows pitch-black night sky and dark marina water; lower 20% textured stone tile floor. Camera ~1.5m above subject angled downward.\n\nIdentity Lock: Inherit ALL facial features from the provided selfie (face shape, bone structure, eyes, nose, lips, skin tone, hair).\n\nPhotogenic Enhancements: Natural skin clarity with preserved texture, even tone, subtle luminosity, refined jawline shadows, gentle nasal highlight, soft cheekbone highlights, enhanced iris catchlights, natural lash separation, groomed brows, pearl-white teeth, salon-finish hair with controlled flyaways. Bio-fidelity with micro-pores, hydrated T-zone, faint vellus hair.\n\nExpression: Pensive neutral look. Gaze ~45° to mid-right off-camera. Slightly parted lips, relaxed brows, head tilted slightly right.\n\nHair: Inherit color/texture from selfie. Long sleek straight hair with center part falling behind shoulders. Strong flash highlights creating strand separation.\n\nMakeup: Glossy pink lips, clean foundation, winged black eyeliner, defined lashes, soft blush.\n\nAccessories: Thin gold chain necklace with small heart pendant, crystal-studded silver strap across left shoulder, gold bracelets/watch on left wrist.\n\nOutfit: Light grey rib-knit off-shoulder mini dress with long sleeves. White floral-lace tights. Dark slate-grey suede thigh-high boots. Realistic fabric tension and elbow/waist bunching; detailed lace skin interaction. Defined S-curve silhouette with enhanced waist–hip and leg geometry.\n\nPose: Torso and hips angled ~45° right. Head turned further right, looking off-camera. Low crouch on stone floor, arms relaxed forward with natural finger articulation.\n\nMood: Moody urban nighttime aesthetic. Palette: slate grey, optic white, onyx black, pale gold.\n\nLighting: Harsh direct flash (~6500K) from camera, bright skin highlights and deep shadows. High-contrast flash photography look.\n\nEnvironment: Night marina/waterfront — dark water with vertical dock light reflections, blurred white yacht mid-left, large textured grey stone tiles underfoot. Sharp subject shadows anchor to the ground.",
+    "title": "High-Fidelity Night Marina Flash Photo",
+    "description": "An extremely detailed prompt for generating a raw, high-fidelity photo simulating an iPhone 17 Pro flash shot at a night marina. It uses strict identity locking based on a provided selfie and specifies precise details regarding pose (low crouch), outfit (grey rib-knit mini dress, thigh-high boots), lighting (harsh direct flash), and environment (dark water, stone tiles).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778729298_1kemra_HCm6kBOXQAAZ9Ud.jpg",
+      "https://cms-assets.youmind.com/media/1772778729435_xr9dp1_HCm6kBQWkAAIlzL.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11537,
+    "content": "A high-resolution, cinematic portrait of a young woman with blonde hair styled in two thick Dutch braids. She has soft blue eyes, fair skin, and a neutral, serene expression. A few loose, wavy strands of hair frame her face. She is wearing an orange V-neck blouse with a small white polka-dot pattern. The background is a dark, textured charcoal gray wall with a shallow depth of field, creating a soft bokeh effect. Soft, natural daylight illuminates her face from the side, highlighting her features with a gentle glow.",
+    "title": "Cinematic Portrait of Woman with Braids",
+    "description": "A prompt for generating a high-resolution, cinematic portrait of a young woman with blonde hair styled in Dutch braids. It specifies her appearance (blue eyes, serene expression), outfit (orange polka-dot blouse), background (dark charcoal gray wall with bokeh), and lighting (soft, natural daylight from the side).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778731131_h4uv7f_HCm0AV4W0AAL8U3.jpg",
+      "https://cms-assets.youmind.com/media/1772778731286_f2mhmr_HCm0Ai1awAIJlKt.jpg",
+      "https://cms-assets.youmind.com/media/1772778731232_gp94vs_HCm0AoIW8AA9AeJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11558,
+    "content": "[\n  {\n    \"person_name\": \"Sadie Sink\",\n    \"nationality\": \"American\",\n    \"profession\": \"Actress\",\n    \"outfit_details\": {\n      \"top\": \"Yellow and green checkered corset with hook-and-eye closures\",\n      \"bottom\": \"Yellow plaid pleated mini skirt\",\n      \"accessories\": \"White fishnet tights, yellow socks, and light green platform heels\",\n      \"setting\": \"Bedroom with a wooden bed frame and pink bedding\"\n    },\n    \"hair_style\": \"Long wavy red hair\",\n    \"image_context\": \"Mirror selfie\"\n  },\n  {\n    \"person_name\": \"Sadie Sink\",\n    \"nationality\": \"American\",\n    \"profession\": \"Actress\",\n    \"outfit_details\": {\n      \"top\": \"Black corset with silver hook-and-eye closures\",\n      \"bottom\": \"Black pleated mini skirt\",\n      \"accessories\": \"White fishnet tights, yellow socks, and black patent leather platform heels\",\n      \"setting\": \"Bedroom with a wooden bed frame and pink bedding\"\n    },\n    \"hair_style\": \"Long wavy red hair\",\n    \"image_context\": \"Mirror selfie (Edited color)\"\n  },\n  {\n    \"person_name\": \"Dua Lipa\",\n    \"nationality\": \"British-Albanian\",\n    \"profession\": \"Singer-songwriter\",\n    \"outfit_details\": {\n      \"top\": \"Teal sleeveless crop top featuring a Hello Kitty graphic\",\n      \"bottom\": \"Pink and blue checkered mini shorts\",\n      \"accessories\": \"Pink knit arm warmers, white tights, and various colorful hair clips/stickers\",\n      \"setting\": \"Pink-themed bedroom with a canopy bed\"\n    },\n    \"hair_style\": \"Brown pigtails with colorful accessories\",\n    \"image_context\": \"Studio photography / Aesthetic portrait\"\n  },\n  {\n    \"person_name\": \"Sydney Sweeney\",\n    \"nationality\": \"American\",\n    \"profession\": \"Actress\",\n    \"outfit_details\": {\n      \"top\": \"Royal blue sleeveless crop top featuring a Hello Kitty graphic\",\n      \"bottom\": \"Matching blue mini shorts\",\n      \"accessories\": \"Pink knit arm warmers, yellow tights, and star-shaped hair clips\",\n      \"setting\": \"Pink room with soft lighting and a bed\"\n    },\n    \"hair_style\": \"Blonde high pigtails\",\n    \"image_context\": \"Studio photography / Aesthetic portrait\"\n  },\n  {\n    \"person_name\": \"Jenna Ortega\",\n    \"nationality\": \"American\",\n    \"profession\": \"Actress\",\n    \"outfit_details\": {\n      \"top\": \"Brown sleeveless crop top featuring a Hello Kitty graphic\",\n      \"bottom\": \"Green and pink checkered mini shorts\",\n      \"accessories\": \"Pink knit arm warmers with stickers, pastel choker, and star hair clips\",\n      \"setting\": \"Pink-themed bedroom environment\"\n    },\n    \"hair_style\": \"Dark hair in high pigtails with bangs\",\n    \"image_context\": \"Studio photography / Aesthetic portrait\"\n  }\n]",
+    "title": "Y2K Aesthetic Portraits of Celebrities (Sadie Sink, Dua Lipa, Sydney Sweeney, Jenna Ortega)",
+    "description": "A complex, multi-object prompt designed to generate five distinct images of four different celebrities (Sadie Sink, Dua Lipa, Sydney Sweeney, Jenna Ortega) in a highly specific Y2K aesthetic, detailing their outfits (checkered corsets, mini skirts, Hello Kitty tops), accessories (fishnet tights, arm warmers), and settings (pink-themed bedrooms, studio photography).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778740955_nqm15p_HCmz4qyW8AAoW-m.jpg",
+      "https://cms-assets.youmind.com/media/1772778740940_g3xoct_HCmz4qvW0AAYSRu.jpg",
+      "https://cms-assets.youmind.com/media/1772778741662_dzl9we_HCmz4qyWgAEukko.jpg",
+      "https://cms-assets.youmind.com/media/1772778741901_8xdazw_HCmz4tZawAcIDI5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11424,
     "content": "{\n \"description\": \"Ultra-realistic passport-size photo of me (exact face likeness, 99% match, no facial changes).\",\n \"style\": \"Professional studio portrait suitable for official ID or passport use.\",\n \"outfit\": \"as per uploaded pic\",\n \"expression\": \"Neutral closed-lip smile, straight look, both ears visible, shoulders included.\",\n \"lighting\": \"Even balanced front lighting, no harsh shadows, soft studio tone.\",\n \"background\": \"Plain light cream or light blue background, clean anduniform.\",\n \"composition\": \"Centered head and shoulder framing with natural proportions as per passport standards.\",\n \"output\": \"Generate 6 identical passp ort/ticket-size photos (3x2 grid layout vertical) on one sheet, evenly spaced, print-ready, high-resolution studio quality.\"\n}",
     "title": "Passport Photo Generator Prompt (JSON)",

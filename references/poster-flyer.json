@@ -20,6 +20,89 @@
     "needReferenceImages": false
   },
   {
+    "id": 11498,
+    "content": "A high-energy urban fantasy photograph of a person in streetwear standing in the center of a room. The person is wearing a denim jacket, wide-leg baggy dark jeans, a patterned bucket hat tilted down covering their face, and bright yellow sneakers. They are surrounded by a massive, swirling vortex of glowing blue water and electricity. Emerging from the water are several giant, aggressive Great White sharks made of liquid energy and glowing blue light, with sharp teeth and bioluminescent details. The lighting is cinematic, with the main subject cast in shadows while the vibrant neon blue glow of the water-sharks illuminates the room. High-quality digital art style, hyper-detailed liquid splashes, 8k resolution.\n​Key Elements for Customization\n​If you want to tweak the vibe, here are the specific levers you can pull:\n​The Subject: Swap \"denim jacket and baggy jeans\" for \"a techwear ninja outfit\" or \"a formal black suit\" to change the character's vibe.\n​The \"Summon\": Change \"Great White sharks\" to \"ethereal tigers,\" \"serpents,\" or \"dragons\" to get the same effect with different creatures.\n​Color Palette: Replace \"glowing blue\" with \"molten orange and fire\" or \"toxic green acid\" for a completely different elemental feel.\n​The Setting: The current background is a library/living room; you could change this to \"a rain-slicked city street at night\" or \"an abandoned warehouse.\"",
+    "title": "Urban Fantasy Summoning Scene with Liquid Sharks",
+    "description": "A prompt for generating a high-energy urban fantasy photograph of a person in streetwear surrounded by a swirling vortex of glowing blue water and electricity, from which giant, aggressive liquid Great White sharks emerge. The prompt includes customization options for the subject, creature, color, and setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778708799_lzg2wa_HCqU-B3aUAEaRbr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11476,
+    "content": "A dark, cinematic scene inside a moving train station or subway platform at night. a woman is standing in the same position on the platform, her body slightly turned away but her face looking directly toward the camera. she has long, wavy blonde bob hair gently moving in the wind. she is wearing a long dark trench coat. the train is passing fast behind her, creating strong motion blur. the wind from the moving train softly moves her hair and the fabric of her trench coat. in her hands, she is holding a bouquet of flowers. her expression feels calm, reflective, and slightly melancholic. the atmosphere is moody and poetic. low light, deep shadows, muted colors, cinematic realism. slow emotional moment, film grain, quiet intensity. --p gqqu8fy pi2kw4yi",
+    "title": "Cinematic Night Scene on Subway Platform",
+    "description": "A detailed prompt for a dark, cinematic scene on a subway platform at night. It focuses on a woman in a trench coat, capturing the motion blur of a fast-passing train behind her, the subtle movement of her hair and coat fabric, and a melancholic atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778698251_hoqmes_HCqLjCQaMAAS8C0.jpg",
+      "https://cms-assets.youmind.com/media/1772778698314_iayn1w_HCqLjKTasAAdlUY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11472,
+    "content": "Cinematic portrait of a women leaning his head on a vintage yellow CRT television showing static noise, intense gaze into the camera, dramatic orange sunset background, moody lighting, high contrast shadows, editorial fashion photography style, ultra realistic skin texture with orange oval sunglasses, warm color grading, shallow depth of field, film still look, 85mm lens, studio lighting, dark patterned shirt, cinematic composition, modern poster design, 4k, ultra detailed.",
+    "title": "Cinematic Portrait with Static CRT Television",
+    "description": "A prompt for a cinematic portrait of a woman leaning her head on a vintage yellow CRT television displaying static noise. The image emphasizes a dramatic orange sunset background, moody lighting, high contrast shadows, and an editorial fashion photography style with film grain and shallow depth of field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778695852_j8zips_HCpxOh7aYAEaj9E.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11523,
+    "content": "Create a 7-shot cinematic campaign sequence, and ensure the product is present in the 5th and final scenes.",
+    "title": "7-Shot Cinematic Campaign Sequence Prompt",
+    "description": "A prompt designed for the Nano Banana AI Image Generator & Editor (Pro) GPT to create a 7-shot cinematic campaign sequence. It requires uploading three character reference images and one product reference image, ensuring the product is visible in the fifth and final scenes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778722481_prmsac_HCpaJ6HW4AA_Mqq.jpg",
+      "https://cms-assets.youmind.com/media/1772778722446_dfh1lc_HCpaG43WIAAvOFw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11517,
+    "content": "a tiny fierce medieval knight aggressively battling a towering pink birthday cake with a sword, frosting explosions everywhere, ironic juxtaposition, heroic battle pose vs silly dessert, whimsical trendy illustration style, bold shapes, playful color palette, modern editorial illustration, slightly retro 70s graphic design influence, clean vector-like lines, vibrant colors, soft grain texture, centered composition, high detail, fun and humorous tone.",
+    "title": "Tiny Medieval Knight vs. Towering Pink Birthday Cake",
+    "description": "A whimsical and humorous prompt for Nano Banana Pro, generating an illustration of a tiny, fierce medieval knight aggressively battling a towering pink birthday cake with a sword. The prompt specifies an ironic juxtaposition, a whimsical trendy illustration style, and retro 70s graphic design influences.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778718952_q3nvjq_HCpKDQGWYAAUakD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11527,
+    "content": "Ultra-detailed vintage engraved illustration of Donald Trump in a dark tailored three-piece suit with a tie and pocket watch chain, wearing black leather gloves while lighting a cigarette with a metal lighter. His expression is serious and contemplative, head slightly tilted downward as the flame illuminates his face. The background features intricate steampunk-style mechanical diagrams, antique clockwork gears, and celestial navigation charts forming a complex circular pattern behind him. Dramatic chiaroscuro lighting, golden sepia tones, highly textured cross-hatching engraving style, Victorian-era etching aesthetic, extremely detailed line work, cinematic contrast, moody atmosphere, 8k detail, masterpiece illustration.",
+    "title": "Vintage Engraving of Donald Trump as a Gangster",
+    "description": "A prompt for generating an ultra-detailed vintage engraved illustration of Donald Trump in a dark suit, lighting a cigarette. The style is Victorian-era etching with steampunk elements in the background, featuring dramatic chiaroscuro lighting and golden sepia tones.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778724092_k7p2ec_HCo3i5nbgAAP_ZV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11477,
+    "content": "An abstract artwork of a ({argument name=\"character\" default=\"Joker\"}  with his weird smile, one hand on his chin), The artwork combines sketch-like lines with a watercolor splash effect in the background, featuring vibrant blues, yellows, and textured pink splashes. The style is expressive and artistic, with bold outlines, soft shading, and a focus on contrast and texture. Created in high definition, capturing every intricate detail and brushstroke",
+    "title": "Abstract Watercolor Joker Artwork",
+    "description": "A prompt for generating an abstract artwork of the Joker with his signature smile. The style combines sketch-like lines with a watercolor splash effect in the background, focusing on vibrant colors, bold outlines, and high contrast.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778699044_xhu9jf_HCoMsh0awAEqCVl.jpg",
+      "https://cms-assets.youmind.com/media/1772778699047_fhqz7u_HCoMsjgawAQK6KE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11484,
+    "content": "A Cinematic fashion portrait of an elegant young woman in a beautiful veteran dress, soft draped fabric, short tousled brown hair, glowing skin, dramatic makeup, warm golden lighting, standing in a dark moody studio. Motion blur ghost figures moving around her creating a surreal double-exposure effect, dreamy atmosphere, long exposure photography, shallow depth of field, high fashion editorial style, soft shadows, luxury aesthetic, film photography look, 85mm lens, ultra detailed, volumetric light, Vogue photoshoot style.",
+    "title": "Cinematic Fashion Portrait with Motion Blur Ghost Figures",
+    "description": "A prompt for a cinematic fashion portrait featuring an elegant young woman in a vintage dress. The key element is the surreal double-exposure effect created by motion blur ghost figures moving around her, set against a dark, moody studio with warm golden lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772778702893_issopo_HCm21t4awAUK_yK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11434,
     "content": "Create a technical infographic of  timeline poster of {argument name=\"product name\" default=\"[PRODUCT NAME]\"}. Use sharp ink lines and soft watercolor on textured paper.\nFeature a central hero illustration with handwritten years, arrows, notes, and small sketches showing design evolution and key milestones. Keep it clean, lively, colourful and strong contrast. Highly detailed, vertical portrait.\n\nVisual Concept\nA realistic photograph or photorealistic render combined with dense technical annotation overlays, exactly like an engineering, Pure white studio background.\n\nTitle Placement\nProduct name in English , bold font, inside a hand-drawn technical annotation frame (as in engineering blueprints), positioned in the upper corner.\n\nStyle & Layout\n• Very high information density • Annotations feel like an engineering / architectural sketch • Black lines — 70–80% of all graphics • Accent {argument name=\"brand color\" default=\"[BRAND COLOR]\"} — 20–30% (arrows, key zones, headings) • The realistic product remains fully readable • Educational, industrial-premium aesthetic • Small brand logo in the corner (in English)\n\nVisual Style\nMinimal technical illustration aesthetic: black linework over realistic imagery, precise, highly detailed, slightly hand-drawn, like professional technical manuals.\nColor Palette\nWhite background Black text and linework {argument name=\"brand color 2\" default=\"[BRAND COLOR]\"} used only for accents\nOutput\n9:16 Vertical portrait, 8K, highly detailed, Ultra-crisp image Social-feed optimized No watermark",
     "title": "Vintage Blueprint Timeline Infographic Poster Prompt",
