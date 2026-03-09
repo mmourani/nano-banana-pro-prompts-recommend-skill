@@ -13,6 +13,161 @@
     "needReferenceImages": true
   },
   {
+    "id": 11765,
+    "content": "3D in the style of Disney-Pixar, a man in fluorescent green glasses, a man focused but smiling, red hair in a large neon green knitted sweater, white trousers, gray concrete background in the background, warm cinematic lighting, high",
+    "title": "Disney-Pixar Style 3D Portrait of Man in Neon Sweater",
+    "description": "A prompt fragment for generating a 3D portrait in the style of Disney-Pixar, featuring a focused, smiling man with red hair, fluorescent green glasses, and a large neon green knitted sweater against a gray concrete background with warm cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038311500_ful8f0_HC7IQ9LWAAEbRtL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11828,
+    "content": "Title: Neon Wireframe 3D\n    \nReplace the element in brackets [ ] and create your own image!",
+    "title": "Neon Wireframe 3D Prompt Template",
+    "description": "A simple template prompt for Nano Banana 2 to generate a Neon Wireframe 3D image, instructing the user to replace the element in brackets to create their own image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038343969_y78d7m_HC6eD2EXcAEc7bp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11793,
+    "content": "Universal Random Punk Scene Generator\n\n1. PUNK_STYLE =\n   [{argument name=\"punk style\" default=\"Choose one punk aesthetic. If left blank, one style will be automatically selected at random from LIST_OF_PUNK_STYLES.\"}]\n\n2. LIST_OF_PUNK_STYLES =\n   [Steampunk, Dieselpunk, Atompunk, Cyberpunk, Biopunk, Nanopunk, Solarpunk, Decopunk, Clockpunk, Coalpunk, Raypunk, Stonepunk, Sailpunk, Cassettepunk, Teslapunk, Mythpunk, Sandalpunk, Oceanpunk, Frostpunk, Junglepunk, Desertpunk, Gothicpunk, Ironpunk, Crystalpunk, Rustpunk, Vaporwavepunk, Neonpunk, Skypunk, Aquapunk, Arborpunk, Astropunk, QuantumPunk, Mechanopunk, Technopunk, Retrocomputingpunk]\n\n3. SUBSTYLE =\n   • If a specific SUBSTYLE is provided → use it exactly as written.\n   • If SUBSTYLE is set to **none** → do not apply a substyle layer.\n   • If SUBSTYLE is left **blank** → automatically infer a logical SUBSTYLE based on the chosen PUNK_STYLE.\n\n4. TECHNOLOGY_LEVEL =\n   • If a specific TECHNOLOGY_LEVEL is provided → use it exactly as written.\n   • If TECHNOLOGY_LEVEL is set to **none** → do not apply a technology modifier.\n   • If TECHNOLOGY_LEVEL is left **blank** → automatically infer an appropriate technology level based on the chosen PUNK_STYLE.\n\n5. ENVIRONMENT =\n   • If a specific ENVIRONMENT is provided → use it exactly as written.\n   • If ENVIRONMENT is set to **none** → do not apply an environmental modifier.\n   • If ENVIRONMENT is left **blank** → automatically infer a logical environment based on the other active layers.\n\n6. CULTURE =\n   • If a specific CULTURE is provided → use it exactly as written.\n   • If CULTURE is set to **none** → do not apply a cultural modifier.\n   • If CULTURE is left **blank** → automatically infer a cultural framework appropriate to the world.\n\n7. ROOM_OR_SETTING =\n   [{argument name=\"room or setting\" default=\"IF BLANK: Generate a compelling location consistent with the active world layers.\"}]\n\n8. LIST_OF_OBJECTS =\n   [IF BLANK: Infer 4–6 logical objects belonging to the environment.]\n\n9. CAMERA_FRAMEWORK =\n   [IF BLANK: Infer the best cinematic framing for the environment.]\n\n10. LIGHTING_FRAMEWORK =\n    [IF BLANK: Infer lighting derived from the technology and environment.]\n\n11. MATERIAL_SYSTEM =\n    [IF BLANK: Infer dominant materials and structural systems derived from the style layers.]\n\n---\n\n### STYLE SELECTION DIRECTIVE\n\nIf **PUNK_STYLE is left blank**, randomly select **one style from LIST_OF_PUNK_STYLES** and apply it as the active world aesthetic.\n\nAll subsequent inference systems must use the chosen PUNK_STYLE.\n\n---\n\n### WORLD INTERPRETER ENGINE\n\nAnalyze all active layers:\n\nPUNK_STYLE\n\n* optional SUBSTYLE\n* optional TECHNOLOGY_LEVEL\n* optional ENVIRONMENT\n* optional CULTURE\n\nFrom these layers infer:\n\n• dominant materials\n• architectural forms\n• infrastructure systems\n• lig",
+    "title": "Universal Random Punk Scene Generator for Nano Banana Pro",
+    "description": "A comprehensive, structured prompt template designed for Nano Banana Pro to generate random or customized punk-style scenes. Users can define the specific punk style, substyle, technology level, environment, culture, room setting, objects, and camera/lighting frameworks, allowing for highly detailed and consistent world-building within the image generation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038326692_trp9sa_HC6MRAGbsAEZg6L.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11821,
+    "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"tool\": \"NanoBanana Pro\",\n      \"task_type\": \"historical_turkic_woman_horse_portrait\",\n      \"language\": \"en\",\n      \"priority\": \"highest\",\n      \"version\": \"v1.0_SNOW_TURKIC_WOMAN_HORSE_BOND\"\n    },\n\n    \"input\": {\n      \"mode\": \"text_to_image\",\n      \"notes\": \"Create a cinematic intimate portrait of a beautiful ancient Turkic woman standing close to her horse in a snowy landscape, sharing a quiet spiritual bond.\"\n    },\n\n    \"output_settings\": {\n      \"aspect_ratio\": \"4:5\",\n      \"orientation\": \"portrait\",\n      \"resolution_target\": \"ultra_high_res\",\n      \"num_images\": 1,\n      \"render_style\": \"cinematic_historical_realism\",\n      \"sharpness\": \"editorial_crisp\",\n      \"grain\": \"subtle_film\",\n      \"color_grade\": \"cold_natural_cinematic\",\n      \"dynamic_range\": \"natural_not_hdr\",\n      \"skin_rendering\": \"real_texture_no_retouch\"\n    },\n\n    \"scene\": {\n      \"environment\": \"snow-covered open steppe or mountain plain, soft winter haze, quiet white landscape, light snowfall in the air\",\n      \"lighting\": \"soft overcast winter daylight, delicate highlights on skin, hair, leather, and horse fur, realistic cold atmosphere\",\n      \"mood\": \"ancestral, tender, spiritual, noble, calm, unforgettable\"\n    },\n\n    \"subject\": {\n      \"description\": \"one beautiful ancient Turkic woman with a calm powerful presence\",\n      \"skin\": \"natural realistic skin texture with soft winter tone\",\n      \"hair\": \"long dark hair with old Turkic inspired braids, small beads and thread details woven into sections\",\n      \"makeup\": \"historically inspired subtle beauty styling, softly defined eyes with earth-charcoal tones, natural skin, muted lips, no modern glam finish\",\n      \"nails\": \"short natural nails appropriate for a historical old Turkic woman, no modern manicure\",\n      \"expression\": \"eyes gently closed or softly lowered, peaceful, strong, deeply connected to the horse\"\n    },\n\n    \"wardrobe\": {\n      \"outfit\": \"ancient Turkic winter attire with layered leather and wool garments, dark earth-toned shoulder armor, fur accents, practical yet noble nomadic clothing\",\n      \"materials\": \"aged leather, wool, felt, fur, braided cords, weathered metal details\",\n      \"styling\": \"authentic Central Asian steppe aesthetic, not fantasy cosplay, not medieval European\"\n    },\n\n    \"horse\": {\n      \"type\": \"strong dark horse with a broad face and white blaze markings\",\n      \"tack\": \"historically inspired decorated bridle with metal ornaments and weathered leather straps\",\n      \"anatomy\": \"realistic horse anatomy, calm noble temperament, winter coat detail\"\n    },\n\n    \"composition\": {\n      \"pose\": \"woman standing very close to the horse, forehead or face near the horse’s face, one hand gently holding the bridle and the other resting against the horse, intimate and protective posture\",\n      \"framing\": \"medium portrait with the horse’s head dominant in frame and the woman in side",
+    "title": "Cinematic Portrait of Ancient Turkic Woman and Horse in Snow",
+    "description": "A detailed JSON prompt for Nano Banana Pro to create a cinematic, intimate portrait of an ancient Turkic woman and her horse in a snowy steppe landscape, emphasizing historical realism, spiritual bonding, and a cold, natural cinematic color grade.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038340569_t4t7r7_HC6BbhXWwAAS8Oe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11814,
+    "content": "Fisheye lens photo captured from the perspective of the fish that's about to be eaten by a [seagull] (varies seegull)",
+    "title": "Fisheye Perspective of a Fish and Seagull",
+    "description": "A prompt for generating an image using a fisheye lens perspective, specifically from the viewpoint of a fish about to be eaten by a seagull.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038336183_pq5n61_HC5kXVbbsAI7dOZ.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11810,
+    "content": "Fisheye lens photo captured from the perspective of a mouse that's about to be captured by an owl",
+    "title": "Fisheye Perspective of a Mouse and Owl",
+    "description": "A simple prompt for generating an image captured with a fisheye lens from the perspective of a mouse that is about to be captured by an owl.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038334909_ths1o4_HC5coSZWMAA4m4u.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11822,
+    "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"tool\": \"NanoBanana Pro\",\n      \"task_type\": \"historical_turkic_warrior_woman_portrait\",\n      \"language\": \"en\",\n      \"priority\": \"highest\",\n      \"version\": \"v1.0_OLD_TURKIC_BLACK_HORSE_FACE_LOCK\"\n    },\n\n    \"input\": {\n      \"mode\": \"image_to_image\",\n      \"reference_image_usage\": \"maximum\",\n      \"preserve_identity\": true,\n      \"preserve_facial_features\": true,\n      \"notes\": \"Create a powerful cinematic portrait of a beautiful old Turkic noblewoman mounted on a black horse. The uploaded woman must remain the exact same person with maximum facial similarity. Keep the exact same face shape, eyes, eyebrows, nose, lips, jawline, chin, skin tone, and facial harmony. Do not turn her into a different girl. Adapt only the styling into an old Turkic steppe aesthetic with historically inspired beauty details.\"\n    },\n\n    \"output_settings\": {\n      \"aspect_ratio\": \"4:5\",\n      \"orientation\": \"portrait\",\n      \"resolution_target\": \"ultra_high_res\",\n      \"num_images\": 1,\n      \"render_style\": \"cinematic_historical_editorial\",\n      \"sharpness\": \"editorial_crisp\",\n      \"grain\": \"subtle_film\",\n      \"color_grade\": \"rich_natural_cinematic\",\n      \"dynamic_range\": \"natural_not_hdr\",\n      \"skin_rendering\": \"real_texture_no_retouch\"\n    },\n\n    \"scene\": {\n      \"environment\": \"open steppe landscape with distant mountains and expansive sky, historical Turkic nomadic atmosphere\",\n      \"horse\": \"majestic black horse with strong elegant build, dark mane, historically styled saddle and reins\",\n      \"lighting\": \"soft natural daylight with noble cinematic highlights on face, fur, metal ornaments, and horse\",\n      \"mood\": \"strong, regal, ancestral, feminine, magnetic, unforgettable\"\n    },\n\n    \"subject\": {\n      \"description\": \"one striking old Turkic noblewoman, mounted on a black horse, elegant and powerful\",\n      \"identity_rule\": \"the woman must remain the exact same person as the uploaded face reference\",\n      \"face\": \"exact same face, same eye shape, same eyebrow shape, same nose bridge and nose tip, same lip shape, same chin, same jawline, same cheek structure, same skin tone, same facial proportions\",\n      \"hair\": \"dark long hair styled in old Turkic inspired braids and sections, neat but slightly windswept, historically elegant and feminine\",\n      \"makeup\": \"beauty styling inspired by old Turkic women, refined and natural, softly defined eyes, subtle earth-toned contour, naturally tinted lips, no modern glam exaggeration\",\n      \"nails\": \"clean natural nails or softly groomed short nails appropriate for a historical old Turkic noblewoman, no modern acrylic look, no flashy modern manicure\",\n      \"expression\": \"calm, strong, captivating, proud, quietly commanding\"\n    },\n\n    \"wardrobe\": {\n      \"outfit\": \"luxurious old Turkic noblewoman attire with dark layered fabric, rich fur trim, fitted waist, structured historical silhouette, elegant nomadic warri",
+    "title": "Cinematic Portrait of Old Turkic Noblewoman on Black Horse (Image-to-Image)",
+    "description": "A highly specific JSON prompt for Nano Banana Pro using image-to-image mode. It instructs the model to create a powerful cinematic portrait of an old Turkic noblewoman mounted on a black horse, requiring 100% facial identity preservation from an uploaded reference image while adapting the styling to an authentic historical aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038340810_lksxsj_HC5K5yAWQAAHRln.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11791,
+    "content": "Fisheye lens photo captured from the perspective of the fish that's about to be eaten by a seagull",
+    "title": "Fisheye Perspective of a Fish",
+    "description": "A creative and humorous prompt for generating a fisheye lens photograph taken from the perspective of a fish that is about to be eaten by a seagull.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038324047_to891z_HC4xDTxb0AAyFyT.jpg",
+      "https://cms-assets.youmind.com/media/1773038323979_m5w4ay_HC4xDTvaYAA07PT.jpg",
+      "https://cms-assets.youmind.com/media/1773038324072_x8grz8_HC4xDTHXAAARUOc.jpg",
+      "https://cms-assets.youmind.com/media/1773038324772_7fhb5o_HC4xDTJW4AAwGgS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11746,
+    "content": "2x2 grid, do this for 4 Surrealist Painters (e.g. Dali, Magritte) <instructions>\n  input:   `{argument name=\"painter name\" default=\"Painter Name\"}`\n  Anchor:   `A dreamscape diorama of the artist holding a melting object (clock, apple), standing on a checkerboard floor that dissolves into clouds, defy-gravity physics::3.5`\n  Morphology:   `Fluid distortion, impossible geometry, stretching forms, dream logic, merging objects::3`\n  Material Physics:   `Liquid chrome, soft wax, floating clouds, glass, mirror surfaces::3`\n  Illumination:   `Strange desert twilight, long shadows, surreal color palette (cyan/orange)::1.5`\n  Render Stack:   `Digital surrealism, 3D render, smooth gradients, clean lines::1`\n  Negative:   `[Realistic, gritty, dirty, standard physics, rigid, boring]:: -1`",
+    "title": "Surrealist Painter Dreamscape Diorama Prompt Template",
+    "description": "A structured prompt template designed to generate surrealist dreamscape dioramas for specific painters, utilizing weighted components for anchor elements, morphology, material physics, and illumination to achieve a digital surrealism aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038302138_t3fkzs_HCr5DQbXQAEE-s2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11732,
+    "content": "Restore this old photo into portrait of DLSR - quality colour and detail, using an advanced upscaling algorithm comparable to the results from canon EOS R6 II. Ensure the restored the image looks natural, retains exact facial features, has great clarity",
+    "title": "Old Photo Restoration and Upscaling",
+    "description": "A prompt for restoring and upscaling an old, blurry picture into a flawless, high-quality portrait with DSLR-like color and detail, ensuring the retention of exact facial features and clarity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038295301_gz5ths_HC4MmAibsAAOEvP.jpg",
+      "https://cms-assets.youmind.com/media/1773038295229_xjmm7b_HC4Ml_kbEAAysLy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11764,
+    "content": "A close-up, abstract depiction of a sunflower against a dark background. The sunflower's center is a swirling vortex of deep blues and greens, surrounded by a textured, dark brown ring. Its petals are a vibrant, metallic gold, radiating outwards. Splashes and drips of bright yellow, cyan, and pink paint surround the sunflower, creating a dynamic and energetic effect. Small, dark blue, berry-like shapes are scattered amongst the lower petals and paint splashes. The overall style is reminiscent of impasto painting with a psychedelic twist.",
+    "title": "Psychedelic Impasto Sunflower Abstract",
+    "description": "A prompt for generating a close-up, abstract image of a sunflower with a swirling blue/green vortex center and metallic gold petals, rendered in an impasto painting style with dynamic splashes of bright, contrasting paint colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038311120_ew1dxs_HCpa1d3WQAAQKh2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11734,
+    "content": "{ \"task\": \"image_restoration_upscale\", \"positive_prompt\":\n\"Restore and enhance the provided image. Preserve original identity, facial structure, proportions and composition. High-fidelity photo restoration, ultra-realistic, natural skin texture, accurate details, professional photographic look. 4K output, sharp but natural focus, modern cinematic lighting, subtle volumetric lighting, professional color grading, depth of field, HDR. Shot on Arri Alexa, raw photo aesthetic, masterpiece.\",\n\"negative_prompt\": \"Creative reinterpretation, style change, identity alteration, face reshaping, exaggerated features, cartoonish, painting, illustration, over-sharpening, plastic skin, blur, noise, film grain, jpeg artifacts, distortion, bad anatomy, overexposed, underexposed, washed out colors.\", \"parameters\":\n{ \"steps\": 30, \"cfg_scale\": 6.5, \"denoising_strength\": 0.45,\n\"upscaler\": \"4x_NMKD_Siax_200k\", \"target_resolution\": \"4K\" } }",
+    "title": "Advanced Image Restoration and Upscale Prompt",
+    "description": "A structured prompt using JSON format for advanced image restoration and upscaling, specifying positive and negative prompts, and technical parameters like steps, CFG scale, and upscaler type to achieve an ultra-realistic, professional photographic look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038296541_5rr634_HC4FEF_bQAAy5xJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11818,
+    "content": "Make a photo of a rag doll that is half-peeled banana, which is also a terrifying Tyrannosaurus Rex serpent monster.",
+    "title": "Rag Doll Banana T-Rex Monster",
+    "description": "A creative and surreal prompt for generating an image of a terrifying monster that is a combination of a rag doll, a half-peeled banana, and a Tyrannosaurus Rex serpent.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038339321_qe4353_HC3Op_lawAAzC6q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11815,
+    "content": "A photo of a European man as a prehistoric shaman bonded with an eagle spirit, stern ancient face, milky eyes, hands near temples, bold tribal face paint, heavy fur cloak, eagle feathers and presence implied, dramatic sky lighting, powerful",
+    "title": "Prehistoric Shaman Bonded with Eagle Spirit",
+    "description": "A prompt for generating a photo of a European man depicted as a prehistoric shaman, featuring tribal face paint, a heavy fur cloak, and dramatic sky lighting, implying the presence of an eagle spirit.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038338010_3xtp1j_HC2pJ-XbwAA3rp5.jpg",
+      "https://cms-assets.youmind.com/media/1773038337835_ymu88j_HC2pKB_a0AAAG1N.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11761,
+    "content": "A close-up, abstract, and textured image features a stylized eye with a crescent moon in its pupil, set against concentric circles of yellow and green. The background is a distressed, weathered surface with vertical cracks and peeling paint in shades of brown, orange, and yellow, giving it an aged, rustic, or ancient artifact appearance. The overall mood is mysterious and somewhat unsettling.",
+    "title": "Abstract Eye with Crescent Moon and Distressed Texture",
+    "description": "A prompt for generating an abstract, close-up image of a stylized eye featuring a crescent moon in the pupil, set against a distressed, aged background with peeling paint and vertical cracks, creating a mysterious and unsettling mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038309598_8g15qe_HCxJc5AaUAEsUfT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11646,
     "content": "{\n  \"prompt_sections\": {\n    \"subject_and_pose\": \"A photorealistic image of a beautiful young Japanese woman with fair skin and an athletic full hourglass figure. She has long, platinum blonde, wavy hair cascading down her back, dark brown eyes, and is wearing defined makeup with a berry-colored matte lipstick and winged eyeliner. She is in a standing pose, turned 3/4 away from the camera, looking back over her left shoulder with a confident, alluring expression. Her left hand rests on the hilt of a katana sword, which is planted vertically on the floor.\",\n    \"outfit\": \"She is wearing a high-quality cosplay outfit resembling a stylized ninja or superhero costume (reminiscent of Emma Frost). The outfit consists of a form-fitting, white latex or wet-look bodysuit with a corset-style back. A bright white satin sash is tied around her waist, draped loosely over her hip. Accessories include white latex arm warmers/gauntlets, strappy white thigh garters on her right leg, and white thigh-high boots with a shiny finish.\",\n    \"environment\": \"The setting is a clean, modern interior living space. In the background, there are white walls and a large black-framed glass door. To the right, a green potted plant sits in a gold metal stand. To the left, a glimpse of a lounge chair is visible. The flooring is light-colored wood. The room feels like an upscale apartment or house.\",\n    \"lighting_and_shot\": \"The image is shot in high resolution with a medium focal length, capturing the subject from the mid-thighs up. The lighting is soft and diffused, likely a mix of ambient indoor light and a soft studio fill, creating smooth highlights on the latex outfit and skin. There are recessed lights visible in the ceiling, adding a subtle glow. The background is slightly out of focus (bokeh) to draw attention to the subject. --ar 3:4\"\n  }\n}",
     "title": "Japanese Woman in White Latex Superhero Costume",

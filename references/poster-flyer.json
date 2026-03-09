@@ -20,6 +20,58 @@
     "needReferenceImages": false
   },
   {
+    "id": 11753,
+    "content": "A high-resolution digital photo collage birthday poster on a teal background with torn paper top and bottom edges. It features four white-framed, photorealistic portraits of a smiling woman (use the uploaded photo as reference) with long dark hair wearing a bright orange turtleneck, illuminated by soft natural light. Each portrait capture different playful pose. The photos are arranged asymmetrically: two vertical on top, a horizontal one in the middle, and a vertical one on the bottom left. In the bottom right, a dark blue pinned rectangular sign reads \"Happy Birthday\" in elegant white cursive. The cheerful composition is accented with bright orange gerbera daisies scattered around the frames and borders. 4K, highly detailed.",
+    "title": "Digital Photo Collage Birthday Poster",
+    "description": "A prompt for creating a high-resolution digital photo collage birthday poster on a teal background, featuring four white-framed photorealistic portraits of a smiling woman in a bright orange turtleneck, arranged asymmetrically with decorative elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038304916_681xoq_HC6sSZkWcAAJyQt.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11749,
+    "content": "Ultra-realistic cinematic scene of a joyful woman standing in an open plaza releasing dozens of purple, gold, and white balloons into the sky forming the words “Happy Women’s Day”, bright sunlight, confetti floating in the air, vibrant festive atmosphere, editorial photography, 8k detail.",
+    "title": "Cinematic Scene for Happy Women's Day",
+    "description": "A prompt for generating an ultra-realistic cinematic scene of a joyful woman releasing balloons that form the words “Happy Women’s Day” into the sky, emphasizing vibrant festive atmosphere and editorial photography detail.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038303652_wk5r5m_HC5XyY-aMAE9nlL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11736,
+    "content": "[MAIN SUBJECT / THEME], explosive dynamic action pose, extreme perspective, dramatic foreshortening, a huge foreground element thrust toward the viewer, foreground element extremely large while the body rapidly shrinks into the distance, very strong near-big far-small scale relationship, wide-angle view, diagonal composition creating intense motion and visual tension, modern flat vector illustration, bold graphic design, geometric simplified forms, clean sharp vector edges, flat solid color blocks, no gradients, no texture, minimal linework, limited color palette with no more than three main colors, strong color blocking with high contrast, stylized graphic background shapes made of layered flat geometric forms, motion lines emphasizing speed and impact, contemporary editorial advertising illustration style, high-impact graphic poster aesthetic, no text, no typography, no letters, no logo",
+    "title": "Dynamic Perspective Flat Vector Illustration",
+    "description": "A prompt for creating a high-impact, dynamic flat vector illustration using extreme perspective and foreshortening, emphasizing geometric forms, limited color palette, and a high-contrast graphic poster aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038297924_ju3yt4_HC4QzEnbwAAnuU-.jpg",
+      "https://cms-assets.youmind.com/media/1773038297844_a15h6d_HC4QycQboAAp_WO.jpg",
+      "https://cms-assets.youmind.com/media/1773038297936_bdtsv2_HC4Qq_ZbQAAs9p3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11809,
+    "content": "A dramatic digital painting portrait composition featuring two powerful subjects in a bold graphic art style. The scene uses a high-contrast palette dominated by black, white, deep red, and vibrant yellow paint strokes forming an expressive abstract background. On the left, a young woman is shown from the shoulders up, looking slightly upward with a strong, determined expression. Her face is rendered in monochrome grayscale with smooth yet painterly shading, emphasizing sharp cheekbones, defined lips, and reflective eyes gazing toward the sky. Her medium-length hair flows naturally around her face with soft strands catching subtle highlights. The lighting is cinematic and directional from above, creating dramatic shadows under the jawline and nose, giving the portrait a heroic and inspirational mood. On the right side, a young athletic man stands in a three-quarter body view wearing a fitted dark t-shirt and jeans. His physique is muscular and natural, with visible arm definition. He also looks upward with a calm but resolute expression, symbolizing ambition and determination. His face and body are rendered in grayscale realism with bold brush textures, while the background explodes with dynamic vertical paint streaks and abstract strokes of red, yellow, and black. The brushwork appears energetic and expressive, resembling modern poster art or street-style digital illustration. The composition balances realism and painterly abstraction, with sharp facial detail contrasted against rough expressive background strokes. Ultra-high detail, cinematic lighting, dramatic contrast, textured brush strokes, modern digital painting, heroic portrait style, inspirational mood, high resolution, 8k quality, sharp focus, studio-quality rendering.",
+    "title": "Dramatic Digital Painting Portrait of Two Subjects",
+    "description": "A detailed prompt for generating a dramatic digital painting portrait featuring a young woman and a young man in a bold graphic art style. The prompt specifies a high-contrast palette of black, white, deep red, and vibrant yellow, focusing on cinematic lighting, expressive brushwork, and high resolution for a heroic and inspirational mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038334251_ea4c1t_HC3IktMbwAABoc6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11824,
+    "content": "Ultra-realistic cinematic wide shot, 35mm anamorphic lens, f/2.8, 8K resolution. Use uploaded face as reference-100% identical facial features, bone structure, natural skin tone, and expression. No modifications, brightening, smoothing, or distortion. A man walks confidently in slow-motion away from a massive fireball explosion behind him, never looking back. He wears a tailored black three-piece suit with loosened tie, white dress shirt with rolled sleeves, polished oxford shoes. Hair windswept, expression cool and fearless. Background: industrial warehouse complex engulfed in orange and yellow flames, debris flying through air, smoke billowing upward. Golden hour lighting from explosion creates dramatic rim light and long shadows. Sparks and embers float past camera. Hyper-detailed fabric textures, suit wrinkles, skin micro-details, ash particles. Epic action-hero mood with warm cinematic color grading, high contrast, Michael Bay aesthetic. No text, no watermarks. Image size 9:16 acpact ratio",
+    "title": "Action Hero Walking Away from Explosion Prompt (Image-to-Image)",
+    "description": "An ultra-realistic cinematic prompt for Nano Banana Pro requiring the use of an uploaded face reference to generate an action scene. The scene features a man in a tailored suit walking confidently away from a massive fireball explosion in an industrial warehouse, emphasizing dramatic lighting, hyper-detail, and a Michael Bay aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038342081_gp5v5l_HC2zhmAbkAAQKb-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 11667,
     "content": "Ultra-detailed, high-contrast digital portrait of a young man looking slightly upward with a determined and thoughtful expression. Realistic grayscale face with sharp facial features, textured skin, short dark hair, and light stubble. Dramatic cinematic lighting with strong shadows emphasizing facial contours and jawline. Background split into bold abstract brush textures with vibrant {argument name=\"background color 1\" default=\"red\"} on one side and bright {argument name=\"background color 2\" default=\"yellow\"} on the other, creating a powerful, modern poster aesthetic. Painterly strokes, gritty artistic style, high detail, sharp focus, cinematic composition, editorial art, modern political or motivational poster style, 4K quality, dramatic contrast, minimal clothing visible, centered composition, intense mood.",
     "title": "Dramatic Grayscale Portrait with Abstract Background",

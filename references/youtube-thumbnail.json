@@ -1,5 +1,15 @@
 [
   {
+    "id": 11805,
+    "content": "Cinematic close-up of a confident young woman with long dark hair, bold playful expression playfully sticking out her tongue, piercing gaze, wearing a thick ribbed {argument name=\"beanie color\" default=\"neon-green\"} beanie, dark jacket, dramatic cloudy sky over Korean-style mountains and valley road in late autumn, moody atmosphere, volumetric god rays, shallow depth of field, epic composition, hyper-detailed face, professional color grading like a K-drama poster, ultra realistic, 16k, shot on Arri Alexa --ar 9:16 --v 6 --stylize 100",
+    "title": "Cinematic Close-up of Woman with Neon Beanie",
+    "description": "A detailed cinematic image generation prompt for Google Gemini Nano Banana Pro 2, describing a close-up portrait of a confident young woman with a bold expression, wearing a neon-green beanie and dark jacket, set against a dramatic cloudy sky over Korean-style mountains, aiming for an ultra-realistic K-drama poster aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773038332441_l4t4cq_HC4LqaVX0AAEW8P.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11663,
     "content": "Title:\n【Gilgamesh Nova of Revolution: Celestial Resonance】\n\nChopin's Revolutionary Etude\nGrand Muse Descends",
     "title": "Chopin's Revolutionary Etude Image Prompt",
