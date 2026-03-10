@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-03-10T02:37:19.792Z",
-  "totalPrompts": 11044,
+  "totalPrompts": 11074,
   "categories": [
     {
       "slug": "profile-avatar",
@@ -72,7 +72,7 @@
       "slug": "defense-tech",
       "title": "Defense Tech",
       "file": "defense-tech.json",
-      "count": 15
+      "count": 45
     },
     {
       "slug": "technical-diagram",
