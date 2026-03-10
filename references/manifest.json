@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-03-10T02:37:19.792Z",
-  "totalPrompts": 11089,
+  "totalPrompts": 11104,
   "categories": [
     {
       "slug": "profile-avatar",
@@ -84,6 +84,12 @@
       "slug": "system-diagrams-light",
       "title": "System Diagrams Light",
       "file": "system-diagrams-light.json",
+      "count": 15
+    },
+    {
+      "slug": "defense-proposal-visuals",
+      "title": "Defense Proposal Visuals",
+      "file": "defense-proposal-visuals.json",
       "count": 15
     }
   ]

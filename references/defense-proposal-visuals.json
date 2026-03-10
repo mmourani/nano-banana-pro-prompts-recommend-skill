@@ -1,0 +1,122 @@
+[
+  {
+    "id": 93001,
+    "title": "Defense Proposal Visual, Border Surveillance Sensor Coverage Map",
+    "description": "Infographic-style sensor coverage map showing radar, EO towers, and ground sensors deployed along a border with overlapping detection zones.",
+    "content": "Clean infographic-style defense concept diagram on white background showing a border surveillance network with radar towers, EO camera towers, and ground sensors deployed along a border line. Colored semi-transparent coverage zones illustrate radar detection rings and EO observation cones. Overlapping coverage areas highlighted in blue and teal gradients. Arrows show communication links to a central command center. Flat vector style with clear icons, minimal text labels, and clean geometric layout designed for capability presentations and tender proposals, high-resolution presentation graphic.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 93002,
+    "title": "Defense Proposal Visual, Layered Air Defense Bubble Visualization",
+    "description": "Infographic-style layered air defense concept diagram showing inner, mid-range, and outer defense rings protecting a high-value area.",
+    "content": "Clean infographic-style defense concept diagram on light grey background showing a layered air defense system. Three concentric semi-transparent rings illustrate standoff, mid-range, and close-in defense layers labeled with system type indicators. Threat vectors shown as incoming arrows intercepted at each layer. Icons for surface-to-air missile batteries, radar stations, and command nodes placed around the rings. Teal and blue gradient fills on defense zones, red threat arrows, white background with subtle grid overlay. Flat vector style, clean geometric layout, minimal text labels, presentation slide quality for defense tenders and capability briefings.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 93003,
+    "title": "Defense Proposal Visual, Counter UAS Defense Coverage Layers",
+    "description": "Infographic-style counter-UAS layered defense diagram showing detection, classification, and defeat zones around a protected perimeter.",
+    "content": "Clean infographic-style counter-UAS concept diagram on white background. Three concentric coverage zones labeled detect, classify, and defeat arranged around a protected facility icon at center. Outer detection ring shows RF sensor and radar icons with semi-transparent blue coverage overlay. Middle classification ring shows AI classification node and optical sensor icons with teal overlay. Inner defeat zone shows soft-kill jammer icons with orange boundary highlight. Small drone icons shown approaching from multiple directions, neutralized at the defeat boundary. Flat vector icons, clean sans-serif labels, blue and teal palette, defense proposal presentation quality.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 93004,
+    "title": "Defense Proposal Visual, ISR Mission Data Flow Pipeline",
+    "description": "Infographic-style ISR mission data flow diagram showing collection tasking, sensor operation, data processing, analysis, and dissemination stages.",
+    "content": "Clean infographic-style ISR mission lifecycle diagram on white background. Horizontal pipeline layout with five labeled stages connected by bold directional arrows: Collection Tasking, Sensor Operation, Data Processing, Intelligence Analysis, and Dissemination. Each stage shown as a labeled icon card with relevant sub-icons including drone platform, processing server, analyst workstation, and command terminal. Color-coded stage cards using blue, teal, and grey gradient fills. Feedback loop arrow from Dissemination back to Tasking shown as a curved return line. Flat vector style, minimal text, presentation slide quality for ISR capability briefings and proposals.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 93005,
+    "title": "Defense Proposal Visual, Integrated Coastal Surveillance Network Map",
+    "description": "Infographic-style coastal surveillance concept map showing shore-based radar, AIS, patrol vessels, and maritime operations center with coverage zones.",
+    "content": "Clean infographic-style coastal surveillance concept map on light grey background. Stylized coastline baseline with sea area below and land area above. Shore assets shown as labeled vector icons along the coastline: coastal radar towers with blue semi-transparent radar sweep arcs, AIS receiver stations, EO camera towers with observation cone overlays, and VHF antenna icons. Sea area shows patrol vessel icons with labeled comms links to shore. Maritime patrol aircraft icon with data link arc. Central maritime operations center icon on land with connecting lines to all shore assets. Blue and teal coverage zones, clean flat vector style, high-resolution capability presentation graphic.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 93006,
+    "title": "Defense Proposal Visual, Multi Domain Defense Architecture Overview",
+    "description": "Infographic-style multi-domain defense concept diagram showing land, sea, air, space, and cyber domains connected through a unified command layer.",
+    "content": "Clean infographic-style multi-domain defense architecture diagram on white background. Five domain segments arranged around a central unified command node: Land domain with armored vehicle and ground radar icons, Sea domain with vessel and coastal sensor icons, Air domain with aircraft and UAV icons, Space domain with satellite icon, and Cyber domain with network shield icon. Each domain shown as a labeled arc segment in a different teal or blue shade. Connecting lines from all domains converge at the central command node labeled Joint Operations Center. Data flow arrows show sensor feeds flowing inward and command signals flowing outward. Flat vector style, blue and teal palette, clean presentation quality.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 93007,
+    "title": "Defense Proposal Visual, National Operations Center Information Fusion Flow",
+    "description": "Infographic-style information fusion flow diagram for a national operations center showing multi-agency data inputs, fusion layer, and command outputs.",
+    "content": "Clean infographic-style information fusion flow diagram on light grey background. Vertical three-layer layout. Top input layer: labeled agency feed icons arranged in a horizontal row including border force, intelligence, cyber, law enforcement, and critical infrastructure monitors. Center fusion layer: prominent labeled fusion engine block with internal process labels for normalization, correlation, threat scoring, and common operating picture generation. Bottom output layer: labeled output nodes for command dashboard, analyst workstation, executive briefing portal, and inter-agency alert feed. Vertical arrows flowing from inputs through fusion to outputs. Blue and teal color coding, flat vector icons, presentation slide quality for national security capability proposals.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 93008,
+    "title": "Defense Proposal Visual, Smart City Security Platform Architecture Overview",
+    "description": "Infographic-style smart city security platform overview showing sensor inputs, analytics middleware, and city operations center outputs.",
+    "content": "Clean infographic-style smart city security platform diagram on white background. Horizontal three-column layout. Left input column: labeled sensor type icons including traffic cameras, environmental sensors, emergency call points, smart lighting nodes, and utility monitors. Center platform column: large labeled platform block with internal layers for data ingestion, AI analytics, GIS integration, and event management shown as stacked bands inside the block. Right output column: labeled city operations dashboard, mobile field responder app, and public alert system icons. Horizontal arrows from inputs through platform to outputs labeled with protocol types. Blue, teal, and grey palette, flat vector icons, executive proposal quality.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 93009,
+    "title": "Defense Proposal Visual, Police Unified Communications Network Concept Map",
+    "description": "Infographic-style police communications network concept map showing patrol units, radio infrastructure, and dispatch center connectivity.",
+    "content": "Clean infographic-style police unified communications network concept map on light grey background. Hub-and-spoke topology with dispatch and command center icon at center. Outer ring of field unit icons: patrol car, motorcycle unit, foot patrol officer, and mobile CCTV van, each connected to center by labeled communication links. Middle ring of infrastructure nodes: P25 radio tower, LTE base station, and microwave relay icons. Different colored connection lines indicating radio voice links in orange, data links in blue, and video links in teal. Clean flat vector icons, minimal text labels, consistent icon sizing, high-resolution police capability presentation graphic.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 93010,
+    "title": "Defense Proposal Visual, Drone Surveillance Mission Lifecycle Diagram",
+    "description": "Infographic-style drone surveillance mission lifecycle diagram showing planning, launch, patrol, detection, reporting, and recovery phases.",
+    "content": "Clean infographic-style drone surveillance mission lifecycle diagram on white background. Circular lifecycle layout with six labeled phase segments arranged around a central drone icon: Mission Planning, Pre-Flight and Launch, Patrol and Surveillance, Detection and Tracking, Reporting and Alerting, and Recovery and Debrief. Each phase shown as a labeled arc segment with a relevant flat vector icon. Arrows flowing clockwise around the circle connecting each phase. Color gradient from blue at planning through teal at patrol to orange at detection, returning to blue at recovery. Internal center circle shows live drone feed icon. Flat vector style, presentation slide quality for ISR and drone capability briefings.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 93011,
+    "title": "Defense Proposal Visual, Satellite Communications Network Architecture",
+    "description": "Infographic-style satellite communications network architecture showing ground terminals, satellite links, and connected command and field nodes.",
+    "content": "Clean infographic-style satellite communications network architecture diagram on light grey background. Satellite icon at top center with labeled orbital arc. Downward links from satellite to two ground station icons on left and right sides of diagram. Ground stations connected onward to labeled end node icons: command headquarters, mobile C4I vehicle, forward operating base terminal, maritime vessel, and airborne platform. Uplink and downlink arrows labeled with frequency band and data rate indicators. Blue signal arc lines from satellite to ground nodes. Teal connection lines from ground stations to end nodes. Flat vector style, clean geometric layout, defense communications proposal quality.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 93012,
+    "title": "Defense Proposal Visual, Mobile C4I Vehicle Network Integration Diagram",
+    "description": "Infographic-style mobile C4I vehicle integration diagram showing onboard systems, satellite uplink, radio networks, and connected field units.",
+    "content": "Clean infographic-style mobile C4I vehicle network integration diagram on white background. Vehicle silhouette icon at center with labeled onboard system callouts: command workstation, server rack, radio suite, VSAT terminal, and power system. Satellite arc rising from VSAT terminal upward to satellite icon and onward to rear HQ block at top right. Radio network extending left from vehicle to dismounted unit icons and supporting vehicle icons. Data network extending right to brigade network cloud and situational awareness platform icons. All connections labeled with protocol and link type. Blue satellite links, teal radio links, grey data links, flat vector style, defense tender presentation quality.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 93013,
+    "title": "Defense Proposal Visual, Coastal Radar Coverage Visualization Along Shoreline",
+    "description": "Infographic-style coastal radar coverage map showing overlapping radar sweep zones along a shoreline with gap analysis and recommended tower placement.",
+    "content": "Clean infographic-style coastal radar coverage visualization on light grey background. Stylized shoreline baseline with sea area shown as a soft blue-grey fill. Three radar tower icons placed along the shoreline, each emitting a semi-transparent blue radar sweep arc extending over the sea. Overlapping coverage zones shown as teal gradient where arcs intersect. Coverage gap areas highlighted with orange dashed outlines and labeled. Recommended additional tower placement shown as a dashed-border icon with a plus indicator. Distance scale bar at bottom. Minimal text labels, flat vector style, high-resolution tender proposal graphic suitable for coastal security capability presentations.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 93014,
+    "title": "Defense Proposal Visual, Critical Infrastructure Protection Monitoring Network",
+    "description": "Infographic-style critical infrastructure protection diagram showing site sensor nodes, secure communications links, and central monitoring platform with escalation outputs.",
+    "content": "Clean infographic-style critical infrastructure protection network diagram on white background. Five labeled site icons distributed across the diagram representing asset types: power substation, water treatment facility, fuel depot, government building, and data center. Each site icon shows a small sensor suite callout with camera, access control, and environmental monitor sub-icons. Secure communication links shown as labeled lines connecting each site to a central monitoring platform icon. Central platform block labeled with alarm management, event correlation, and asset health services. Escalation output nodes at right: security operations center icon, incident response team icon, and executive alert interface icon. Blue communication links, teal platform block, orange escalation links, flat vector style, proposal quality.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 93015,
+    "title": "Defense Proposal Visual, Integrated Emergency Response System Architecture",
+    "description": "Infographic-style integrated emergency response system overview showing multi-agency inputs, unified platform, and field responder outputs.",
+    "content": "Clean infographic-style integrated emergency response system architecture diagram on light grey background. Three-column layout. Left agency input column: labeled agency icons in a vertical stack including police, fire brigade, ambulance service, and civil defense, each with a communication link arrow pointing right. Center unified platform column: large labeled platform block with internal service layers for incident intake, dispatch engine, resource allocation, and GIS mapping shown as stacked horizontal bands. Right field output column: labeled output nodes including dispatcher workstation, mobile field app, CAD terminal, and public alert broadcast. Data flow arrows from left through platform to right outputs. Blue agency links, teal platform block, grey output links, flat vector icons, emergency services capability presentation quality.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  }
+]
