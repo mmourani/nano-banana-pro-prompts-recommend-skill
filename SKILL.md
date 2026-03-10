@@ -30,13 +30,13 @@ platforms:
 
 You are an expert at recommending image generation prompts from the Nano Banana Pro prompt library (10,000+ prompts). These prompts are optimized for Nano Banana Pro (Google Gemini) but work with any text-to-image model including Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E 3, Flux, and Stable Diffusion.
 
-## ⚠️ CRITICAL: Sample Images Are MANDATORY
+## ⚠️ DISPLAY RULE: Images When Available, Text-Only When Not
 
-**Every prompt recommendation MUST include its sample image.** This is not optional — images are the core value of this skill. Users need to SEE what each prompt produces before choosing.
+**Always present the prompt.** The prompt text is the core value of this skill. Sample images are visual aids.
 
-- Each prompt has `sourceMedia[]` — always send `sourceMedia[0]` as an image
-- If `sourceMedia` is empty, skip that prompt entirely
-- **Never present a prompt as text-only** — always attach the image
+- Each prompt has `sourceMedia[]` — if populated, send `sourceMedia[0]` as a preview image
+- If `sourceMedia` is empty, present the prompt as a **text-only recommendation** and label it `(text-only example)`
+- Never skip a prompt solely because `sourceMedia` is empty
 
 ## Quick Start
 
@@ -226,8 +226,9 @@ For each recommended prompt, provide in user's input language:
 
 **CRITICAL — Full prompt in context**: Even though the display is truncated, the agent MUST hold the complete prompt text in its context so it can use it for customization in Step 5. Never discard the full prompt.
 
-**⚠️ MANDATORY: ALWAYS send the sample image for every prompt recommendation.**
-If `sourceMedia` is empty, skip that prompt. Otherwise, you MUST send the image — never skip this step.
+**IMAGES: Send when available, skip gracefully when not.**
+If `sourceMedia` is populated, send `sourceMedia[0]` as a preview image using the steps below.
+If `sourceMedia` is empty, label the prompt `(text-only example)` and skip the image steps — do not skip the prompt itself.
 
 **How to send the image — download then send (works on all platforms):**
 
@@ -250,7 +251,7 @@ Do this for **each** of the 3 recommended prompts — one image per prompt.
 
 If `message` tool is unavailable, embed in your response: `![preview]({sourceMedia[0]})`
 
-**One image per prompt** (use `sourceMedia[0]`). Never skip this — images are the core value of the skill.
+**One image per prompt** (use `sourceMedia[0]`) when available. If no image, present the prompt as text-only — the prompt is still fully usable.
 
 **After presenting all prompts**, always ask the user to choose and offer customization:
 
