@@ -1,0 +1,122 @@
+[
+  {
+    "id": 90020,
+    "title": "Technical Diagram, Security Operations Center Architecture Board",
+    "description": "Dark slate layered concept board of a SOC platform, data ingestion and SIEM connectors on left, analytics and detection engine in center, analyst dashboard outputs on right. Layered swim-lane architecture board style.",
+    "content": "Flat vector enterprise architecture board, dark slate background. Security operations center platform layout. Left side: data ingestion layer with log aggregators, SIEM connectors, and API source blocks. Center: analytics platform with correlation engine, threat detection, and case management service blocks stacked vertically. Right side: SOC analyst dashboard interface and alert feed output blocks. Data pipeline arrows running left to right with labeled ETL and streaming steps. Consistent card sizes, minimal color palette of blue, teal, and grey on dark background. No decorative elements, layered architecture board quality, professional infographic style, 8K.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 90023,
+    "title": "Technical Diagram, Smart City Monitoring Platform High-Level Overview",
+    "description": "Light grey flat vector smart city platform high-level overview, field sensor network at top, processing and GIS middleware in center, city operations dashboard and mobile apps at bottom. High-level concept board style.",
+    "content": "Flat vector enterprise architecture board, light grey background. Smart city monitoring platform high-level overview. Top layer: field sensor network shown as labeled source blocks including environmental sensors, traffic cameras, and emergency call points. Middle platform layer: data ingestion service, event processing engine, GIS integration service, and analytics microservices arranged in a horizontal row inside a bounding container. Bottom application layer: city operations web dashboard, mobile responder application, and GIS map interface as labeled output cards. Directional arrows with labeled protocols between layers. Blue and grey color scheme, consistent grid layout. High-level platform overview board quality, no photorealism, no illustrations, 8K.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 90028,
+    "title": "Technical Diagram, Multi-Agency Command Platform Architecture Overview",
+    "description": "Dark navy flat vector multi-agency command architecture overview, four agency input nodes feeding a shared integration gateway, unified incident platform in center, agency dashboards on right. Clean layered system architecture board.",
+    "content": "Flat vector enterprise architecture board, dark navy background. Multi-agency command platform overview. Left side: four agency input nodes as color-coded labeled blocks representing police, fire, ambulance, and civil defense, each feeding into a shared secure integration gateway block. Center: unified incident management platform with shared event bus, GIS server, and common operating picture engine as labeled blocks inside a prominent container. Right side: agency-specific output interface blocks and a shared command dashboard. Secure data exchange labels on connection arrows. White and light blue text throughout. Clean layered system architecture board quality, no illustrations, no 3D, 8K.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 90029,
+    "title": "Technical Diagram, Government Operations Dashboard and App Ecosystem",
+    "description": "White background flat vector application architecture overview, API backend services in center, WebSocket and REST interfaces above, web dashboard, mobile agent, and admin portal as frontend output cards. Dashboard and app ecosystem board style.",
+    "content": "Clean flat vector enterprise application architecture board, white background. Government operations platform layout. Backend layer: API server, authentication service, and notification service as labeled blocks in a horizontal row. Interface layer above: WebSocket server and REST API gateway blocks. Frontend layer: three application target cards side by side labeled Web Command Dashboard, Android Mobile Agent, and Admin Portal, each with a brief feature subtitle. Data layer below backend: PostgreSQL, Redis cache, and file storage as labeled blocks. Arrows showing API call directions between layers. Consistent card sizing, blue and grey color scheme. Dashboard and app ecosystem board quality, no art, 8K.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 90016,
+    "title": "Technical Diagram, Enterprise Microservices and Data Layer Architecture",
+    "description": "Clean flat vector enterprise architecture diagram, five horizontal layers showing clients, API gateway, microservices grid, data stores, and infrastructure, dark navy or white background. Block diagram and proposal board style only. No garbled text, no photorealistic devices, no cinematic scene composition, no decorative concept art.",
+    "content": "Clean flat vector enterprise system architecture diagram, professional infographic style, dark navy or white background option, five horizontal layers stacked vertically. Top layer: external clients and UI interfaces as labeled rectangular blocks. Second layer: API gateway and load balancer. Third layer: microservices grid with named service boxes arranged in rows. Fourth layer: data stores with labeled database and cache blocks. Bottom layer: infrastructure and monitoring. Directional arrows showing data flow between layers. Crisp sans-serif typography, consistent card sizing, minimal color palette of blue, grey, and white. No illustrations, no photorealism, no 3D rendering, no garbled text. Looks like a Figma or Lucidchart architecture board. Proposal-grade quality, 8K sharp output.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 90017,
+    "title": "Technical Diagram, Adapter Pattern Integration Platform Diagram",
+    "description": "Four-column horizontal adapter pattern diagram, legacy systems to adapter layer to integration platform to output applications, white background, flat infographic style. Block diagram and proposal board style only. No garbled text, no photorealistic devices, no cinematic scene composition, no decorative concept art.",
+    "content": "Clean flat vector enterprise integration architecture diagram, white background, four-column horizontal layout. Column 1: legacy and third-party source systems as labeled rectangular blocks. Column 2: pluggable adapter layer with stacked adapter cards labeled by protocol such as REST, SOAP, MQTT, and SDK. Column 3: central integration platform with normalisation engine, event bus, and workflow manager blocks. Column 4: output applications and dashboards. Horizontal directional arrows between columns. Dashed borders on adapter column. Sans-serif labels, no garbled text, professional systems integrator proposal quality. No art, no 3D, no decorative icons. Purely structural architecture diagram, 8K sharp.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 90018,
+    "title": "Technical Diagram, Alarm Integration Platform With Adapter Framework",
+    "description": "Dark navy four-column architecture board connecting edge sensors through adapter layer to alarm platform middleware and mobile outputs. Block diagram and proposal board style only. No garbled text, no photorealistic devices, no cinematic scene composition, no decorative concept art.",
+    "content": "Flat vector enterprise architecture board, dark navy background, white and light blue text only. Four-column horizontal layout. Left column: sensor and VMS source layer with edge device blocks. Second column: adapter and protocol translation layer with stacked named adapter cards. Third column: central alarm management platform, largest block, containing microservices stack and data layer sections inside a single container. Right column: output applications including mobile agent app and web command dashboard. Clean dashed borders on input and adapter columns, solid border on platform column. Subtle directional horizontal arrows between columns. Professional government proposal quality, crisp typography, no illustrations, no 3D, no cinematic effects, no garbled text, block diagram style only, 8K.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 90019,
+    "title": "Technical Diagram, Public Safety Command and Control Architecture",
+    "description": "Light-theme flat vector public safety C2 platform diagram, input sources at top, event processing in middle, dispatcher and mobile output at bottom. Block diagram and proposal board style only. No garbled text, no photorealistic devices, no cinematic scene composition, no decorative concept art.",
+    "content": "Clean light-theme flat vector enterprise architecture diagram, white background with subtle dot grid. Public safety command and control platform layout. Top row: input sources shown as labeled blocks including radio CAD, GPS, and sensor feeds feeding downward. Middle section: event processing platform with incident workflow engine, dispatch engine, and alert routing blocks. Bottom row: output interfaces as labeled application cards for dispatcher workstation, mobile field units, and reporting portal. Labeled connection lines with protocol annotations. Consistent blue and grey color palette, crisp sans-serif fonts. Professional government systems proposal quality, flat infographic style, no illustrations, no photorealism, 8K.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 90021,
+    "title": "Technical Diagram, Police Surveillance System Integration Diagram",
+    "description": "White background flat vector integration diagram connecting CCTV, ANPR, body-worn cameras, UAV feeds, and access control through a central integration hub to control room outputs. Block diagram and proposal board style only. No photorealistic devices, no cinematic scene composition, no decorative concept art.",
+    "content": "Clean flat vector system integration diagram, white background. Police surveillance platform connecting multiple sensor types. Input sources shown as labeled rectangular blocks: CCTV cameras, ANPR readers, body-worn cameras, UAV video feeds, and access control. Central integration hub shown as a larger prominent block with normalisation and event routing internals labeled. Output layer: control room display system, mobile officer app, and evidence management platform as labeled application blocks. Horizontal data flow left to right with protocol labels on connecting arrows. Crisp typography, government proposal quality, no art, no 3D, flat infographic style, 8K.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 90022,
+    "title": "Technical Diagram, Real-Time Event Processing Platform With Message Bus",
+    "description": "Dark navy three-zone event-driven architecture diagram, event producers feeding a central message bus, microservices consuming below, data stores at the bottom. Block diagram and proposal board style only. No photorealistic devices, no cinematic scene composition, no decorative concept art.",
+    "content": "Flat vector enterprise event-driven architecture diagram, dark navy background. Three horizontal zones. Top zone: event producers as labeled blocks including IoT sensors, API clients, and webhook sources feeding into a central message bus block spanning the full width. Middle zone: microservices consuming from the bus, arranged in a horizontal row with labeled service tiles for enrichment, routing, alerting, and persistence. Bottom zone: data stores as labeled blocks including time-series database, hot cache, and object storage. Publish-subscribe arrows from bus down to services, write arrows from services down to stores. Consistent service box sizing, sans-serif white and blue labels, minimal color palette. No illustrations, professional architecture board quality, 8K.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 90024,
+    "title": "Technical Diagram, Incident Management and Alert Processing Workflow",
+    "description": "White background flat vector data flow diagram showing end-to-end incident lifecycle from sensor alert through processing pipeline to dispatcher and audit log output. Block diagram and proposal board style only. No garbled text, no photorealistic devices, no cinematic scene composition, no decorative concept art.",
+    "content": "Flat vector data flow diagram, white background. End-to-end incident processing lifecycle. Left side: alert input blocks from sensors and operators. Center: horizontal processing pipeline with labeled transformation boxes for ingestion, deduplication, enrichment, priority scoring, and assignment workflow connected by flow arrows. Inline state machine sub-diagram showing incident status nodes: Created, Assigned, In-Progress, Resolved, Closed connected by transition arrows. Right side: output blocks for dispatcher interface, mobile agent application, and immutable audit log. Clean sans-serif typography throughout, no garbled text. Blue and grey palette, professional systems documentation quality, no art, flat vector, 8K.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 90025,
+    "title": "Technical Diagram, Enterprise Middleware Bridge With Protocol Adapters",
+    "description": "Dark navy flat vector integration bridge diagram, legacy systems on left, middleware protocol translation in center, modern API consumers on right, bidirectional labeled arrows. Block diagram and proposal board style only. No photorealistic devices, no cinematic scene composition, no decorative concept art.",
+    "content": "Flat vector enterprise integration diagram, dark navy background. Horizontal adapter bridge architecture layout. Left column: legacy systems as labeled rectangular blocks including mainframe, ERP, SCADA, and database. Center column: middleware blocks stacked vertically showing protocol translation, message transformation, and API gateway. Right column: modern consumer applications and REST API clients as labeled blocks. Bidirectional arrows between columns with protocol labels such as JDBC, FTP, REST, and SOAP on each connection line. Clean grid alignment, white and light blue text on dark background. Professional integration platform proposal quality, no 3D, no art, 8K.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 90026,
+    "title": "Technical Diagram, Cloud Native Security Platform Microservices Layout",
+    "description": "White background flat vector cloud native security platform, external inputs at top, Kubernetes microservices grid in center, data layer below, cloud provider bounding container. Block diagram and proposal board style only. No photorealistic devices, no cinematic scene composition, no decorative concept art.",
+    "content": "Clean flat vector enterprise architecture diagram, white background. Cloud native security platform layout. Top row: external inputs as labeled blocks including threat feeds, SIEM connectors, and sensor APIs. Middle section: Kubernetes microservices grid with labeled service tiles for ingestion, detection, correlation, automated response, and reporting arranged in a two-row grid inside a Kubernetes bounding container. Bottom section: data layer with labeled storage blocks for events database, case management store, and audit log. Cloud provider infrastructure shown as a light outer bounding container. Service-to-service communication arrows, sans-serif typography, blue and grey palette, consistent card sizing. Proposal-grade infographic quality, 8K.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 90027,
+    "title": "Technical Diagram, Video Surveillance Data Platform With Analytics Layers",
+    "description": "Light grey flat vector surveillance data platform diagram, IP cameras and edge AI at input, analytics inference services in center, video archive and search index at storage layer. Block diagram and proposal board style only. No photorealistic devices, no cinematic scene composition, no decorative concept art.",
+    "content": "Flat vector system architecture diagram, light grey background. Video surveillance data platform. Input layer: labeled source blocks for IP cameras, NVR systems, and edge AI processing units. Ingestion layer: RTSP stream handler and metadata extractor blocks. Analytics layer: AI inference services as a horizontal row of labeled blocks for face recognition, object detection, and license plate reading. Storage layer: video archive, metadata database, and search index as labeled data store blocks. Output layer: operator search interface and alert dashboard as application blocks. Clean directional data flow arrows between layers. Professional infographic quality, no art, no photorealism, 8K.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 90030,
+    "title": "Technical Diagram, VMS and AI Analytics Integration Architecture",
+    "description": "Flat vector VMS and AI analytics integration diagram, VMS platforms on left, named SDK adapters in center-left, analytics middleware in center, alert dashboard outputs on right. Block diagram and proposal board style only. No photorealistic devices, no cinematic scene composition, no decorative concept art.",
+    "content": "Flat vector integration architecture diagram, light grey background. VMS and AI analytics integration platform. Left column: VMS platform source blocks labeled Milestone, Genetec, and Custom VMS. Center-left adapter column: VMS-specific SDK adapter cards stacked vertically with protocol labels MIP SDK, REST, and Configurable, bordered with dashed lines. Center platform column: analytics middleware block containing stream router, inference scheduler, and result handler service labels. Right column: output application blocks for alert dashboard and evidence management portal. Horizontal data flow left to right with labeled protocol arrows. Clean sans-serif labels, professional systems integrator diagram quality, no photorealism, no 3D, 8K.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  }
+]

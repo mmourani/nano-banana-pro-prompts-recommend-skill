@@ -19,7 +19,9 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const refsDir = join(__dirname, '..', 'references');
 const stampFile = join(refsDir, '.last-updated');
 
-const BASE_URL = 'https://raw.githubusercontent.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill/main/references';
+const BASE_URL =
+  process.env.NANO_BANANA_REFS_BASE_URL ||
+  'https://raw.githubusercontent.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill/main/references';
 const STALE_HOURS = 24;
 
 function isStale() {
