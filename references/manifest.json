@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-03-10T02:37:19.792Z",
-  "totalPrompts": 11074,
+  "totalPrompts": 11089,
   "categories": [
     {
       "slug": "profile-avatar",
@@ -78,6 +78,12 @@
       "slug": "technical-diagram",
       "title": "Technical Diagram",
       "file": "technical-diagram.json",
+      "count": 15
+    },
+    {
+      "slug": "system-diagrams-light",
+      "title": "System Diagrams Light",
+      "file": "system-diagrams-light.json",
       "count": 15
     }
   ]

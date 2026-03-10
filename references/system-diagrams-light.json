@@ -1,0 +1,122 @@
+[
+  {
+    "id": 92001,
+    "title": "System Diagram Light, Integrated Border Surveillance Network Topology",
+    "description": "Light-theme system architecture diagram showing integrated border surveillance infrastructure with radar towers, EO sensors, command center, and communication backbone.",
+    "content": "Clean light-theme system architecture diagram on white background showing an integrated border surveillance network. Diagram includes radar towers, EO/IR camera towers, ground sensors, communications relay nodes, and a central command center. Nodes connected with crisp network lines and labeled data flows. Flat vector style with thin dark typography and blue connection lines. Consistent geometric node icons, minimal color palette of blue, grey, and white. Designed for executive proposal slides and technical documentation, professional system-of-systems presentation aesthetic, 8K resolution.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 92002,
+    "title": "System Diagram Light, C4ISR Platform System of Systems Overview",
+    "description": "Light-theme executive overview diagram of a C4ISR platform showing sensor layer, processing layer, command layer, and communications backbone connecting all nodes.",
+    "content": "Clean light-theme system-of-systems overview diagram on white background. C4ISR platform layout showing four horizontal layers: sensor layer with ISR drones, radar, and EO nodes; data processing layer with fusion engine and correlation services; command layer with commander workstation and COC terminal; and communications backbone running vertically across all layers. Layer boundaries shown with subtle grey dividers. Nodes rendered as geometric icon-cards with dark labels. Blue and grey connection lines indicating data and command flows respectively. Flat vector style, consistent card sizing, crisp sans-serif typography, executive proposal slide quality, 8K resolution.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 92003,
+    "title": "System Diagram Light, ISR Drone Fleet Command and Data Architecture",
+    "description": "Light-theme network topology showing ISR drone fleet architecture with air vehicles, ground control stations, satellite relay, and mission data processing pipeline.",
+    "content": "Clean light-theme network topology diagram on white background showing ISR drone fleet command and data architecture. Air segment at top: multiple drone nodes arranged in a tactical formation pattern with labeled type icons. Ground segment in center: ground control station, satellite uplink terminal, and mission planning workstation as labeled geometric blocks. Data pipeline on right: video ingest, AI analytics engine, and mission data archive as a vertical processing stack. Satellite relay shown as a curved arc connecting air and ground segments. Crisp connection lines with labeled data rates and protocols. Thin dark sans-serif typography, blue highlights on active data flows, white background with subtle dot grid. Proposal-grade system-of-systems quality, 8K resolution.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 92004,
+    "title": "System Diagram Light, Coastal Maritime Surveillance System Architecture",
+    "description": "Light-theme coastal maritime surveillance network topology showing shore-based radars, AIS receivers, patrol vessels, and joint maritime operations center connectivity.",
+    "content": "Clean light-theme system topology diagram on white background showing coastal maritime surveillance architecture. Shore segment: labeled nodes for coastal radar towers, AIS receiver stations, EO/IR cameras, and VHF communications masts arranged along a stylized coastline baseline. Sea segment: patrol vessel icon-nodes with onboard sensor and comms labels. Air segment: maritime patrol aircraft node with data link arc to shore. Center hub: joint maritime operations center as the largest node with labeled internal systems. Crisp blue network lines connecting all nodes with labeled data flows. Flat vector style, minimal color palette of blue, grey, and white, executive documentation quality, 8K resolution.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 92005,
+    "title": "System Diagram Light, Counter-UAS Detection and Response Network",
+    "description": "Light-theme system diagram of a layered counter-UAS architecture showing detection sensors, classification engine, decision layer, and effector nodes.",
+    "content": "Clean light-theme system diagram on white background showing a layered counter-UAS detection and response network. Detection ring at outer edge: RF sensors, radar nodes, acoustic sensors, and EO cameras arranged in a circular perimeter topology. Classification layer inside: AI classification engine and track management service as labeled processing blocks. Decision layer center: threat assessment node with rules engine and operator override interface. Effector layer: soft-kill jammer nodes and alert broadcast system as output nodes. Radial connection lines from detection ring inward showing signal flow. Color coding: orange for detection, blue for data, red for effector commands. White background with subtle circular grid, flat vector style, professional proposal quality, 8K resolution.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 92006,
+    "title": "System Diagram Light, Smart City Operations Center Data Flow",
+    "description": "Light-theme smart city operations platform system diagram showing sensor network inputs, fusion and analytics middleware, and operations center outputs.",
+    "content": "Clean light-theme system data flow diagram on white background for a smart city operations center. Left input column: sensor network nodes labeled traffic cameras, environmental sensors, emergency call points, utility monitors, and smart lighting controllers. Center platform column: large labeled hub block containing data fusion engine, event correlation service, GIS integration layer, and AI analytics module as stacked internal cards. Right output column: operations center dashboard, mobile field application, and public alert broadcast system as output nodes. Horizontal data flow lines from inputs through platform to outputs, labeled with protocol and data type. Flat vector style, thin dark typography, blue connection lines, white background, executive proposal aesthetic, 8K resolution.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 92007,
+    "title": "System Diagram Light, Police Unified Communications Network Topology",
+    "description": "Light-theme unified communications network topology diagram showing radio, cellular, and broadband channels connecting dispatch, patrol units, and command.",
+    "content": "Clean light-theme network topology diagram on white background for a police unified communications platform. Node groups arranged in three rings. Outer ring: field unit nodes including patrol cars, motorcycle units, foot patrols, and CCTV vans, each with radio and LTE labels. Middle ring: communications infrastructure nodes including P25 radio towers, LTE base stations, and microwave relay sites. Center node: dispatch and command center as a large hub block with labeled CAD, radio dispatch console, and video wall systems. Connection lines showing voice, data, and video channels in different colors: orange for radio, blue for data, grey for command links. White background, flat vector style, consistent node card sizing, executive proposal quality, 8K resolution.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 92008,
+    "title": "System Diagram Light, Mobile C4I Vehicle Network and Satellite Links",
+    "description": "Light-theme system diagram of a mobile C4I vehicle showing onboard systems, satellite uplink, radio networks, and battlefield network integration.",
+    "content": "Clean light-theme system diagram on white background showing a mobile C4I command vehicle architecture and its network connections. Vehicle systems block in center: labeled internal subsystems including command workstation, server rack, radio suite, UPS, and cooling system shown as stacked cards inside a vehicle-shaped container. Satellite arc at top: VSAT terminal connecting to satellite node and onwards to rear HQ block. Radio network left: tactical radio nodes connecting to dismounted units and supporting vehicles. Data network right: encrypted data link to brigade network and situational awareness platform. All connections labeled with protocol and bandwidth. Flat vector style, crisp lines, white background, minimal blue and grey palette, professional defense tender quality, 8K resolution.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 92009,
+    "title": "System Diagram Light, Enterprise Video Analytics Platform Deployment",
+    "description": "Light-theme deployment architecture diagram for an enterprise video analytics platform showing edge AI nodes, central processing cluster, and operator interface layer.",
+    "content": "Clean light-theme deployment topology diagram on white background for an enterprise video analytics platform. Edge layer at top: camera nodes with embedded edge AI processors shown as distributed site clusters with labeled inference capabilities. Network layer: fiber and LTE transport links connecting edge sites to central platform. Central platform layer: on-premise server cluster with labeled processing nodes for video ingestion, deep learning inference, metadata indexing, and storage. Operator interface layer at bottom: command dashboard, investigation workstation, and mobile review app as labeled output nodes. Crisp blue data flow lines from edge inward, grey command lines outward to operators. White background with subtle dot grid, flat vector style, professional enterprise proposal quality, 8K resolution.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 92010,
+    "title": "System Diagram Light, Sensor Fusion and Common Operating Picture Layer",
+    "description": "Light-theme sensor fusion architecture diagram showing multi-source sensor inputs feeding a fusion engine that produces a common operating picture for command users.",
+    "content": "Clean light-theme architecture diagram on white background for a sensor fusion and common operating picture system. Left input column: diverse sensor source nodes labeled radar tracks, AIS data, drone video feeds, OSINT feeds, and unit position reports. Center fusion engine: large prominent block with labeled internal processes for data normalization, track correlation, intent assessment, and COP compilation. Right output column: common operating picture display nodes including command center map wall, commander tablet interface, and allied force data share link. Horizontal data flow lines from inputs through fusion engine to outputs. Orange input lines, blue COP output lines, grey command lines. White background, flat vector style, executive system-of-systems proposal quality, 8K resolution.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 92011,
+    "title": "System Diagram Light, Public Safety CAD and Dispatch Integration",
+    "description": "Light-theme system topology showing CAD platform integrations with radio dispatch, mobile data terminals, GIS, and inter-agency data sharing.",
+    "content": "Clean light-theme system topology diagram on white background for a public safety CAD and dispatch integration platform. Center block: CAD platform as the primary hub with labeled internal services including incident intake, resource allocation engine, and status tracking. Connected nodes radiating outward: radio dispatch console, mobile data terminals on patrol vehicles, GIS and mapping service, records management system, neighboring agency CAD for mutual aid, and public alert broadcast system. Connection lines labeled with integration type such as P25, REST API, CAD-to-CAD, and ESRI. White background, flat vector style, blue integration lines, consistent node card sizing, thin dark typography, professional government proposal quality, 8K resolution.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 92012,
+    "title": "System Diagram Light, Tactical Mesh Radio Network Node Diagram",
+    "description": "Light-theme mesh network node diagram showing tactical radio nodes, relay nodes, gateway to IP backbone, and dismounted user endpoints.",
+    "content": "Clean light-theme mesh network topology diagram on white background for a tactical radio network. Mesh node icons distributed across the diagram in an irregular tactical formation pattern. Node types differentiated by icon and label: manpack radio nodes, vehicle-mounted nodes, relay tower nodes, and a single gateway node bridging to IP backbone. Mesh links shown as crisp connecting lines between all neighboring nodes with signal strength labels. IP backbone connection shown as a separate thicker line from gateway node to rear network cloud icon. Coverage rings shown as faint circular overlays around relay nodes. White background, orange mesh links, blue IP backbone link, dark labels, flat vector style, professional defense network proposal quality, 8K resolution.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 92013,
+    "title": "System Diagram Light, Airside Surveillance and ATC Integration Topology",
+    "description": "Light-theme airside surveillance system topology showing surface movement radar, CCTV, ANPR, and ATC system integrations at an airport.",
+    "content": "Clean light-theme system topology diagram on white background for airside surveillance and ATC integration at an airport. Sensor layer nodes distributed around a stylized runway boundary outline: surface movement radar, perimeter CCTV cameras, ANPR readers at vehicle gates, and airfield lighting control nodes. Integration platform center block: airside surveillance management system with labeled internal services for track management, video integration, alarm handling, and ATC data bridge. Connected output systems: ATC tower workstation, airside operations center, security control room, and incident management system as labeled output nodes. Blue data lines from sensors to platform, grey command lines to outputs. White background with subtle runway grid overlay, flat vector style, executive aviation sector proposal quality, 8K resolution.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 92014,
+    "title": "System Diagram Light, National Security Operations Center Platform Overview",
+    "description": "Light-theme executive overview diagram of a national security operations center platform showing multi-agency data feeds, fusion layer, and command outputs.",
+    "content": "Clean light-theme executive overview system diagram on white background for a national security operations center platform. Multi-agency input nodes at top arranged in a horizontal row: intelligence agency feed, border force data, critical infrastructure monitors, cyber threat feed, and law enforcement alerts, each as labeled icon-cards. Fusion and analytics layer in center: large prominent platform block with labeled internal services including multi-source fusion, threat assessment engine, predictive analytics, and case management. Command output nodes at bottom: national command dashboard, analyst workstation, inter-agency alert distribution, and executive briefing portal. Vertical data flow lines from top inputs through platform to bottom outputs. White background, blue data flows, orange classified input feeds, grey command outputs, flat vector style, highest-tier government proposal quality, 8K resolution.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  },
+  {
+    "id": 92015,
+    "title": "System Diagram Light, Critical Infrastructure Monitoring and Alarm Network",
+    "description": "Light-theme critical infrastructure monitoring network diagram showing site sensor nodes, secure communications links, central monitoring platform, and escalation outputs.",
+    "content": "Clean light-theme network topology diagram on white background for a critical infrastructure monitoring and alarm system. Site nodes distributed across the diagram representing infrastructure asset types: power substation, water treatment facility, fuel depot, government building, and data center, each as labeled icon-cards with onboard sensor suite labels. Secure communications links: each site node connected via encrypted MPLS or 4G LTE link shown as labeled lines to central hub. Central monitoring platform: large labeled block containing alarm ingestion, event correlation, asset health dashboard, and escalation engine services. Escalation output nodes: security operations center, incident response team, and executive alert interface. White background, orange alarm lines, blue data links, flat vector style, professional critical infrastructure proposal quality, 8K resolution.",
+    "sourceMedia": [],
+    "needReferenceImages": false
+  }
+]
